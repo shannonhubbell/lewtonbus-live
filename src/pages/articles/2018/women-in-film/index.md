@@ -1,0 +1,46 @@
+---
+title: "Women in Film: ZERO DARK THIRTY And The Compromises We Make"
+pubDate: "2018-06-21"
+categories: 
+  - "editorials"
+tags: 
+  - "jessica-chastain"
+  - "kathryn-bigelow"
+  - "women-in-film"
+  - "zero-dark-thirty"
+description: "Our Women in Film series continues with a retrospective look at Kathryn Bigelow's masterpiece ZERO DARK THIRTY"
+id: 8699
+slug: "women-in-film"
+authors:
+  - "allen-strickland"
+---
+
+_[Women in Film](http://lewtonbus.net/tag/women-in-film/): From June 11 - July 11, Lewton Bus is celebrating the voices of women behind the cameras in Hollywood, in film and television, who are gradually cracking the monopoly that men have held on power in the industry from its inception. In the age of #MeToo, in the midst of the most openly misogynist and bigoted US government in most of our lifetimes, it is more important than ever to recognize and amplify the contributions of cis and transgender women in an industry that touches the dreams of people all around the world.  
+This article originally ran on July 20th 2016 and we are including it as part of the Women in Film series.  
+
+
+  
+_
+
+I don't think _**Zero Dark Thirty**_ gets anywhere close to the amount of praise it deserves, and I think it's almost entirely political. I have gone on record before saying that the only reason it did not win Best Picture back in 2012 was because The Academy was trying to prove how woke it was by voting against the torture movie. Before we move forward I do want to make one thing abundantly clear: I am not pro-torture. I believe it to be inhumane, and I believe it to be un-American. That being said, up until about eight years ago, America tortured and we did it fairly often. In the aftermath of 9/11, we did it a lot. We were consumed by our anger, and our zeal for revenge, and our desire to see justice done, and we lost our way. Coincidentally, this happens to be one of the themes present in _**Zero Dark Thirty**_, a film that intimately examines the lengths to which we will go in service of a cause and the sacrifices we are willing to make along the way. It also happens to be a fascinating study of one of the many battlefields on which modern war is fought.  
+
+
+  
+There aren't very many shots fired over the course of the film, but it is a war film nonetheless as it explores the lives and struggles of intelligence officers and the role they play in the more targeted and surgical world of modern warfare.
+
+War has changed over the last 20 years. With the rise of the United Nations, we saw a steady decrease in the frequency of wars fought between nations, and a rapid increase in wars pitting nations against insurgencies, terrorist groups, and rebels. The enemies of the western world are smaller now, and as a result the bludgeoning tactics of previous decades which relied on superiority of weapons and forces are no longer effective.  
+
+
+  
+It is no longer possible to simply crush the enemy, one must instead go directly after the leadership that inspires it and binds it together. As a result technologies and tactics were developed to allow nations to identify, track, and safely eliminate threats with minimal depletion of forces and resources. _**Zero Dark Thirty**_ is a film about the people who utilize those tools, and more specifically how they utilized those tools to find and kill Osama Bin Laden.
+
+\[caption id="attachment\_8702" align="aligncenter" width="600"\]![](http://lewtonbus.net/wp-content/uploads/2018/06/7803549.jpg) Jessica Chastain as Maya\[/caption\]
+
+Jessica Chastain headlines the film as Maya, a character inspired by the CIA officer who led the ground level effort that resulted in the raid that killed the al-Qaeda leader responsible for the 9/11 attacks. The film is as much a character piece about Maya as it is about the hunt for Bin Laden. Throughout the film we follow her as the hunt slowly transitions from a job, to a passion, to an all-consuming obsession for her. When the film begins she is meek and clearly appalled by the interrogation tactics used by the CIA in their quest, but as the story progresses this meekness falls away and is replaced by a coldness as she begins to take part in, and often lead these interrogations. Near the midpoint of the film she has a conversation with her supervisor, played brilliantly by Jason Clarke, where he warns her that the world is changing and "you don't want to be the last person holding a dog collar when this is over", a very literal warning that the tactics they had been using to extract information were rapidly going out of favor and that there was a risk to being caught using them. That scene marks the end of the torture sequences in the film, but it does not mark the end of Maya's descent into obsession. Family, friends, all semblance of a personal life are sacrificed on the alter of her cause, a fact made all the more fascinating when juxtaposed against her enemies who are literally sacrificing their lives to further their's.  
+We watch this mission consume her, leaving nothing but a empty shell behind when it's all over. She fights tooth and nail to reach her moment of triumph, and reach it she does, and in that moment you see it dawn on her that the mission that she dedicated nearly ten years of her life too is over, and she has no idea what to do next. Chastain delivers perhaps the performance of her career in this film, showing that when she is on her game, there aren't many in the industry that can top her.
+
+Beyond the narrative journey of the film it is important to take stock of what a marvel of cinema it really is. Every aspect of this film works in conjunction to deliver a film not quite like anything we have ever seen before. It's matter of fact depiction of torture is visceral and shocking, forcing the audience to confront the knowledge that Americans participated in such activities and to decide whether or not they believe it was just. It's in the little details like how the interrogators casually and brutally go about their business only to completely flip the switch when they walk out of the room, that the brilliance of Bigelow's direction and Mark Boal's script shine through. Details like the way the film plays with music and sound forcibly keep the audience on the edge of their seat. If you pay attention, you'll notice that there is rarely a score in the background of Zero Dark Thirty, the film manufactures none of its emotional beats, forcing the audience to directly confront the events on screen without the aide of musical cues to guide them. It makes moments like the interrogation sequence at the beginning of the film more terrifying and forces you to hang on every word of a conversation. There are no distractions in this film, no fluff to side track it. It is one of the leanest two and a half hour films I've ever watched, as not a single second is wasted. This propulsiveness and tension is ratcheted up to even absurdly higher levels over the last forty-five minutes of the film culminating in the raid on Bin Laden's compound, which is the most tension filled piece of cinema that I have ever witnessed. Bigelow rapidly switches from point of view shots from the SEAL's night-vision goggles, to wide shots of the pitch black compound. We watch the men move methodically through the compound with the tension ever increasing. It is only when the last shot is fired and the lights come on, that you realize you have been holding your breath the entire time. And when Maya sits in the hanger with tears streaming down her face, you cannot help but ask yourself the same question she is: "What now?"
+
+\[caption id="attachment\_8703" align="aligncenter" width="600"\]![](http://lewtonbus.net/wp-content/uploads/2018/06/Directorproducer-Kathryn-Bigelow-writerproducer-Mark-Boal-with-crew-Luca-Kouimelis-Jonathan-Leven-Greg-Shapiro-Barrie-Rice-George-Little-Richard-Stutsman-and-David-Ticotin-on-the-set-of-Zero-Dark-Thirty.jpeg) Director Kathryn Bigelow (far left)\[/caption\]
+
+Zero Dark Thirty is, in this writer's opinion, one of the greatest films of this decade, maybe even this century. It features one of the most talented directors in the industry at the very top of her game, and a cast that is more than up to the challenge. If you have not watched it, rectify this mistake immediately, because this is a film that demands your attention as the most nuanced and unbiased looks at the American "War on Terror" that we are bound to ever receive.

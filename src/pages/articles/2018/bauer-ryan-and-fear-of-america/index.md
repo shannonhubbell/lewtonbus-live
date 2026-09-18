@@ -1,0 +1,122 @@
+---
+title: "Dad Media Month: Bauer, Ryan, and Fear of America"
+pubDate: "2018-09-17"
+categories: 
+  - "editorials"
+tags: 
+  - "24"
+  - "dad-media-month"
+  - "jack-bauer"
+  - "jack-ryan"
+description: "Jack Bauer and Jack Ryan make for interesting bookends to our current political times. Their duality comes during times of enormous fear and their works help illuminate both fear and an affirmation of the status quo. Both men reflect the insecurities, political motivations, and ideals of our political landscape."
+id: 9876
+slug: "bauer-ryan-and-fear-of-america"
+authors:
+  - "diane-c"
+---
+
+Jack Bauer of **_24_** and Jack Ryan of **_Jack Ryan_** make for interesting bookends to our current political times. Their duality comes during two times of enormous fear, for reasons both similar and different, and their works help illuminate both pervasive fear and an affirmation of the status quo. They’re cousins in the Dad Media genre, both men reflecting the insecurities, political motivations, and ideals of our political landscape.
+
+Both shows follow the people caught inside the machine that continues churning regardless of the political tide. For Bauer, it leads to destruction, sacrifice, and tragedy but also an almost mythological sense of duty. For Ryan, it leads (so far) to an uneasy but still optimistic stance on morality, redemption, and second chances. Both are a way of examining our collective fear, not just of the unknown but of the faces occupying our own administration.
+
+In this article, I discuss the genesis of Jack Bauer as the poster child of 9/11 fear, the issues with **_24_**’s depiction of torture and lawlessness, its role in conservative Dad Media, the rise of Jack Ryan as a counterweight, and the fear that unites and divides all of us as we grapple with our scary world.
+
+## **The Jack Bauer Power Hour**
+
+**_24_** debuted less than a month after 9/11, and while the show’s first season obviously could not have been a direct parallel to a terrifying world tragedy, subsequent seasons of **_24_** became one of pop culture’s clearest examples of the Bush Doctrine terrorism policy in action. Jack Bauer’s adventures during most of _**24**_'s initial television reign between 2001 and 2010 became the prism through which the public interpreted, internalized, and worked through its thoughts about the very confusing time that coincided with the beginnings of the War on Terror. It became a treatise on torture, extrajudicial rendition, and secrecy even as it influenced public perception of what was real and fake, and what we should think about the extraordinary measures taken by the Bush administration.   
+
+![](http://lewtonbus.net/wp-content/uploads/2018/09/Bauer1.jpg)
+
+The show was never meant to educate anyone on what the Bush Doctrine was actually about, especially since almost all of the details were (and still are) classified. What we do know is that the Bush administration believed that the United States could only defend itself by establishing a solid offense, and this included taking preventive measures against an enemy combatant. The doctrine was the underlying justification for numerous other policies related to how the United States government defined war and terrorism, including the [use of torture](https://www.nytimes.com/interactive/2014/12/09/world/cia-torture-report-document.html) as a preventive measure.
+
+Joel Surnow, who co-created the show, called [Jack Bauer a patriot](https://www.newyorker.com/magazine/2007/02/19/whatever-it-takes); on the surface Bauer looks like a patriot. He busted his ass every day, trying to foil a massive threat to the country. Sometimes, no one believed him. Other times, they stymied his work and called him a loose cannon. Bauer is a man who would never stop until he died or saved the day. His persistence became the stuff of legend, prompting one character, Charles Logan, [to say](https://www.youtube.com/watch?v=dC_JhauGaD4), “he will rise up out of the deepest hole in the ground. He will claw his way back from the ends of the earth.” The “living manifestation of destiny” may be Ethan Hunt. but it is also Jack Bauer.
+
+This all made for exciting entertainment, but there was always the persistent question of whether Bauer was the kind of man we needed to be a patriot, and also what patriotism really meant if men like Bauer were its representatives.
+
+## **Thrilling, Thrilling Torture**
+
+Jack Bauer hit a zeitgeist and became a worldwide pop culture icon because we were terrified and confused, and our news networks seemed to be playing the horrors of war on a loop. What were we fighting for or against? Much of the time, I didn’t know. Did you?
+
+Without any real transparency from the Bush administration for what any of these men and women were fighting for and an unnamed, unseen boogeyman in the guise of Middle Easterners, it was too easy for viewers to take solace in _**24**__,_ one place where the decisions were difficult and gory but hey, at least they got made and we knew our heroes were right. When Bauer growled, “There is no time!” the viewer took him at his word, and we saw that literally, there was no time - the ticking clock was a ticking bomb, deployed to exhilarating effect. 
+
+In the clip below, John Oliver breaks down the [Senate committee report on torture](http://library.stanford.edu/blogs/stanford-libraries-blog/2014/12/official-senate-cia-torture-report), published in 2014 as the official record on the United States' moral misdeeds. He then hits us for our glibness over torture and places the blame squarely on conservative leaders for using **_24_** to mislead people into believing that torture was effective.
+
+\[embed\]https://www.youtube.com/watch?v=zmeF2rzsZSU\[/embed\]
+
+_**24**_ remains extremely exciting television. It is a joy to watch Kiefer Sutherland bark orders, get into gunfights, surreptitiously gather intelligence, and find himself in increasingly ridiculous situations. I first watched it in the aftermath of 9/11, and my peers were enlisting and going to war. Now, when I revisit the show, my biggest question is, how complicit was this show in shaping what we thought about torture and kidnapping, operating outside the law and moral norms, and the hatred towards Middle Easterners?
+
+Complicity is an interesting thing to think about. War typically has a defined beginning and end; in 2001, President George W. Bush was setting the stage for what would be essentially a sustained, open-ended engagement in a foreign country. Within a few years it would involve _several_ foreign countries. The secrecy within the Bush administration over whether [black sites existed](http://www.spiegel.de/international/secret-us-prisons-bush-admits-cia-black-sites-a-435736.html) (they did), what kind of treatment prisoners were getting (extremely poor and shockingly abhorrent), and who these prisoners were (some were legitimate threats to security, many were not), created really uneasy feelings about extrajudicial rendition. It was really easy for a show like _**24**_ to have paper-thin depictions of Middle Eastern people, their nuance removed, because there wasn't any desire to draw nuance in real life. In the years right after 9/11, there didn't seem to be any room for sensitivity and understanding for a lot of people. There was only pain and anger. 
+
+## **The 24 Effect**
+
+Not even conservatives could agree on how **_24_** affected media. Rush Limbaugh thought it was just fiction, and [had no real effect on public opinion](https://www.newyorker.com/magazine/2007/02/19/whatever-it-takes). Laura Ingraham said that it was clear that the show’s popularity meant people were more comfortable with the Bush Doctrine’s ideas. Justice Antonin Scalia famously tried to say that torture was effective [because it worked on _**24**_](https://www.theatlantic.com/daily-dish/archive/2007/06/scalia-and-torture/227548/).
+
+**_24_** was a one-way channel wherein torture was used often and effectively, and I’m convinced that it changed how the public perceived torture. [Yahoo called it the “24 Effect,”](https://www.yahoo.com/news/the--24--effect-002709277.html) and people considered **_24_** to be so influential, they debated it as if it was _actually_ the Bush Doctrine.
+
+None of this was actually a debate, however. **_24_** rarely, if ever, wanted to condemn the use of torture beyond a cursory, “that’s wrong!” or, upon seeing an injured suspect, “what happened?” with a side eye. It was a show where there was [a lot of threatening](https://www.youtube.com/watch?v=dIWny_HBPmU), screaming, and violence, all with an unchallenged air of badassery. **_24_** never said torture was wrong because Bauer was usually the one torturing. He was our mythological hero, and he wasn’t going to be cast as the villain.
+
+It was not totally **_24_**’s fault. It was similar to the “CSI Effect” - public perception about forensic science changed so much that people began to base their judgement of crime on the strength of the forensic science. It’s not a TV show’s fault that people were taking it as the real thing. But it does imply that there should have been someone to challenge it. On this front, there hasn’t been a lot of change. Black sites still exist, drone strikes have picked up, and **_Homeland_** tried to carry the torch of the counter-terrorism thriller (albeit with _a little_ more nuance). Furthermore, in the age of streaming, Jack Bauer hasn’t even really retired. He’s still on our televisions via Amazon Prime, his politics and convictions frozen in amber.
+
+It took many years for a new hero to emerge. He was younger, more idealistic, and in many ways, the anti-Jack Bauer.
+
+## **Jack Ryan, Earnest Hero**
+
+Jack Ryan actually predates Jack Bauer by more than 30 years, and it’s telling that he was largely off our screens between 2001, when **_24_** debuted, to 2018. In between, there were two attempts at adapting him for screen but neither **_Sum of All Fears_** nor **_Shadow Recruit_** captured the essence of Ryan or what made him a timeless hero. _**Shadow Recruit**_ was especially out of place, depicting him as a man who was new to the moral darkness of counter-terrorism rather than a man who had seen the darkness and chose to rebel rather than give into it. Ryan may have originated as a Cold War hero, but in Tom Clancy’s books, he stuck to his convictions to always save lives _without moral compromise_. To Joel Surnow, Bauer was a fictional patriot for modern times but it’s clear to me that Ryan is actually a fictional patriot we should be looking to as an example for the future.
+
+![](http://lewtonbus.net/wp-content/uploads/2018/09/jack-ryan-2.jpg)
+
+In the 2018 television show, _**Jack Ryan**_ ([which we pretty much love](http://lewtonbus.net/tag/jack-ryan/)), Ryan is working for the modern day CIA as an analyst, and he preserves the same earnest nature of his book counterpart. Like in _24_, the terrorists are middle eastern; unlike **_24_**, Ryan never tortures anyone for information or violates international law to catch them.  
+
+The parallels between the two Jacks are interesting. Perhaps it’s a generational difference. Right now, Jack Ryan is in his mid-30s and too young and too inexperienced to be ground down into a cynical and world-weary operative. In 2001, Jack Bauer was in his mid-30s, too, but already with a family and too scarred to see the world differently. He talked a good talk about not compromising morality, but then he'd contradict that completely and it became clear that his idea of compromise was more like he wouldn't torture _too much._ 
+
+Or maybe it’s a difference in perspective. I don’t think it’s a coincidence that Ryan, played by John Krasinski, is more or less depicted as a millennial patriot. For Ryan, there’s strength in optimism, in seeing that people are more than their circumstance. For example, when he peruses Suleiman’s file and sees that he has an economics degree, he’s confused about how a man raised in trauma and poverty and overcame it all to achieve an impressive education became a radical.
+
+“He got out,” Jack says. Sandrine, his partner in French intelligence, replies that Suleiman's education didn't matter because in France, there is no room for people like Suleiman, not French and not white, to make mistakes. Ryan thinks that people can rise up beyond structural limitations, which is laudable but often simplistic. It forgets the element of circumstance. As one character says later in the show, noting that Jack disapproves of his criminal activities, "if I had been born in a nice city in America, a city like Cincinnati....I could be a good guy, too." It is not only a product of Jack's white privilege and inexperienced worldview, but of a naïveté that hasn’t been destroyed. He genuinely believes that people can overcome their lot in life. Later, when his boss, Greer, says sarcastically that he’s going to be the first Muslim director of the CIA, it’s meant to be a wakeup call to Ryan that he’s got his head in the clouds, unaware of the realities of the world and the limitations that sometimes don't go away no matter how high we rise.
+
+Bauer and Ryan are opposite sides of the same coin, a contrast brought to life and plunked into 2018 politics, which - oddly enough - don’t really look that different from 2002 politics. The machines are louder and deadlier, and the names and faces are different, but the Bush Doctrine is really still in effect. Hell, when Bauer came back in 2014, four years after the series’ original ending, it was like the world hadn’t changed that much at all - but we have.
+
+When President Barack Obama took office in 2008, he did so under the promise of a better future, including the desire to [close Guantanamo Bay](http://www.washingtonpost.com/wp-dyn/content/article/2008/11/11/AR2008111102865.html). He left office in 2016 [without making much progress](https://www.newyorker.com/magazine/2016/08/01/why-obama-has-failed-to-close-guantanamo). Though he will assuredly go down in history as a successful and inspirational president, President Obama presided over a massive [expansion of the drone strike program](https://www.washingtonpost.com/news/monkey-cage/wp/2017/08/24/congress-keeps-quiet-on-u-s-drone-policy-and-thats-a-big-problem/?utm_term=.5b431219ab82), the details of which are so muddy that even now, researchers haven’t pinpointed [how many people have died](https://www.nytimes.com/2016/07/04/world/middleeast/drone-strike-statistics-answer-few-questions-and-raise-many.html) as a result of drone strikes and how many of them were actually terrorists. This has allowed for an even bigger uptick in activity under the Trump administration.
+
+\[caption id="attachment\_9880" align="aligncenter" width="800"\][![](http://lewtonbus.net/wp-content/uploads/2018/09/Screen-Shot-2018-09-16-at-3.42.42-PM.png)](https://www.cnn.com/2012/06/11/opinion/bergen-yemen-drone-war/index.html) Source: CNN\[/caption\]
+
+The biggest difference between the two, though they largely inhabit a similarly scary world, is that Jack Ryan was conceived as a hero whose earnestness and intelligence was his greatest asset. His desire to avoid violence was just as high as the inevitability of such violence. There’s a reason why he has become a classic hero who has translated so well to modern times. This is the kind of hero who never goes out of style. He's a man who understands and feels fear, and acts despite it. 
+
+## **Living in Fearful Times**
+
+Television has been a universal language ever since the first satellites beamed signals around the world. People who didn’t know English could learn it from television. It influenced what many people from outside the United States thought about Americans, thoughts that could be affirmed and challenged as soon as they set foot on our fabled “land of opportunity.”
+
+If television was a tourist’s guide to what America may have been, with its rolling hills and nuclear families, it could also show its dark side. After 9/11 the official stance of the United States government was that we needed to show strength. To do that, we needed to adopt an offensive posture, take the fight to our enemies, and show them that the United States would not bow to terror. In the news media as well as in fiction, it became blurry about just who it was we were fighting. Over a remarkably short amount of time, “terrorists” became synonymous with people who merely “looked the part," and anti-Muslim rhetoric increased more and more.
+
+Jack Bauer and Jack Ryan are merely representative of select narratives and the thoughts of those who created them, cast toward the War on Terror. The world today is just as difficult and scary as it was before. Our leadership has gotten worse and is even less interested in providing clear answers. Hate crimes against Muslims in the United States have [increased](http://www.pewresearch.org/fact-tank/2017/11/15/assaults-against-muslims-in-u-s-surpass-2001-level/ft_17-11-14_muslimhatecrimes/), coinciding with the Trump’s candidacy and administration.
+
+\[caption id="attachment\_9881" align="aligncenter" width="420"\][![](http://lewtonbus.net/wp-content/uploads/2018/09/FT_17.11.14_muslimHateCrimes.png)](http://www.pewresearch.org/fact-tank/2017/11/15/assaults-against-muslims-in-u-s-surpass-2001-level/ft_17-11-14_muslimhatecrimes/) Source: Pew Research Center\[/caption\]
+
+In **_24_**, not even presidents and leaders were exempt from corruption. In fact, the first season jumped off with a suspected mole inside CTU. Season 8 shows Charles Logan, a former president, using his connections to the White House for his own treasonous ends. It culminates in this scene, which is basically _**24**_ and Jack Bauer in a nutshell.
+
+\[embed\]https://www.youtube.com/watch?v=k6TiB5rRq2Q\[/embed\]
+
+A scene like this shows that Jack Bauer, despite being the opposite of Jack Ryan, is _also_ not going out of style. This is because we have never actually achieved any kind of “post-9/11” status. We’re still living in it, the din and confusion, the fear. We are literally dealing with a corrupt president right now, and I suppose it makes sense that we’re turning back to **_24_** for solace and why [Bauer may see yet another brand new day](https://deadline.com/2018/07/24-prequel-jack-bauer-origin-story-fox-howard-gordon-joel-surnow-bob-cochran-1202436677/).
+
+This is a difficult pill to swallow. What’s been happening even before 9/11 is the increasing militarization of police, a topic my colleague VyceVictus discussed a few years ago in [a piece about Robocop](https://birthmoviesdeath.com/2014/02/19/robocop-review-vycevictus-dug-it):
+
+> _Just the same, remembering how New York felt after 9/11 and living with the dystopian nightmares come to life with the obtrusiveness of a police state, the unblinking eye of big brother and the fervor of patriotism fueled by fear is something I certainly cannot let go of and is also touched on by the film._ _For most people, the images of the planes crashing haunt them. For me though, what sticks out the most was was the deadly quiet morning commute several days later, and seeing the beat cop on the subway platform in full tactical kit armed with an assault rifle. The cognitive dissonance of living these two experiences, living in fear and dispensing it, is not lost on me._
+
+Militarization has contributed to civil rights violations, cultural stigma, and fear. Who is to be feared really depends on your perspective. For a great deal of Muslims and those who merely "look the part," it’s still white people. For a lot of white people, it’s going to be Muslims - but also black people, the Chinese, or any variety of others who they suspect are not “[just like us](https://www.newyorker.com/magazine/2018/04/23/how-one-joke-on-roseanne-explains-the-show).”
+
+There has always been a reason to fear. Fear is killing us. It’s killing black women, especially.
+
+<blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">Black women are actually dying from a phenomenon called "weathering" wherein we are worn down by the oppressive systems of the world until they irrevocably damage our mental and physical selves. <a href="https://t.co/L1yBEf3poB">https://t.co/L1yBEf3poB</a></p>— Jenn M. Jackson (@JennMJack) <a href="https://twitter.com/JennMJack/status/1040941285270609920?ref_src=twsrc%5Etfw">September 15, 2018</a></blockquote>In the aftermath of the 2016 election, I met many white women who, still in shock over Trump’s win, wondered how we could reach Trump voters in middle America. Several of them said that they were going to pick up _Hillbilly Elegy_ by J.D. Vance. I also met women who were quite excited about safety pins, a symbol of allyship and a hopeful signal to people of color that they could feel safe. I never felt any safer around the presence of a safety pin, though I admit they are at least sharper than the [performative feminism they represent](https://www.washingtonpost.com/posteverything/wp/2016/11/18/go-ahead-wear-a-safety-pin-but-dont-expect-people-of-color-to-care/?utm_term=.3be84f51e763).
+
+Our efforts to reconcile and meet in the middle have mostly been fruitless, because the underlying assumptions have been faulty. We’re not divided because we can’t agree that racism is bad; we’re divided because our diversity and interests require an honest critique of all behavior, particularly among white people who see themselves as allies, Asian-Americans who have their own [issues with anti-blackness](http://nwasianweekly.com/2018/05/anti-blackness-asians/), or people of color who may be used as [pawns for white supremacy](https://www.theatlantic.com/education/archive/2018/08/the-whitening-of-asian-americans/563336/). This will naturally create schisms. When we talk about who is leading a movement and who is an ally, we aren’t just using buzzwords. We’re talking about what responsibility we have to each other, the different ways that fear manifests for each of us, and oh how _tiring_ it is for people of color to explain and justify their beliefs and actions, whether it’s Black Lives Matter or reproductive justice.
+
+It’s also been tiring to hear, from supposed allies, that we shouldn’t fear or that we fear too much. Dad Media is but one way we grapple with that fear, internalize it, and use it as comfort food and to feel an escape.
+
+## **Fact and Fiction, Cause and Effect**
+
+I don’t want to debate Bauer and Ryan’s personal philosophies as a way of saying, “this is who we are” because it’s not. We are too varied as people to say something like that. Bauer represents Surnow’s conservatism and opportunism. Television producers are in the business of entertainment.
+
+I hope this article is more of a discussion about how real life influences fiction and vice versa, but also addresses how we’ve been deadlocked into a cycle of fear, anxiety, and uncertainty. What we uphold as a representative of our ideals is both a matter of how we vote and how we clamor for change _and_ how we choose to depict ourselves to the world. This can be at United Nations assemblies and in pop culture. It can be in protests. 
+
+_**24**_ is probably the most influential post-9/11 show. It has influenced nearly everything that deals with terrorism since, and has become a pop culture icon all on its own. It gave us the vision of America’s first black president a full 7 years before it became reality and a depiction of the first woman president, which unfortunately still has yet to come to pass. That **_24_** is a good hour of TV is literally one of the only things that [Justice Scalia](https://blogs.wsj.com/law/2007/06/20/justice-scalia-hearts-jack-bauer/) and I could agree on. We can debate the merits of it all day long, but we can’t deny its influence.
+
+That it continues to be influential is both a sign that Bauer has become a “necessary evil” - neither time capsule, relegated to the past, nor a modern hero that we should celebrate. Bauer is, all the same, part of how we process our fear. Perhaps in the next few years, we’ll do better. Perhaps our fiction will better reflect stories about [teenagers standing up for gun control](https://www.vanityfair.com/style/2018/09/parkland-gun-laws-march-for-our-lives-jaclyn-corin) and [advocates for education, peace, and justice](https://womensagenda.com.au/partner-content/i-will-continue-this-fight-until-i-see-every-child-in-school-the-remarkable-pursuits-of-malala-yousafzai/). Perhaps we will let the past die.

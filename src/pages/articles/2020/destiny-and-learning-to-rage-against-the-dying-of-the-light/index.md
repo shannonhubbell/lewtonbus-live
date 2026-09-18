@@ -1,0 +1,68 @@
+---
+title: "DESTINY, and Learning to Rage Against the Dying of the Light"
+pubDate: "2020-05-27"
+categories: 
+  - "editorials"
+  - "videogames"
+tags: 
+  - "destiny"
+  - "destiny-2"
+  - "fleet-week"
+description: "Playing DESTINY 2, Lindsay fought through trauma across generations by fighting sci-fi enemies across the galaxy."
+id: 14305
+slug: "destiny-and-learning-to-rage-against-the-dying-of-the-light"
+authors:
+  - "lindsay-hysler"
+---
+
+TRIGGER WARNING:  suicide and sexual assault.
+
+\[divider type="thin" spacing="25"\]
+
+My first memory of a post-9/11 world was of me, writing a letter to the President for a first-grade assignment, begging him not to draft my daddy because it wasn’t _fair._ My dad had already done his service, drafted in 1969 before he could even graduate high school. In my six-year-old mind, the President was going to send my dad off to war and I was _not_ having it. I knew what Vietnam did to him.
+
+For a long time, “Don’t ask daddy about his time in Vietnam” was an unspoken rule in my house. It wasn’t until I was in my mid-teens that he started opening up. My dad spoke vividly about his friends—his _brothers_. These were men whose likes, dislikes, and stories about the absolute wildest shit they got up to had always felt so real to me. They felt so alive, even though most of them passed away by the time I was two years old. They were the uncles I never knew or was too young to remember, but I loved them all the same.  And they were just… gone. The squad mates who came home never really “came home.”  I heard the whispers from my parents when I was younger, words like “pills” and “jumped” and “total paralysis” that never made sense to me then. The horrors in Vietnam that tortured his brothers affected my dad just the same. Exposure to Agent Orange causes him to urinate blood and contributed to his prostate cancer. He tried to beat his PTSD and depression into submission through stubbornness and exercise.
+
+When the 2003 Northeast blackout happened, I witnessed firsthand a former soldier experiencing a PTSD flashback. I remember the smothering heat, the helicopters overhead, and my dad ushering myself, my mom, and my sobbing sister into the bathroom because “Victor Charlie” was moving in on our position. When the power came back on, I planted my Nintendo 64 on the living room floor, handed my dad the controller for player two, and blew air out of the cartridge for _Mario Kart: 64._ That became our ritual_._ Every Saturday, Dad and I would sit down in the living room and try to cheat at _Mario Kart,_ or _Super Smash Bros_. Even Mom got in on the action, spending nights playing _Miss Pac-Man Maze Madness_ with me. Playing video games became more than just a way to bond with my dad, it became a refuge. When my hands and mind were occupied, I could see the world clearly, as if a fog was finally lifted. As it turns out, that fog was in fact the manifestation of depression that I would later be diagnosed with. Eventually, our Saturdays together dwindled away and academia became my life. I was dedicated to extracurriculars, athletics, and science fair projects. Even with all this, I devoted any sliver of free time I could find to playing video games.
+
+I was very clumsy as a child (and still am now). Whenever I came home with skinned elbows and knees my dad would dust me off, wipe my tears, take me by the shoulders, then he would say five words to me: “Keep your eyes up, Lindsay.” Twenty-one years later, I would hear those words again in the game _Destiny._ It immediately captured my attention with its mystical space adventure fantasy world. I fell deeply in love in this game where the characters were memorable, and I was someone who mattered. As a warrior known as a Guardian, I could perform amazing feats of space magic. Guardians are blessed with “The Light“, a power bestowed by a benevolent extraterrestrial being who sacrificed itself to defend Earth from an invading evil known as “The Darkness.” I wanted to know the world, know each and every character. It ignited a spark in me that made me want to write video games _because_ of the first words you hear in-game: _“Eyes up, Guardian.”_
+
+As a Guardian in _Destiny_, I could customize myself as a Human, space-elf Awoken, or robotic Exo warrior. When you start the game, a character known as a Ghost resurrects the player in the wake of a cataclysmic battle. The Ghost becomes your companion, assisting you along your journey. So long as the Ghost is alive, you can die and always come back swinging thanks to the power of The Light. When my depression felt impossible to bear, I remember throwing my Guardian avatar from atop a tower until the desire to harm myself subsided. Not healthy, I know, but better than the alternative. Just the same, unleashing my superpowered light upon enemies in the campaign or fellow Guardians in PvP made me feel empowered. _Destiny_ became my comfort game. I was like a child again, playing my Nintendo 64 with my parents. Fighting the Darkness was like fighting my depression, and when I needed to fight the urge to give in, _Destiny_ was there, reminding me that there was still hope.
+
+That year, I was raped.
+
+It changed me on a fundamental level. Up became down, and down became up.  
+
+
+  
+I was ashamed. Reserved. Withdrawn. Touching anyone made me want to break down into a panic. Nightmares were constant, and I lost all interest in the things I loved.  
+
+
+  
+My Guardian and I switched places; She was the one with the personality, the spark, the _Light_. I was the selectively mute undead creature, slowly drowning in Darkness. I wanted to die. Then, I remembered: _Destiny 2_ was coming out the following year. _“_Okay. Wait to finish the campaign. Then make your choice,_”_ I thought_._ I kept myself occupied. I saw my therapist weekly and my psychiatrist monthly, but I still wanted to die. My experience in the first moments of _Destiny 2_ changed those plans entirely.
+
+The opening cinematic of _Destiny 2_ showing the beginning of the campaign known as The Red War reflected precisely how I felt inside. The Tower, a main hub, is forcibly invaded. A mysterious stranger steals your Light, leaving you vulnerable and violated, stripped of your magical essence. I wanted to stop, to shut the game off and never touch it again. But then, limping through the ruins of the Last City—the violated ruin of my body—I picked up a submachine gun called Sorrow MG2 (ironic, I know) and decided enough was enough_._ It was the first time in a long while that I felt like I controlled my body, that the balance of power was in my hands.  
+
+
+  
+I would get the Tower back, get _The Light_ back, and make the evil Red Legion pay for what they did to me. I was out for justice and peace of mind that I couldn’t get in the real world. Unfortunately, my association with The Tower and the projection of my assaulter upon the game’s villain was doing more harm than good. My therapist would later say it was a common reaction, refusing to confront the situation by pretending I could destroy it in a game. But that doesn’t work, does it? I learned that from my dad. He ignored the horrors of Vietnam and used physical exercise to keep PTSD at bay, while I murdered creatures that I projected my rapist upon in a sci-fi game world.
+
+I stopped playing _Destiny 2_ for months and went to a different therapist who helped me untangle my internal discord. But one night, stressed by the idea of confronting my homework, I glared at my PS4 like it owed me money, and thought: _“Fuck it.”_ I loaded into _Destiny 2_ to find my Light again. Instead of dread, I saw the ethereal beauty that made me feel alive, and once more I explored the sea of stars and different worlds that evoked a sense of wonder. More importantly, I learned to join the _Destiny_ community. I celebrated holidays like The Revelry and The Dawning, and it made me feel… not entirely “better,” but enough to convince myself I was okay. Eventually, I reached the remnants of The Traveler, the benevolent being who used its power to save Earth. It was broken from the battle, teeming with Light yet tainted by Darkness. I saw myself in this broken thing, but just when all hope seemed lost, the corrupted shard of the Traveler granted me my Light back—stained by Darkness, but still _Light_.
+
+For the first time in over a year, I felt safe. I was now a creature of Light and Darkness. My major depressive disorder would never really go away, but neither would my Light. I wanted to help others in the game recover their Light as I had. When you first meet the character Commander Zavala, be it in _Destiny_ or _Destiny 2_, you are struck by his massive stature. He towers over his team of fellow commanders, The Vanguard. Zavala is the leader of the Titan class, a powerful bulwark that can weather any storm. Later in the story, however, you find Commander Zavala broken and defeated. His decision to take the surviving Lightless Guardians to Saturn’s moon Titan ends in slaughter. His fireteam, his most trusted comrades, are missing and presumed dead. Commander Zavala’s grief cuts deeply. The metaphorical rape and theft of the Guardian’s Light is his breaking point. His relation between his self-worth and his Light felt like I was sitting in therapy, listening to myself. When Zavala asks, “Without the Light… are we even Guardians anymore?” I hear myself asking my therapist, “Who am I now after all this?”
+
+Using my Guardian’s recovered Light to make the moon safe enough for a counteroffensive gives Commander Zavala the strength he needs to stand and fight, but he can’t do it alone; “I need my fireteam. I need Ikora and Cayde.” I saw symptoms of depression represented in the other Vanguard members as well. You find Ikora, the leader of the Warlock class, in isolation on Jupiter’s moon Io; [isolating one’s self from others](https://www.thecut.com/2020/04/self-isolation-is-a-recipe-for-depression.html) is a common behavior while suffering from a depressive episode. Ikora is known for her vast spy network and formidable intellect, but her lack of an effective strategy against the enemy leaves her racked with frustration and guilt.  
+
+
+  
+For her, the war is lost, and she lays the blame at Zavala’s feet. No counteroffensive he can dream up can stop the Red Legion from desecrating everything Guardians hold sacred. Desecrated. I had never used that word to describe what happened to me. But it is what happened, isn’t it? I was treated with violent disrespect, in a profane act that received no [justice](https://www.rainn.org/statistics/criminal-justice-system). Maybe, just maybe, I could do justice for Ikora. And so, with my Guardian’s help, we uncover vital strategic information and rekindle Ikora’s hope.
+
+We ventured onward to recover Cayde-6, the leader of the Hunter class. Cayde seemed to never take anything seriously, but his humor is a coping mechanism for the pain he held inside. When we find him on the planet Nessus, he is deep in the throes of depression and suicidal thoughts. His story mirrored aspects of my own; trapped in a constant cycle of relapse, medication changes, talk therapy, PTSD flashbacks.  
+
+
+  
+I interacted with Cayde more than the other Vangaurd during my playthroughs, and my daily conversations with him were the kind of positive reinforcement my therapist encouraged me to engage in. Cayde would often tell me “Be careful out there.” or “come back with a good story” before each mission, but the most important bit of dialogue we shared was when he told me “Survive. Sometimes, when you just survive, everything works out fine.” I completed Cayde’s story mission and got Zavala his fireteam back. By helping the three Vanguard out of their misery, I helped myself begin to heal. It was finally time to retake the Last City.
+
+I had reunited the Vanguard and become a beacon of hope for the hopeless. Now, there was only Dominus Ghaul, the villain I projected my rapist onto. I dreaded confronting him. Part of me wanted to leave the campaign unfinished, but another more insistent part of me whispered, “_Ask for help._” I swallowed my shame and I asked two people I trusted most in the world to help me take down the enemy conqueror. It was incredibly difficult, and the panic attacks were fierce, especially as he screamed, “I am Ghaul. I claim what is mine.” It took many attempts, but my fireteam always remained patient with me. They were observant of my mental health and made me take breaks when I insisted I was fine (I was not fine). After what seemed like the final blow, Ghaul rose once again, possessed by the power of the stolen Light. That’s when The Traveler, long dormant after the cataclysm long ago, finally awakened to annihilate Ghaul once and for all.  The Traveler’s return heralds the return of hope to the galaxy, but coming out of its dormancy means that it is once more a beacon for The Darkness still lurking out there, somewhere in amongst the stars.
+
+That’s what depression is, isn’t it? An inevitable cycle between good days and bad days. The will to live and the will to not. The war in _Destiny 2_ is a constant one, an endless battle between Light and Dark, and your Guardian has no choice in the matter. In that, I felt an even stronger kinship with my dad: an immortal draftee, consigned to constant suffering, and constant loss. But where there is suffering, there is hope. The Traveler, The Light, _is_ hope. The last lines in the Red War’s  epilogue remind me that in my darkest moments, “The Light lives in all places, in all things. You can block it, even try to trap it, but the Light will find its way.”
