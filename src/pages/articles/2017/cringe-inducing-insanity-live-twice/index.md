@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Cringe-Inducing Insanity of YOU ONLY LIVE TWICE"
 pubDate: "2017-04-07"
 categories: 

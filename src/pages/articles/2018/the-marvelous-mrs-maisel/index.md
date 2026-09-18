@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Television Review: THE MARVELOUS MRS. MAISEL"
 pubDate: "2018-01-08"
 categories: 

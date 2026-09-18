@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE BUS STOPS HERE: No One Has Any Idea What They're Doing"
 pubDate: "2017-09-11"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Pride Week: SENSE8, Sex and Universality"
 pubDate: "2018-06-27"
 categories: 

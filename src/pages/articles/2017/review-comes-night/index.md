@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: IT COMES AT NIGHT"
 pubDate: "2017-06-09"
 categories: 

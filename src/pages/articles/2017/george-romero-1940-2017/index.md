@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "George A. Romero, 1940-2017"
 pubDate: "2017-07-18"
 categories: 

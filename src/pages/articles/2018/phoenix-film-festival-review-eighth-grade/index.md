@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Phoenix Film Festival Review: EIGHTH GRADE"
 pubDate: "2018-05-09"
 categories: 

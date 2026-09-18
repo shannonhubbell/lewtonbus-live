@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: ALIEN Week Edition"
 pubDate: "2017-05-15"
 description: "The Bus Stops Here: ALIEN Week Edition"

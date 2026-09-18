@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Obviously, October is HORROR MONTH at Lewton Bus!"
 pubDate: "2018-10-02"
 categories: 

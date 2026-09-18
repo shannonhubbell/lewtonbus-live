@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BLACKKKLANSMAN"
 pubDate: "2018-08-10"
 categories: 

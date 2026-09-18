@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: DETECTIVE PIKACHU"
 pubDate: "2019-05-10"
 categories: 

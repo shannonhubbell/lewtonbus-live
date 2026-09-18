@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "It's BLACK PANTHER Week, People! Hail to the king!"
 pubDate: "2018-02-12"
 categories: 

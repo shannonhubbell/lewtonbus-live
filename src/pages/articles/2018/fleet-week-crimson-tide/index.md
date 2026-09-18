@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: CRIMSON TIDE"
 pubDate: "2018-05-22"
 categories: 

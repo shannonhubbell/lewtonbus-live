@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Carrie On"
 pubDate: "2017-09-04"
 categories: 

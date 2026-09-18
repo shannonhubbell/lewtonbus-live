@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THERE WAS AN IDEA... The Hulk As Metaphor For The Asian Immigrant Experience"
 pubDate: "2018-02-28"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The New STAR WARS: THE LAST JEDI Trailer Invites You To Embrace Your Destiny (Of Seeing This Movie)"
 pubDate: "2017-10-10"
 categories: 

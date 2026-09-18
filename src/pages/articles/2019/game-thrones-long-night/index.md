@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GAME OF THRONES Recap: “The Long Night”"
 pubDate: "2019-04-29"
 categories: 

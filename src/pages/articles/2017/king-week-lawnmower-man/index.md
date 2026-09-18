@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE LAWNMOWER MAN: An Historical Artifact That is Virtually Unwatchable"
 pubDate: "2017-09-07"
 categories: 

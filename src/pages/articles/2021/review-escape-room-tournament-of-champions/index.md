@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ESCAPE ROOM: TOURNAMENT OF CHAMPIONS"
 pubDate: "2021-07-16"
 categories: 

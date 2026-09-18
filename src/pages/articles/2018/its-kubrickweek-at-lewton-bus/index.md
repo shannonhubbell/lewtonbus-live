@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "It's #KubrickWeek at Lewton Bus!"
 pubDate: "2018-04-09"
 categories: 

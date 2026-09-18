@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: OVERLORD"
 pubDate: "2018-11-09"
 categories: 

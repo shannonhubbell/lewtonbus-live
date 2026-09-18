@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was an Idea... Galactic Family: The Beating Heart of GUARDIANS OF THE GALAXY"
 pubDate: "2018-04-19"
 description: "There Was an Idea... Galactic Family: The Beating Heart of GUARDIANS OF THE GALAXY"

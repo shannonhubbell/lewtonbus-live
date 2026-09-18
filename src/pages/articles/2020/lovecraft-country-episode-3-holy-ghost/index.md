@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOVECRAFT COUNTRY, Episode 3: \"Holy Ghost\""
 pubDate: "2020-09-07"
 description: "LOVECRAFT COUNTRY, Episode 3: \"Holy Ghost\""

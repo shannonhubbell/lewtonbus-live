@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Planet of the Racists"
 pubDate: "2017-07-13"
 categories: 

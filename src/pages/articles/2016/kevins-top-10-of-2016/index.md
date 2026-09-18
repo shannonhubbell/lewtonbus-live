@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Kevin's Top 10 of 2016"
 pubDate: "2016-12-30"
 categories: 

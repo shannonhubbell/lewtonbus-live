@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The SOLO Trailer is Here.  It's Fine.  We're Fine."
 pubDate: "2018-02-05"
 categories: 

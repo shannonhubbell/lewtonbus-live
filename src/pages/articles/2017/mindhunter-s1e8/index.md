@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "MINDHUNTER Recap: Season 1 Episode 8"
 pubDate: "2017-11-20"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: TOY STORY 4"
 pubDate: "2019-06-21"
 categories: 

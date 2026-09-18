@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "UNBELIEVABLE: A Story That's All Too Real"
 pubDate: "2019-09-30"
 description: "UNBELIEVABLE: A Story That's All Too Real"

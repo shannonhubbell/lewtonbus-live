@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "FURIOUS SEVEN: It's Never Goodbye"
 pubDate: "2017-04-13"
 categories: 

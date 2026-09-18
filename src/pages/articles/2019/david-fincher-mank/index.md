@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "David Fincher is Working on a Herman J. Mankiewicz Biopic, Written by His Father"
 pubDate: "2019-07-11"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Trash Time: ALIEN V. PREDATOR(s)"
 pubDate: "2017-05-11"
 description: "Trash Time: ALIEN V. PREDATOR(s)"

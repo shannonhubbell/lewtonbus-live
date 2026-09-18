@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GAME OF THRONES Recap: Season 7 Episode 7: The Dragon and The Wolf"
 pubDate: "2017-08-28"
 categories: 

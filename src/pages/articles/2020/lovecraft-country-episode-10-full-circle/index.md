@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOVECRAFT COUNTRY Episode 10: “Full Circle”"
 pubDate: "2020-10-21"
 categories: 

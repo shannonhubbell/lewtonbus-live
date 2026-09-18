@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THOR: RAGNAROK Is a Thunderous Achievement"
 pubDate: "2017-11-03"
 categories: 

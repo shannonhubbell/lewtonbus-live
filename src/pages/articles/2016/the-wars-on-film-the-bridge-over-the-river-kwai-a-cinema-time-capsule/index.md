@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars On Film: The Bridge Over The River Kwai, A Cinema Time Capsule"
 pubDate: "2016-08-16"
 categories: 

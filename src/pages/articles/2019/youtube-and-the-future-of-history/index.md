@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "YouTube and the Future of History"
 pubDate: "2019-08-20"
 categories: 

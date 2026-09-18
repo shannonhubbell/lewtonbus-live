@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "John Woo is Remaking THE KILLER With Lupita Nyong’o!"
 pubDate: "2018-05-02"
 categories: 

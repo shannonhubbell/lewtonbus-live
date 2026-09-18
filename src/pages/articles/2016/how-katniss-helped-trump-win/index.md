@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "How Katniss Helped Trump Win"
 pubDate: "2016-11-22"
 categories: 

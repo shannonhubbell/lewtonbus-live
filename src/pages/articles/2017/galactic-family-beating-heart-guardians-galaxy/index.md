@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Galactic Family: The Beating Heart of GUARDIANS OF THE GALAXY"
 pubDate: "2017-05-11"
 categories: 

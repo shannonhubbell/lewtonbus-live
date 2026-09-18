@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "TORQUE: Because THE FAST AND THE FURIOUS Wasn’t Ridiculous Enough"
 pubDate: "2017-04-12"
 categories: 

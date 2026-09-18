@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BARRY: Season 1, Episode 8, \"Know Your Truth\""
 pubDate: "2018-05-14"
 categories: 

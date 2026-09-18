@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 7: THE GETAWAY"
 pubDate: "2020-05-14"
 categories: 

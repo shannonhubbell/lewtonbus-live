@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was An Idea... THE GUARDIANS OF THE GALAXY & The Long, Hard Road Out of Hell"
 pubDate: "2018-03-30"
 categories: 

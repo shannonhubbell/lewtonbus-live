@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE FAST AND THE FURIOUS: The SUICIDE SQUAD of the Early 2000's"
 pubDate: "2017-04-14"
 categories: 

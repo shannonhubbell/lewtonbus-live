@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Kevin's 18 Favorite Films of '18 - The Top Ten"
 pubDate: "2019-01-03"
 categories: 

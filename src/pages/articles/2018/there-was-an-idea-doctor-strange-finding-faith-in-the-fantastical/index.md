@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was an Idea... DOCTOR STRANGE: Finding Faith in The Fantastical"
 pubDate: "2018-04-12"
 categories: 

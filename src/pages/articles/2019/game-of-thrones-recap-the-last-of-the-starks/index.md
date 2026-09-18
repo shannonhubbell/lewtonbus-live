@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GAME OF THRONES Recap: \"The Last of the Starks\""
 pubDate: "2019-05-06"
 categories: 

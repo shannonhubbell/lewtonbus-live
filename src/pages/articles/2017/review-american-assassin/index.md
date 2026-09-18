@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: AMERICAN ASSASSIN"
 pubDate: "2017-09-15"
 categories: 

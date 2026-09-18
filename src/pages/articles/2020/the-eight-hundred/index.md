@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE EIGHT HUNDRED"
 pubDate: "2020-09-19"
 categories: 

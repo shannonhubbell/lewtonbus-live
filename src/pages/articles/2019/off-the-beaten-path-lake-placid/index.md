@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off The Beaten Path: LAKE PLACID"
 pubDate: "2019-08-17"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars On Film: Twelve O'Clock High and The Importance of Empathy"
 pubDate: "2016-10-06"
 description: "The Wars On Film: Twelve O'Clock High and The Importance of Empathy"

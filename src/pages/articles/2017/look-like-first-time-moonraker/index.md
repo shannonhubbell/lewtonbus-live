@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It’s Our First Time? MOONRAKER"
 pubDate: "2017-06-02"
 categories: 

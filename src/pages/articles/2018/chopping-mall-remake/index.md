@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "CHOPPING MALL is Getting a Remake... Sort of"
 pubDate: "2018-03-19"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There's More to Michael Bay Than Meets Your Eye"
 pubDate: "2017-06-23"
 categories: 

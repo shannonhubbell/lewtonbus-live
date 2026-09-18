@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: KNOCK AT THE CABIN"
 pubDate: "2023-02-03"
 categories: 

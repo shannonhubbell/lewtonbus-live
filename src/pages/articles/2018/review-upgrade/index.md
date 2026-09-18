@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: UPGRADE"
 pubDate: "2018-06-01"
 categories: 

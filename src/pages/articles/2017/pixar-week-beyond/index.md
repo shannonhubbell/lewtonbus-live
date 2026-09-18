@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "To Pixar Week and Beyond!"
 pubDate: "2017-06-12"
 categories: 

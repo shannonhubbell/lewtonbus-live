@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 15: DREAMCATCHER"
 pubDate: "2020-07-17"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE DRAGON PRINCE, BOOK 3: SUN"
 pubDate: "2019-11-27"
 categories: 

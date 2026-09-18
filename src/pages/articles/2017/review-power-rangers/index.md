@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: POWER RANGERS"
 pubDate: "2017-03-24"
 description: "Review: POWER RANGERS"

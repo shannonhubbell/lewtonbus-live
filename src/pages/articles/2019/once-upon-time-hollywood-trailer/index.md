@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Never Learn Not to Love the First Trailer for Quentin Tarantino's ONCE UPON A TIME IN HOLLYWOOD"
 pubDate: "2019-03-20"
 categories: 

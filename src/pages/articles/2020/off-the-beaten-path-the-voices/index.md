@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off the Beaten Path: THE VOICES"
 pubDate: "2020-07-17"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was An Idea... GUARDIANS OF THE GALAXY VOL. 2"
 pubDate: "2018-04-18"
 categories: 

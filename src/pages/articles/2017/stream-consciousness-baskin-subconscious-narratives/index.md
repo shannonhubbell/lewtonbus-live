@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: BASKIN & Subconscious Narratives"
 pubDate: "2017-03-27"
 categories: 

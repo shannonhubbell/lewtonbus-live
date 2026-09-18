@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "MINDHUNTER Recap: Season 1 Episode 9"
 pubDate: "2017-12-03"
 description: "MINDHUNTER Recap: Season 1 Episode 9"

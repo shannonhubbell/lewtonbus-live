@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Hozier’s “Shrike”: Butcherbirds, Brambles, and In Between"
 pubDate: "2019-04-16"
 categories: 

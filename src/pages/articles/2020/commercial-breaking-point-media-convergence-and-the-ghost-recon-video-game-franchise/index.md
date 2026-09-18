@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Commercial Breaking Point: Media Convergence and the GHOST RECON Video Game Franchise"
 pubDate: "2020-03-31"
 categories: 

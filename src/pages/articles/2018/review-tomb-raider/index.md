@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: TOMB RAIDER"
 pubDate: "2018-03-16"
 categories: 

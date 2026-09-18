@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "HITMAN and Playing the Villain"
 pubDate: "2017-01-04"
 categories: 

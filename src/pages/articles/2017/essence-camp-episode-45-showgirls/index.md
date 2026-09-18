@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp, Episode 45: Showgirls"
 pubDate: "2017-02-01"
 description: "The Essence of Camp, Episode 45: Showgirls"

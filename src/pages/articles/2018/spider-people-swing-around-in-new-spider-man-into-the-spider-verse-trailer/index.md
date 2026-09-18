@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spider-People Swing Around in New SPIDER-MAN: INTO THE SPIDER-VERSE Trailer!"
 pubDate: "2018-06-06"
 categories: 

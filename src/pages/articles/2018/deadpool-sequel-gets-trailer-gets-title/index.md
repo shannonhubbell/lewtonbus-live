@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The DEADPOOL Sequel Gets A Trailer Before It Gets A Title"
 pubDate: "2018-02-07"
 categories: 

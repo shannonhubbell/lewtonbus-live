@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Drop Whatever You're Doing and Watch the Latest BLACK PANTHER Trailer"
 pubDate: "2017-10-16"
 categories: 

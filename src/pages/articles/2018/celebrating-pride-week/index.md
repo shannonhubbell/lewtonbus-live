@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LEWTON BUS is Celebrating Pride Week!"
 pubDate: "2018-06-25"
 categories: 

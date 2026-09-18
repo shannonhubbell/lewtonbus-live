@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: UNCHARTED"
 pubDate: "2022-02-17"
 categories: 

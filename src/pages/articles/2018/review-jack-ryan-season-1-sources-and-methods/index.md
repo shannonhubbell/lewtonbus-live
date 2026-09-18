@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JACK RYAN, Season 1: Sources and Methods"
 pubDate: "2018-09-18"
 categories: 

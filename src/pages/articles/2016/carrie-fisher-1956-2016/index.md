@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Carrie Fisher 1956-2016"
 pubDate: "2016-12-28"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "FAST FIVE: Brah-Vengers Assemble"
 pubDate: "2017-04-14"
 categories: 

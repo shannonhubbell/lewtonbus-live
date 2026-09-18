@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE SISTERS BROTHERS Trailer Gives Off that Old West Goodness"
 pubDate: "2018-05-24"
 description: "THE SISTERS BROTHERS Trailer Gives Off that Old West Goodness"

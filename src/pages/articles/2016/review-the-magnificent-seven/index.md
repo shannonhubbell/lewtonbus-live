@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "REVIEW: THE MAGNIFICENT SEVEN"
 pubDate: "2016-09-25"
 description: "REVIEW: THE MAGNIFICENT SEVEN"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The TWIN PEAKS Marketing Campaign Continues To Be Awesomely Vague"
 pubDate: "2017-05-11"
 categories: 

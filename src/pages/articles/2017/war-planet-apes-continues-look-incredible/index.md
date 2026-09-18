@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WAR FOR THE PLANET OF THE APES Continues to look Incredible"
 pubDate: "2017-05-16"
 categories: 

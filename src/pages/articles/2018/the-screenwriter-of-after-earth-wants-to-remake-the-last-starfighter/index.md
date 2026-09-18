@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Screenwriter of AFTER EARTH Wants to Remake THE LAST STARFIGHTER"
 pubDate: "2018-04-05"
 categories: 

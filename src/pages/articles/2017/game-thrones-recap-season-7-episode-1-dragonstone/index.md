@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GAME OF THRONES Recap: Season 7 Episode 1: Dragonstone"
 pubDate: "2017-07-17"
 categories: 

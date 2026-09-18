@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BAD BOYS FOR LIFE"
 pubDate: "2020-01-20"
 categories: 

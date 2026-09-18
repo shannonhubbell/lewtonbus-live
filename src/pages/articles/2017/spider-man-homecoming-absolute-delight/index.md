@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SPIDER-MAN: HOMECOMING Is An Absolute Delight"
 pubDate: "2017-07-07"
 categories: 

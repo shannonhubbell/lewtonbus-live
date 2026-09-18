@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: DA 5 BLOODS"
 pubDate: "2020-06-16"
 categories: 

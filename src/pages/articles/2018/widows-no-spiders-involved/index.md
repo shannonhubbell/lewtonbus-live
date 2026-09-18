@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Widows, No Spiders Involved"
 pubDate: "2018-12-03"
 description: "Widows, No Spiders Involved"

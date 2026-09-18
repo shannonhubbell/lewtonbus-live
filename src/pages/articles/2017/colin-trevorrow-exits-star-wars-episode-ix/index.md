@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Colin Trevorrow Exits STAR WARS: EPISODE IX"
 pubDate: "2017-09-05"
 categories: 

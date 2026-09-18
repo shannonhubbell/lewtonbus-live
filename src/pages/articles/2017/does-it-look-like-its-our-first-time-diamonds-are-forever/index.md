@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time? DIAMONDS ARE FOREVER"
 pubDate: "2017-04-28"
 categories: 

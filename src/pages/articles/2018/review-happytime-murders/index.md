@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE HAPPYTIME MURDERS"
 pubDate: "2018-08-24"
 categories: 

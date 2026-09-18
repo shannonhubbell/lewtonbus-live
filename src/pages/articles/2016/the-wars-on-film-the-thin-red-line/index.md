@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars on Film: THE THIN RED LINE"
 pubDate: "2016-11-01"
 categories: 

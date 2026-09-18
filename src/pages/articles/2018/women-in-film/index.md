@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Women in Film: ZERO DARK THIRTY And The Compromises We Make"
 pubDate: "2018-06-21"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Home in Queens - Living in SPIDER-MAN: HOMECOMING's City"
 pubDate: "2017-07-10"
 categories: 

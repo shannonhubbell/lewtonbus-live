@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars on Film: BLACK HAWK DOWN and the Importance of Character"
 pubDate: "2016-09-22"
 categories: 

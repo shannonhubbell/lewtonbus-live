@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: HALF BROTHERS"
 pubDate: "2020-12-03"
 categories: 

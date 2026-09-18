@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars on Film: PATTON"
 pubDate: "2016-12-14"
 categories: 

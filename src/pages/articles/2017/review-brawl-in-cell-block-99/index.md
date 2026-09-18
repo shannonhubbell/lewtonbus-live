@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BRAWL IN CELL BLOCK 99"
 pubDate: "2017-10-31"
 description: "Review: BRAWL IN CELL BLOCK 99"

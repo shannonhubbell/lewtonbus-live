@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dad Media - An Appreciation of Jaume Collet-Serra"
 pubDate: "2018-09-11"
 categories: 

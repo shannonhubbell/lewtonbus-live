@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WESTWORLD Season 2  -  Kiksuya"
 pubDate: "2018-06-11"
 categories: 

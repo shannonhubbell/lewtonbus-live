@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GEMINI MAN: Fatal Frames"
 pubDate: "2019-10-15"
 categories: 

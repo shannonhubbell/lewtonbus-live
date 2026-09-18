@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Films of Steven Soderbergh: KING OF THE HILL"
 pubDate: "2017-08-16"
 description: "The Films of Steven Soderbergh: KING OF THE HILL"

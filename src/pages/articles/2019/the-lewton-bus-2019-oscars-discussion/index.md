@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The LEWTON BUS 2019 Oscars Discussion"
 pubDate: "2019-02-26"
 categories: 

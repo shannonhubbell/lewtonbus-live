@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: GOOD BOYS"
 pubDate: "2019-08-16"
 categories: 

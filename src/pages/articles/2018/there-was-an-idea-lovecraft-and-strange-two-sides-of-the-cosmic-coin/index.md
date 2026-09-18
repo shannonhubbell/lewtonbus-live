@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was An Idea… Lovecraft and Strange: Embracing the Unknown"
 pubDate: "2018-04-14"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spoilerdome: AVENGERS: ENDGAME"
 pubDate: "2019-04-28"
 categories: 

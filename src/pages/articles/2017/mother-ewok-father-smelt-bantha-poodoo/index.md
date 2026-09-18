@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Your Mother Was an Ewok, and Your Father Smelt Of Bantha Poodoo"
 pubDate: "2017-12-13"
 categories: 

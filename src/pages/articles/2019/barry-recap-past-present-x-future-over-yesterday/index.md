@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BARRY Recap: Past = Present x Future Over Yesterday"
 pubDate: "2019-05-14"
 categories: 

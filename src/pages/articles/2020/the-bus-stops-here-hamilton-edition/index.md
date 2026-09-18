@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here, HAMILTON Edition!"
 pubDate: "2020-07-14"
 categories: 

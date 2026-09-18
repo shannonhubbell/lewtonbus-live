@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fantasia Fest Review: CRAZY SAMURAI MUSASHI"
 pubDate: "2020-08-16"
 categories: 

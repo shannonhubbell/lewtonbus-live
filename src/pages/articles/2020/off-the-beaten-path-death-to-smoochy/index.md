@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off the Beaten Path: DEATH TO SMOOCHY"
 pubDate: "2020-03-01"
 categories: 

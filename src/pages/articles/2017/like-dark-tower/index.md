@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Why Did I Like THE DARK TOWER?"
 pubDate: "2017-08-04"
 categories: 

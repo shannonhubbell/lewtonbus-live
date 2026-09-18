@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "NYAFF Review: SURVIVAL FAMILY"
 pubDate: "2017-07-18"
 categories: 

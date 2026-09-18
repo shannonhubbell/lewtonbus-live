@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BREAKING: Idris Elba to Appear in FAST & FURIOUS Spinoff, Humanity to be Fine"
 pubDate: "2018-07-05"
 description: "BREAKING: Idris Elba to Appear in FAST & FURIOUS Spinoff, Humanity to be Fine"

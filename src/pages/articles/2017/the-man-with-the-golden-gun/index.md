@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It’s Our First Time? THE MAN WITH THE GOLDEN GUN"
 pubDate: "2017-05-21"
 categories: 

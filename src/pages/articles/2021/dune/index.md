@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: DUNE"
 pubDate: "2021-10-15"
 categories: 

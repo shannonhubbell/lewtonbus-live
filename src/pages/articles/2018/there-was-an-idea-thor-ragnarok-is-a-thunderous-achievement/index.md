@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was an Idea... THOR: RAGNAROK Is a Thunderous Achievement"
 pubDate: "2018-04-24"
 categories: 

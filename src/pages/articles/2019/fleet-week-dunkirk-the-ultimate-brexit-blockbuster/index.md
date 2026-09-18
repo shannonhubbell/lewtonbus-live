@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: DUNKIRK - The Ultimate Brexit Blockbuster"
 pubDate: "2019-05-23"
 categories: 

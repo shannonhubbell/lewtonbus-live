@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Allen’s Top 10 films of 2019"
 pubDate: "2019-12-31"
 categories: 

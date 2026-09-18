@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 6: THE NICE GUYS"
 pubDate: "2020-05-08"
 categories: 

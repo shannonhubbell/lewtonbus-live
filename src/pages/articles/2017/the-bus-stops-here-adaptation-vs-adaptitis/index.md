@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: Adaptation vs Adaptitis"
 pubDate: "2017-08-21"
 description: "The Bus Stops Here: Adaptation vs Adaptitis"

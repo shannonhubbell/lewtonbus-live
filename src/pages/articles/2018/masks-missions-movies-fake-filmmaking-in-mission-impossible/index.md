@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dad Media Month: Fake Filmmaking in MISSION: IMPOSSIBLE"
 pubDate: "2018-08-30"
 categories: 

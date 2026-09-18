@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Things We're Digging This Week - INFINITY WEEK Edition"
 pubDate: "2018-04-27"
 categories: 

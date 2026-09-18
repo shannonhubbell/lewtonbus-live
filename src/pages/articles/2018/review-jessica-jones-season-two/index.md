@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JESSICA JONES, Season Two"
 pubDate: "2018-03-16"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Cutting Room: Watch These Right Now on Netflix or Die Slowly"
 pubDate: "2017-10-16"
 categories: 

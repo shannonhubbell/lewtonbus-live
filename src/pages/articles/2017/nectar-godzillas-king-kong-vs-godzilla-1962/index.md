@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Nectar of the Godzillas - KING KONG VS GODZILLA (1962)"
 pubDate: "2017-10-14"
 categories: 

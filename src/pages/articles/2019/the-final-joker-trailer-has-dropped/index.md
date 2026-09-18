@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Final JOKER Trailer Has Dropped"
 pubDate: "2019-08-28"
 categories: 

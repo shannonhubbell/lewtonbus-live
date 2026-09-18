@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Western Month: Akira Kurosawa and Samurai Cinema"
 pubDate: "2018-08-20"
 description: "Western Month: Akira Kurosawa and Samurai Cinema"

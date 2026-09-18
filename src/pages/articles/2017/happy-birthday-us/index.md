@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "A Very Happy Birthday to Us!"
 pubDate: "2017-09-05"
 categories: 

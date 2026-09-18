@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Women in Film: The Tonal Balancing Act of Antonia Bird's RAVENOUS"
 pubDate: "2018-06-27"
 categories: 

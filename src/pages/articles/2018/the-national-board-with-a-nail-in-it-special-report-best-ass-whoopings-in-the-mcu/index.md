@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE NATIONAL BOARD WITH A NAIL IN IT Special Report: Best Ass Whoopings in the MCU"
 pubDate: "2018-05-05"
 categories: 

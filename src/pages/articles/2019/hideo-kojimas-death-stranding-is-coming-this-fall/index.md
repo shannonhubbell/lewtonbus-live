@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Hideo Kojima's DEATH STRANDING is Coming This Fall"
 pubDate: "2019-05-29"
 categories: 

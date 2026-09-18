@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Game of Thrones Recap: \"The Bells\""
 pubDate: "2019-05-13"
 categories: 

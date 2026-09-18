@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "MINDHUNTER Recap: Season 2 Episode 1"
 pubDate: "2019-09-29"
 categories: 

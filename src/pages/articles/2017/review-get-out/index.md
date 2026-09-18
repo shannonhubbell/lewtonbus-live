@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: GET OUT"
 pubDate: "2017-02-24"
 description: "Review: GET OUT"

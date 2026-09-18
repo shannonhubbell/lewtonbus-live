@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "In Memoriam: William Hobbs (1939-2018)"
 pubDate: "2018-07-23"
 categories: 

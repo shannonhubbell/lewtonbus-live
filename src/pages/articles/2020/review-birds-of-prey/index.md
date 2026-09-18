@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BIRDS OF PREY"
 pubDate: "2020-02-09"
 categories: 

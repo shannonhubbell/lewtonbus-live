@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "DUNKIRK: The Ultimate Brexit Blockbuster"
 pubDate: "2018-03-19"
 categories: 

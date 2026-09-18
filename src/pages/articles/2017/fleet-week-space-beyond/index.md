@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: SPACE: ABOVE &amp; BEYOND"
 pubDate: "2017-05-28"
 categories: 

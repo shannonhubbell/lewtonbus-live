@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "RIP to Iconic Kaiju performer Haruo Nakajima"
 pubDate: "2017-08-08"
 categories: 

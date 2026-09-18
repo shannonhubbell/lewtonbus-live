@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time? LICENCE TO KILL"
 pubDate: "2017-07-08"
 categories: 

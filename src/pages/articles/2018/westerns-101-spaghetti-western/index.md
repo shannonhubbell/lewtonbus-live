@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Westerns 101 — The Spaghetti Western"
 pubDate: "2018-08-22"
 description: "Westerns 101 — The Spaghetti Western"

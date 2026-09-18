@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: GEOSTORM"
 pubDate: "2017-10-21"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: DUMBO"
 pubDate: "2019-03-29"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: The Cast and the Furious"
 pubDate: "2017-04-19"
 description: "The Bus Stops Here: The Cast and the Furious"

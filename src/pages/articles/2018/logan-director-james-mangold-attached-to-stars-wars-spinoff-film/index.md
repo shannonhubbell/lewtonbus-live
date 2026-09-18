@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOGAN Director James Mangold Attached To STARS WARS Spinoff Film"
 pubDate: "2018-05-24"
 categories: 

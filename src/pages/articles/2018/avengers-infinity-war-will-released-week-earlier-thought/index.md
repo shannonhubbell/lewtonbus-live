@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "AVENGERS: INFINITY WAR will be released a week earlier than you thought"
 pubDate: "2018-03-01"
 categories: 

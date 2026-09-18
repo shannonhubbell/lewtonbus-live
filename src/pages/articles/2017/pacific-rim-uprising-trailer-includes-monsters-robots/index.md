@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The PACIFIC RIM: UPRISING Trailer Includes Monsters, Robots"
 pubDate: "2017-10-06"
 categories: 

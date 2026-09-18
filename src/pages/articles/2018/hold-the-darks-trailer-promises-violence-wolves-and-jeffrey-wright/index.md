@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "HOLD THE DARK's Trailer Promises Violence, Wolves, and Jeffrey Wright"
 pubDate: "2018-08-21"
 categories: 

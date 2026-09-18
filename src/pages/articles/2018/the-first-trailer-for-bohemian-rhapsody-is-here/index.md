@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The First Trailer For BOHEMIAN RHAPSODY Is Here"
 pubDate: "2018-05-15"
 categories: 

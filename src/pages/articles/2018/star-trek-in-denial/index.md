@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: STAR TREK In Denial"
 pubDate: "2018-05-22"
 categories: 

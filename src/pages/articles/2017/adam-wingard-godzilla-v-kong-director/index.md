@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Adam Wingard Is Your GODZILLA v. KONG Director"
 pubDate: "2017-05-31"
 categories: 

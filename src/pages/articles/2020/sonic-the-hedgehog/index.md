@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SONIC THE HEDGEHOG"
 pubDate: "2020-02-14"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Michael Myers Comes Home (Again) in a New HALLOWEEN Trailer"
 pubDate: "2018-06-08"
 categories: 

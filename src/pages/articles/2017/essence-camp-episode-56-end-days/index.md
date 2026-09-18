@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp, Episode 56: END OF DAYS"
 pubDate: "2017-08-29"
 description: "The Essence of Camp, Episode 56: END OF DAYS"

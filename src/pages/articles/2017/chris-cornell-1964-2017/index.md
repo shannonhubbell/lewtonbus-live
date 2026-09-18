@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Chris Cornell (1964-2017)"
 pubDate: "2017-05-18"
 categories: 

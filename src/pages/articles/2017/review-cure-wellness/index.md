@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: A CURE FOR WELLNESS"
 pubDate: "2017-02-17"
 description: "Review: A CURE FOR WELLNESS"

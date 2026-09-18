@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time? Revisiting GOLDFINGER"
 pubDate: "2017-03-24"
 categories: 

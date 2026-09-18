@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here, Episode 7: DREDD (2012)"
 pubDate: "2017-04-06"
 categories: 

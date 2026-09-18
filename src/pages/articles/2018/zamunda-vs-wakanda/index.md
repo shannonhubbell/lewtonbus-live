@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Zamunda vs Wakanda"
 pubDate: "2018-02-19"
 description: "Zamunda vs Wakanda"

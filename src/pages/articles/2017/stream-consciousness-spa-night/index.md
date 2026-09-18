@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: SPA NIGHT"
 pubDate: "2017-01-16"
 description: "Stream of Consciousness: SPA NIGHT"

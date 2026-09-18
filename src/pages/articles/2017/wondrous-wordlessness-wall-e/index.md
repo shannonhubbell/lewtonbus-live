@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wondrous Wordlessness of WALL-E"
 pubDate: "2017-06-15"
 categories: 

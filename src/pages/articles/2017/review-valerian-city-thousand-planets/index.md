@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: VALERIAN AND THE CITY OF A THOUSAND PLANETS"
 pubDate: "2017-07-21"
 categories: 

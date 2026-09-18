@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WESTWORLD Season 2 Post-Mortem"
 pubDate: "2018-07-03"
 categories: 

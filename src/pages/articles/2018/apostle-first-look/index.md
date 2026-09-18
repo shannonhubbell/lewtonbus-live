@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Our First Look at the Cult-tastic APOSTLE Reigns Down from Above"
 pubDate: "2018-09-17"
 description: "Our First Look at the Cult-tastic APOSTLE Reigns Down from Above"

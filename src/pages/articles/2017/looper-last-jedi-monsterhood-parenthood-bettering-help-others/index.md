@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOOPER & THE LAST JEDI: Monsterhood, Parenthood, and Bettering Yourself With the Help of Others"
 pubDate: "2017-12-26"
 categories: 

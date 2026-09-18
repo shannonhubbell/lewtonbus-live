@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: ALWAYS SHINE"
 pubDate: "2017-08-03"
 categories: 

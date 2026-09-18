@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BLACK MIRROR Season Four Review: “Arkangel”"
 pubDate: "2018-01-23"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Tanner's Top 25 Movies of the 2010s, Because Alliteration is Fun"
 pubDate: "2020-01-03"
 categories: 

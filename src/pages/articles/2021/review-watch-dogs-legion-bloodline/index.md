@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: WATCH DOGS: LEGION - BLOODLINE"
 pubDate: "2021-07-19"
 categories: 

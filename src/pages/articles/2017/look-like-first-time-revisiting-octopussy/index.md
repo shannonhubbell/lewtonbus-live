@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "\"Does it Look Like it's Our First Time?\" Revisiting OCTOPUSSY"
 pubDate: "2017-06-18"
 categories: 

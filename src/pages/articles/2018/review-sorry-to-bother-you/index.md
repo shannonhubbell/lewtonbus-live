@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SORRY TO BOTHER YOU"
 pubDate: "2018-07-09"
 categories: 

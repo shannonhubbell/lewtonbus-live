@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE SHAPE OF WATER"
 pubDate: "2017-12-07"
 categories: 

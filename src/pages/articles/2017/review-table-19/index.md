@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: TABLE 19"
 pubDate: "2017-03-07"
 categories: 

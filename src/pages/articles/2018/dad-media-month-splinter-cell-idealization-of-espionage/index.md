@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dad Media Month: SPLINTER CELL and the Idealization of Espionage"
 pubDate: "2018-09-05"
 categories: 

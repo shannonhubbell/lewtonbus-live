@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BLADE TRINITY Was Born Ready"
 pubDate: "2018-02-15"
 categories: 

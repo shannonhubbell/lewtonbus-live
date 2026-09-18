@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "2 FAST 2 FURIOUS: Of Bros and Booties"
 pubDate: "2017-04-10"
 categories: 

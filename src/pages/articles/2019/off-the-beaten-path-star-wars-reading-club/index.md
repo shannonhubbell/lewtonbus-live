@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off the Beaten Path: STAR WARS READING CLUB"
 pubDate: "2019-04-25"
 categories: 

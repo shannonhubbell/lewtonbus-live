@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "AVENGERS: ENDGAME: The Marvel Cinematic Universe Looks Back at Itself"
 pubDate: "2019-05-04"
 categories: 

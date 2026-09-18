@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "CREED: The Shadows Our Fathers Cast"
 pubDate: "2018-02-15"
 categories: 

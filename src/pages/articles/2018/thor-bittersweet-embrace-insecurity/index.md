@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THERE WAS AN IDEA... THOR and the Bittersweet Embrace of Insecurity"
 pubDate: "2018-03-05"
 categories: 

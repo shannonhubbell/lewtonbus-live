@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Writing WRATH: Inventing the Premise of a Horror Film"
 pubDate: "2017-05-24"
 description: "Writing WRATH: Inventing the Premise of a Horror Film"

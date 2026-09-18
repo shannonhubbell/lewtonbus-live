@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "2017 Emmy Awards Recap"
 pubDate: "2017-09-18"
 categories: 

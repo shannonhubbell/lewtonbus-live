@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Cutting Room: Jason Horton and THE CAMPUS"
 pubDate: "2018-03-01"
 categories: 

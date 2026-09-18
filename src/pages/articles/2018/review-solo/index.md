@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SOLO"
 pubDate: "2018-05-25"
 categories: 

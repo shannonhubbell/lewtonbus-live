@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "My Favorite Movie: ZOMBIELAND"
 pubDate: "2018-10-30"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: INCREDIBLES 2"
 pubDate: "2018-06-15"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: UNCLE FRANK"
 pubDate: "2020-11-25"
 categories: 

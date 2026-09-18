@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: LOGAN LUCKY"
 pubDate: "2017-08-18"
 categories: 

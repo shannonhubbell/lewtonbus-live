@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: AVENGERS: ENDGAME"
 pubDate: "2019-05-19"
 categories: 

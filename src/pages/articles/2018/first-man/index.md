@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The FIRST MAN Trailer Wants You to Know That Space is Scary"
 pubDate: "2018-06-09"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp Episode 39: HELLRAISER"
 pubDate: "2016-10-21"
 categories: 

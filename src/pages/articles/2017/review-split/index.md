@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SPLIT"
 pubDate: "2017-01-20"
 categories: 

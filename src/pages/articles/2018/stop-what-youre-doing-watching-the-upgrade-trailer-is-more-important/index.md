@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stop What You're Doing; Watching the UPGRADE Trailer Is More Important"
 pubDate: "2018-04-03"
 categories: 

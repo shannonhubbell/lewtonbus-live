@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "REVIEW: ANT-MAN AND THE WASP"
 pubDate: "2018-07-06"
 categories: 

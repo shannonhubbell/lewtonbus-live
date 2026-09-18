@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "VENOM Gets a Turd... I Mean Third Trailer"
 pubDate: "2018-07-31"
 categories: 

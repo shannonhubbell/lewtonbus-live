@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was An Idea... BLACK PANTHER: A Powerful New Element in the MCU Formula"
 pubDate: "2018-04-26"
 categories: 

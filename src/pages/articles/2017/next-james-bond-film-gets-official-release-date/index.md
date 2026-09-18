@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Next James Bond Film Gets an Official Release Date"
 pubDate: "2017-07-24"
 categories: 

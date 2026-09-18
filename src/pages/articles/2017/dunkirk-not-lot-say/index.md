@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "DUNKIRK Does Not Have a Lot to Say"
 pubDate: "2017-07-21"
 categories: 

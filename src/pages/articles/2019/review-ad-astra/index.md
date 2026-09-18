@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: AD ASTRA"
 pubDate: "2019-09-19"
 categories: 

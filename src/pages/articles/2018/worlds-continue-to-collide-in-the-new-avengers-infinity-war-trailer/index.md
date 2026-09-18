@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Worlds Continue To Collide In The New AVENGERS: INFINITY WAR Trailer"
 pubDate: "2018-03-16"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "ALPHA CENTAURI and Minimalist Storytelling"
 pubDate: "2016-11-14"
 categories: 

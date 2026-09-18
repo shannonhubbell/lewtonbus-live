@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Second HALLOWEEN Trailer Has Arrived. Will Kill You Tonight."
 pubDate: "2018-09-05"
 categories: 

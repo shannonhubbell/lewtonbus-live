@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Composer Jóhann Jóhannsson Has Died"
 pubDate: "2018-02-10"
 description: "Composer Jóhann Jóhannsson Has Died"

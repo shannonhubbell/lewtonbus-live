@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: REMINISCENCE"
 pubDate: "2021-08-22"
 categories: 

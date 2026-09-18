@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE PEANUT BUTTER FALCON"
 pubDate: "2019-08-23"
 categories: 

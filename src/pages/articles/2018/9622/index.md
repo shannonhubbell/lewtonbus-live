@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: Surviving September"
 pubDate: "2018-09-04"
 categories: 

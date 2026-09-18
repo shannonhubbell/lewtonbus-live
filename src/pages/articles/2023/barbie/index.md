@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Trailer for Greta Gerwig’s BARBIE Is Here and It’s a Hoot"
 pubDate: "2023-04-04"
 categories: 

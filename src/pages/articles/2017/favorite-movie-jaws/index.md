@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "My Favorite Movie: JAWS"
 pubDate: "2017-11-30"
 description: "My Favorite Movie: JAWS"

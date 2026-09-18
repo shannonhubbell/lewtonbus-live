@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "JACK RYAN, Season 2 Episode 4: Dressed to Kill"
 pubDate: "2019-11-24"
 categories: 

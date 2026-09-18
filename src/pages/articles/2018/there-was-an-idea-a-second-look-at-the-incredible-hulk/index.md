@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THERE WAS AN IDEA... A Second Look at THE INCREDIBLE HULK"
 pubDate: "2018-03-02"
 categories: 

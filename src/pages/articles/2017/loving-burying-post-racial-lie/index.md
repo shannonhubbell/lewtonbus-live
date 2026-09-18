@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOVING: Burying the Post-Racial Lie"
 pubDate: "2017-03-06"
 categories: 

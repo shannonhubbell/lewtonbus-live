@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SPOILERDOME: BLACK PANTHER"
 pubDate: "2018-02-18"
 categories: 

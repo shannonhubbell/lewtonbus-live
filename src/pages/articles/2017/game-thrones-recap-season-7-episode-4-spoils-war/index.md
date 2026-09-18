@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GAME OF THRONES Recap: Season 7 Episode 4: \"The Spoils of War\""
 pubDate: "2017-08-07"
 categories: 

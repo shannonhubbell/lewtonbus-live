@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: MASTER AND COMMANDER: THE FAR SIDE OF THE WORLD"
 pubDate: "2017-05-24"
 categories: 

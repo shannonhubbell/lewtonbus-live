@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "KILLING GUNTHER Looks Like Another Great Schwarzenegger Performance"
 pubDate: "2017-08-30"
 categories: 

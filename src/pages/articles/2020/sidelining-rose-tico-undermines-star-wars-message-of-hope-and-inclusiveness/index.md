@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Sidelining Rose Tico Undermines STAR WARS’ Message of Hope and Inclusiveness"
 pubDate: "2020-01-01"
 categories: 

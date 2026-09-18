@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "It's Finally Here: STAR WARS WEEK"
 pubDate: "2017-12-11"
 description: "It's Finally Here: STAR WARS WEEK"

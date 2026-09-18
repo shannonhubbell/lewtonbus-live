@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE CHILLING ADVENTURES OF SABRINA, “Witch Academy”"
 pubDate: "2018-12-12"
 description: "Review: THE CHILLING ADVENTURES OF SABRINA, “Witch Academy”"

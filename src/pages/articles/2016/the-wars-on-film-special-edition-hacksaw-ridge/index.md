@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars On Film Special Edition: HACKSAW RIDGE"
 pubDate: "2016-11-06"
 categories: 

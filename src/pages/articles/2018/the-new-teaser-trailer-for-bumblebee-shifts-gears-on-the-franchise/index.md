@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The New Teaser Trailer for BUMBLEBEE Shifts Gears on the TRANSFORMERS Franchise"
 pubDate: "2018-06-05"
 categories: 

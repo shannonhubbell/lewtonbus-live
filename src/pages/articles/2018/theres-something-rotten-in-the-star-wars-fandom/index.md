@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There's Something Rotten in the STAR WARS Fandom"
 pubDate: "2018-06-12"
 categories: 

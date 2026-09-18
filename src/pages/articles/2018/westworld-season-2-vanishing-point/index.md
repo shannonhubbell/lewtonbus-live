@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WESTWORLD Season 2 - Vanishing Point"
 pubDate: "2018-06-18"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 24: JAY AND SILENT BOB STRIKE BACK"
 pubDate: "2020-09-12"
 categories: 

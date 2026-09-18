@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Daly Planet: AUDITION Auditions For the Kryptonian Collection"
 pubDate: "2016-12-15"
 categories: 

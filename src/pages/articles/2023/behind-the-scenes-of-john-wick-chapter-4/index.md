@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Behind the Scenes of JOHN WICK: CHAPTER 4"
 pubDate: "2023-02-21"
 categories: 

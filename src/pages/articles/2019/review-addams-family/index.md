@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE ADDAMS FAMILY"
 pubDate: "2019-10-11"
 categories: 

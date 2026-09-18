@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "\"Curve\" is a Nightmare Caught on Film"
 pubDate: "2017-06-20"
 categories: 

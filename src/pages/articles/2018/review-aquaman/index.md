@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: AQUAMAN"
 pubDate: "2018-12-18"
 categories: 

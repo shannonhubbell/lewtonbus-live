@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Things We're Digging This Week - King Week Edition"
 pubDate: "2017-09-10"
 categories: 

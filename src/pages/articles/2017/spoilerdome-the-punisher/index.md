@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spoilerdome: THE PUNISHER"
 pubDate: "2017-11-21"
 categories: 

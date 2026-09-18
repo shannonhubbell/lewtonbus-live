@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: CAPTAIN MARVEL"
 pubDate: "2019-03-08"
 categories: 

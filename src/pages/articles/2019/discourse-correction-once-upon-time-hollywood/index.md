@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Discourse Correction: Talking About Talking About ONCE UPON A TIME... IN HOLLYWOOD"
 pubDate: "2019-07-31"
 categories: 

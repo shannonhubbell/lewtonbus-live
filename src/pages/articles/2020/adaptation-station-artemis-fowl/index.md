@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Adaptation Station: ARTEMIS FOWL"
 pubDate: "2020-06-17"
 categories: 

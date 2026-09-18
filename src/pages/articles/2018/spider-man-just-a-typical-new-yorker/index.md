@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SPIDER-MAN: Just a Typical New Yorker"
 pubDate: "2018-09-25"
 categories: 

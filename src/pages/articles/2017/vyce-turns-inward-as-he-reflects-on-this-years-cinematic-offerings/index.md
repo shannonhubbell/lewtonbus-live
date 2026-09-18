@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "It's A Long Road:  A Veteran's Day War Film Retrospective"
 pubDate: "2017-11-11"
 description: "It's A Long Road:  A Veteran's Day War Film Retrospective"

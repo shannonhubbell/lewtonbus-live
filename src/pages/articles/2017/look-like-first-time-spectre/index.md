@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time? Spectre"
 pubDate: "2017-10-04"
 description: "Does It Look Like It's Our First Time? Spectre"

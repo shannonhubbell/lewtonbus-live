@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE BALLAD OF BUSTER SCRUGGS"
 pubDate: "2018-11-19"
 categories: 

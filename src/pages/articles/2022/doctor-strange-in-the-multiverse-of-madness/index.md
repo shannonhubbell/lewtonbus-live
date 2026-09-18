@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS"
 pubDate: "2022-05-11"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here, Episode 2: Heroes and Villains of American Cinema"
 pubDate: "2017-02-08"
 categories: 

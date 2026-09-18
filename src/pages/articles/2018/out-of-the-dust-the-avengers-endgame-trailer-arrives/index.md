@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Rising From the Ashes, The AVENGERS: ENDGAME Trailer Arrives"
 pubDate: "2018-12-07"
 categories: 

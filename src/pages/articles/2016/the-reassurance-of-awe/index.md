@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Reassurance of Awe"
 pubDate: "2016-09-06"
 categories: 

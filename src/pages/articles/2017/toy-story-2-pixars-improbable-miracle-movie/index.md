@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "TOY STORY 2: Pixar's Improbable Miracle Movie"
 pubDate: "2017-06-16"
 categories: 

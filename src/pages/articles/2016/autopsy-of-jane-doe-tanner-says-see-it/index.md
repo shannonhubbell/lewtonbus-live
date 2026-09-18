@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "AUTOPSY OF JANE DOE: Tanner Says See It"
 pubDate: "2016-12-23"
 description: "AUTOPSY OF JANE DOE: Tanner Says See It"

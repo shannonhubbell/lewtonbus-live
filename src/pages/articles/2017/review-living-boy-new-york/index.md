@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE ONLY LIVING BOY IN NEW YORK"
 pubDate: "2017-08-14"
 categories: 

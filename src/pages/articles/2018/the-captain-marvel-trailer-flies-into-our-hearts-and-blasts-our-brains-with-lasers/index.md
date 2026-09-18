@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The CAPTAIN MARVEL Trailer Flies into Our Hearts and Blasts Our Brains with Lasers"
 pubDate: "2018-09-18"
 categories: 

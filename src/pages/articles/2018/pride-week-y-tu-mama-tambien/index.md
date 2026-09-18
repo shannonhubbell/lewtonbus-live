@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Pride Week: Y TU MAMÁ TAMBIÉN"
 pubDate: "2018-06-30"
 categories: 

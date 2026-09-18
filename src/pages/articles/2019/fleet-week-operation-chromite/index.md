@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: OPERATION CHROMITE"
 pubDate: "2019-05-27"
 description: "Fleet Week: OPERATION CHROMITE"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Your Unfriendly Neighborhood TURKISH SPIDER-MAN"
 pubDate: "2017-07-06"
 categories: 

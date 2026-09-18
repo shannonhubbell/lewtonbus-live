@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "June Foray (1917-2017)"
 pubDate: "2017-07-27"
 categories: 

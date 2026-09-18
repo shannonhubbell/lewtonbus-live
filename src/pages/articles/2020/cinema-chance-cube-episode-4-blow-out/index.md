@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 4: BLOW OUT"
 pubDate: "2020-04-24"
 categories: 

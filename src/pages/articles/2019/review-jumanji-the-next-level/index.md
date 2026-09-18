@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JUMANJI: THE NEXT LEVEL"
 pubDate: "2019-12-15"
 categories: 

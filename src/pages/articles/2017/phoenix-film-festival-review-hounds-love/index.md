@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Phoenix Film Festival Review: HOUNDS OF LOVE"
 pubDate: "2017-04-18"
 categories: 

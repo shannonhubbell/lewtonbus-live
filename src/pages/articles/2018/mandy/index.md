@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "MANDY: I Have No Idea What to Call a Review of this Bonkers Splatterfest"
 pubDate: "2018-09-15"
 categories: 

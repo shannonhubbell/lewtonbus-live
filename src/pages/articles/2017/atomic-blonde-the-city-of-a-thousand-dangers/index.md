@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "ATOMIC BLONDE &amp; the City of a Thousand Dangers"
 pubDate: "2017-08-03"
 categories: 

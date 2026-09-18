@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The \"Official\" Lewton Bus Oscar Preview"
 pubDate: "2018-03-03"
 categories: 

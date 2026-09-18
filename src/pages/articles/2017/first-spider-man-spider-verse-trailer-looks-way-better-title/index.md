@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "First SPIDER-MAN: INTO THE SPIDER-VERSE Trailer Looks Way Better Than its Title"
 pubDate: "2017-12-09"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time? Revisiting THUNDERBALL"
 pubDate: "2017-04-01"
 categories: 

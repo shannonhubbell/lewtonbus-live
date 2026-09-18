@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dad Media Month: Liam Neeson Takes A WALK AMONG THE TOMBSTONES"
 pubDate: "2018-09-20"
 categories: 

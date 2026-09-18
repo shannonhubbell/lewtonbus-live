@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "An Expert’s Guide to All the Pokémon in the DETECTIVE PIKACHU Trailer"
 pubDate: "2019-02-27"
 categories: 

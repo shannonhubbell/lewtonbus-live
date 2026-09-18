@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: US"
 pubDate: "2019-03-22"
 categories: 

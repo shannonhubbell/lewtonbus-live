@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SOUND OF METAL"
 pubDate: "2020-12-04"
 categories: 

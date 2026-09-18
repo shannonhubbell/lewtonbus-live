@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SILENCE"
 pubDate: "2017-01-06"
 categories: 

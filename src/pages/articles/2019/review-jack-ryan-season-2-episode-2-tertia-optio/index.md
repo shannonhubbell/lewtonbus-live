@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JACK RYAN, Season 2 Episode 2: “Tertia Optio”"
 pubDate: "2019-11-06"
 categories: 

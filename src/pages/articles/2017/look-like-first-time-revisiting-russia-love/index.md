@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It’s Our First Time? Revisiting FROM RUSSIA WITH LOVE"
 pubDate: "2017-03-15"
 categories: 

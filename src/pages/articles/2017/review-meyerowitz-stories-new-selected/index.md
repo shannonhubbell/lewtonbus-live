@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE MEYEROWITZ STORIES (NEW AND SELECTED)"
 pubDate: "2017-10-24"
 categories: 

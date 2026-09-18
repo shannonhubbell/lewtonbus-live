@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BEETLEJUICE and HOCUS POCUS: Halloween with a Pair of Cult Classics"
 pubDate: "2018-10-31"
 categories: 

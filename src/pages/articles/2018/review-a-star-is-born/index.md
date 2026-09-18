@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: A STAR IS BORN"
 pubDate: "2018-10-05"
 categories: 

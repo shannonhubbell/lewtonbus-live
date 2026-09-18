@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 16: THE THING"
 pubDate: "2020-07-20"
 categories: 

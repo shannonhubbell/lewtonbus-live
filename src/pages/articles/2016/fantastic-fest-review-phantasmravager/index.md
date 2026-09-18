@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fantastic Fest Review - PHANTASM: RAVAGER"
 pubDate: "2016-10-19"
 categories: 

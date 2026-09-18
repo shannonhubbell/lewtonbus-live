@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Poetics of Empire"
 pubDate: "2018-05-22"
 description: "The Poetics of Empire"

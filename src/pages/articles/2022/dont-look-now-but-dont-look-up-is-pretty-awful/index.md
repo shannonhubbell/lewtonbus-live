@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Don’t look now, but DON'T LOOK UP is pretty awful"
 pubDate: "2022-02-02"
 categories: 

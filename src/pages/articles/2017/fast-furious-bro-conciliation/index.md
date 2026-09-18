@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "FAST &amp; FURIOUS - Bro-conciliation"
 pubDate: "2017-04-12"
 description: "FAST &amp; FURIOUS - Bro-conciliation"

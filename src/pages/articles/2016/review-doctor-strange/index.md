@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: DOCTOR STRANGE"
 pubDate: "2016-11-05"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "This Trailer for TRANSFORMERS: THE LAST KNIGHT Sure Looks Like a TRANSFORMERS Trailer"
 pubDate: "2017-06-09"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: IT'S ALWAYS SUNNY IN PHILADELPHIA - SEASON 12 (Part 1)"
 pubDate: "2017-03-08"
 categories: 

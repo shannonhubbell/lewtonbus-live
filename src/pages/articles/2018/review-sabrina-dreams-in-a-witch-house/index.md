@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SABRINA, “Dreams in a Witch House”"
 pubDate: "2018-12-29"
 description: "Review: SABRINA, “Dreams in a Witch House”"

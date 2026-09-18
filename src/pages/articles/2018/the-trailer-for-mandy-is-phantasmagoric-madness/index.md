@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Trailer for MANDY is Phantasmagoric Madness"
 pubDate: "2018-06-27"
 categories: 

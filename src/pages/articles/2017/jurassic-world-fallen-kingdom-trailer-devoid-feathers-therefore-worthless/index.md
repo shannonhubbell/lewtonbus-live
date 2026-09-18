@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The JURASSIC WORLD: FALLEN KINGDOM Trailer is Devoid of Feathers and is Therefore Worthless"
 pubDate: "2017-12-08"
 categories: 

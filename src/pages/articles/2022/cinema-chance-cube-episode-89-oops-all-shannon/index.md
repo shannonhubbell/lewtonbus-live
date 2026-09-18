@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 89: Oops! All Shannon"
 pubDate: "2022-12-16"
 categories: 

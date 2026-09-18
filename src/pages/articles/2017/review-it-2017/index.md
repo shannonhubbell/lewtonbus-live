@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: IT (2017)"
 pubDate: "2017-09-09"
 categories: 

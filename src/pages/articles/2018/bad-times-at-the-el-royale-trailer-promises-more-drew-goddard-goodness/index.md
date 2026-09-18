@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BAD TIMES AT THE EL ROYALE Trailer Promises More Drew Goddard Goodness"
 pubDate: "2018-06-08"
 categories: 

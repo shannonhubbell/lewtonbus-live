@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WESTWORLD Season 2 – Les Écorchés"
 pubDate: "2018-06-04"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Nectar of the Godzillas: GODZILLA (1954)"
 pubDate: "2017-05-12"
 description: "Nectar of the Godzillas: GODZILLA (1954)"

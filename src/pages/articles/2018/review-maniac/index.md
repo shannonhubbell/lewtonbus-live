@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: MANIAC"
 pubDate: "2018-10-01"
 categories: 

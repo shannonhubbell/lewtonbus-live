@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Will's Top 15 Films of 2018"
 pubDate: "2019-01-08"
 categories: 

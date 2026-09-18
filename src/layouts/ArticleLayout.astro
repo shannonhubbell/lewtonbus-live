@@ -1,0 +1,110 @@
+---
+import Layout from "./Layout.astro";
+import { getEntry } from "astro:content";
+
+interface Props {
+	frontmatter: {
+		title: string;
+		description?: string;
+		pubDate?: string;
+		categories?: string[];
+		tags?: string[];
+		authors?: string[];
+	};
+}
+
+const { frontmatter } = Astro.props;
+
+const authors = (
+	await Promise.all(
+		(frontmatter.authors ?? []).map((slug) => getEntry("authors", slug)),
+	)
+).filter((author) => author !== undefined);
+
+const pubDate = frontmatter.pubDate ? new Date(frontmatter.pubDate) : undefined;
+---
+
+<Layout pageTitle={frontmatter.title} pageDescription={frontmatter.description}>
+	<article id="article-wrapper">
+		<header>
+			<h1>{frontmatter.title}</h1>
+			<p class="byline">
+				{authors.length > 0 && (
+					<>
+						By{" "}
+						{authors.map((author, i) => (
+							<>
+								<a href={`/authors/${author.id}/`}>{author.data.name}</a>
+								{i < authors.length - 1 ? ", " : ""}
+							</>
+						))}
+						{" "}
+					</>
+				)}
+				{pubDate && (
+					<time datetime={pubDate.toISOString()}>
+						{pubDate.toLocaleDateString("en-US", {
+							year: "numeric",
+							month: "long",
+							day: "numeric",
+							timeZone: "UTC",
+						})}
+					</time>
+				)}
+			</p>
+		</header>
+
+		<div class="content">
+			<slot />
+		</div>
+
+		{
+			frontmatter.tags && frontmatter.tags.length > 0 && (
+				<footer class="tags">
+					{frontmatter.tags.map((tag) => (
+						<span class="tag">{tag}</span>
+					))}
+				</footer>
+			)
+		}
+	</article>
+</Layout>
+
+<style>
+	#article-wrapper {
+		max-width: 800px;
+		margin: 0 auto;
+		padding: 1rem;
+	}
+	header {
+		margin-bottom: 2rem;
+	}
+	.byline {
+		text-transform: uppercase;
+		font-size: 0.8rem;
+		opacity: 0.6;
+		a {
+			color: inherit;
+		}
+	}
+	.content {
+		line-height: 160%;
+		:global(p) {
+			margin: 0 0 1.5rem;
+		}
+	}
+	.tags {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+		margin-top: 2rem;
+	}
+	.tag {
+		font-size: 0.75rem;
+		text-transform: uppercase;
+		opacity: 0.6;
+		&::before {
+			content: "#";
+		}
+	}
+</style>

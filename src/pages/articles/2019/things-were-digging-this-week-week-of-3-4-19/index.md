@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Things We're Digging This Week - Week of 3/4/19"
 pubDate: "2019-03-08"
 categories: 

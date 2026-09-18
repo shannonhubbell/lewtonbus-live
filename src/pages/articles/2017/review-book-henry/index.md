@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE BOOK OF HENRY"
 pubDate: "2017-06-15"
 categories: 

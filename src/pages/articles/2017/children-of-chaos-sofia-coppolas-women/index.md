@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Children of Chaos: Sofia Coppola's Women"
 pubDate: "2017-06-01"
 description: "Children of Chaos: Sofia Coppola's Women"

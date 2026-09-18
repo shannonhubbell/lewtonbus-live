@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Writing WRATH: An Introduction"
 pubDate: "2017-05-23"
 categories: 

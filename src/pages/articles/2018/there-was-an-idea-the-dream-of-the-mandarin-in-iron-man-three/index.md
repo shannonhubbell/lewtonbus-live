@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was An Idea… The Dream of The Mandarin in IRON MAN THREE"
 pubDate: "2018-03-23"
 categories: 

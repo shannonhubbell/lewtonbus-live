@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: CHAPPAQUIDDICK"
 pubDate: "2018-04-23"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Nature of the Beast: Ridley Scott and the Ridleygram"
 pubDate: "2017-05-16"
 categories: 

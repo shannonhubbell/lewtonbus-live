@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review - JOHN WICK: CHAPTER 2"
 pubDate: "2017-02-13"
 categories: 

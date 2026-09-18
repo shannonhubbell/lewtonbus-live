@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "A WATCHMEN History Guide: S1E1 - “It’s Summer and We’re Running Out of Ice”"
 pubDate: "2019-10-25"
 categories: 

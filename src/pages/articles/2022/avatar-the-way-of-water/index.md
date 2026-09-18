@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: AVATAR: THE WAY OF WATER"
 pubDate: "2022-12-19"
 categories: 

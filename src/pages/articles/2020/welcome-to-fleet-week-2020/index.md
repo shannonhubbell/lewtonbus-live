@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Welcome to FLEET WEEK(END)!"
 pubDate: "2020-05-21"
 categories: 

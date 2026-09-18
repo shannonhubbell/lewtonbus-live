@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: GUNPOWDER MILKSHAKE"
 pubDate: "2021-07-17"
 categories: 

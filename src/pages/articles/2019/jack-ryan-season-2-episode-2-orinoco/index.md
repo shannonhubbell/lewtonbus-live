@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "JACK RYAN, Season 2 Episode 3: Orinoco"
 pubDate: "2019-11-15"
 categories: 

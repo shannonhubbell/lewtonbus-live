@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Daniel Craig to Return for Bond 25"
 pubDate: "2017-08-16"
 description: "Daniel Craig to Return for Bond 25"

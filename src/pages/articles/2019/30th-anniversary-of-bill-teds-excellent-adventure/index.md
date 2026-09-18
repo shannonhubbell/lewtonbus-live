@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "30th Anniversary of BILL & TED'S EXCELLENT ADVENTURE - Living In the Most Excellent City"
 pubDate: "2019-02-18"
 categories: 

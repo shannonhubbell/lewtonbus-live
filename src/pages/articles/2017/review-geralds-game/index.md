@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: GERALD'S GAME"
 pubDate: "2017-09-30"
 categories: 

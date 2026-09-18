@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: MEN"
 pubDate: "2022-06-08"
 categories: 

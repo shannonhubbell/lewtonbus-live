@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOVECRAFT COUNTRY Episode 6: \"Meet me in Daegu\""
 pubDate: "2020-09-23"
 categories: 

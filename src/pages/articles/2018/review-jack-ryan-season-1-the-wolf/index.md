@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JACK RYAN, Season 1: The Wolf"
 pubDate: "2018-09-10"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE WANDERING EARTH"
 pubDate: "2019-02-10"
 categories: 

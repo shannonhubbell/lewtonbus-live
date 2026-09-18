@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "From the Attic: THE GATE"
 pubDate: "2017-04-28"
 categories: 

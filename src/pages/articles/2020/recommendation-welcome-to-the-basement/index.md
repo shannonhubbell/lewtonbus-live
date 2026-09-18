@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Recommendation: Welcome To The Basement"
 pubDate: "2020-04-02"
 categories: 

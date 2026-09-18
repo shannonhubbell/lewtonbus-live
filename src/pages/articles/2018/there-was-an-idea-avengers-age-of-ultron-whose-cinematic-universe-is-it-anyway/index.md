@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was An Idea... AVENGERS: AGE OF ULTRON - Whose Cinematic Universe Is It, Anyway?"
 pubDate: "2018-04-02"
 categories: 

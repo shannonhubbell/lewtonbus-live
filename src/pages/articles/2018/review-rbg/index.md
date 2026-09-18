@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Women in Film: RBG Review"
 pubDate: "2018-06-19"
 categories: 

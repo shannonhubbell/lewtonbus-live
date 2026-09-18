@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "1UPtown: RAIDERS OF THE LOST ARK"
 pubDate: "2019-10-16"
 categories: 

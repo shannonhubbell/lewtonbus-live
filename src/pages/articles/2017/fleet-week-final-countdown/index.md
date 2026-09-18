@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: THE FINAL COUNTDOWN"
 pubDate: "2017-05-25"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Westerns 101 — Introduction"
 pubDate: "2018-08-01"
 categories: 

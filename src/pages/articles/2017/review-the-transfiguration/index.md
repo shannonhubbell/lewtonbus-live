@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE TRANSFIGURATION"
 pubDate: "2017-04-08"
 categories: 

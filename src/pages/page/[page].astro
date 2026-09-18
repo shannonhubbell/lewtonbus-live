@@ -1,0 +1,45 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import HomeFeed from "../../components/HomeFeed.astro";
+import { getAllArticles } from "../../lib/articles";
+
+export async function getStaticPaths() {
+	const POSTS_PER_PAGE = 5;
+	const posts = await getAllArticles();
+	const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
+
+	return Array.from({ length: Math.max(0, totalPages - 1) }, (_, index) => {
+		const currentPage = index + 2;
+		return {
+			params: { page: String(currentPage) },
+			props: {
+				posts: posts.slice(
+					(currentPage - 1) * POSTS_PER_PAGE,
+					currentPage * POSTS_PER_PAGE,
+				),
+				currentPage,
+				totalPages,
+			},
+		};
+	});
+}
+
+const { posts, currentPage, totalPages } = Astro.props;
+
+const title = "Lewton Bus";
+const description = "Back and ready to brawl.";
+---
+
+<Layout pageTitle={title} pageDescription={description}>
+	<div id="home-wrapper">
+		<HomeFeed posts={posts} currentPage={currentPage} totalPages={totalPages} />
+	</div>
+</Layout>
+
+<style>
+	#home-wrapper {
+		max-width: 800px;
+		margin: 0 auto;
+		padding: 1rem;
+	}
+</style>

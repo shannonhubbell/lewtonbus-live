@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "James Bond’s War Against Himself"
 pubDate: "2019-06-18"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Barry Episode Five: ronny/lily"
 pubDate: "2019-06-02"
 categories: 

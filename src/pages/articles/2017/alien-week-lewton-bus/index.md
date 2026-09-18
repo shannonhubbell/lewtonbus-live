@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "It's ALIEN Week at Lewton Bus!"
 pubDate: "2017-05-15"
 categories: 

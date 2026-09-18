@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp, Episode 49: KRULL"
 pubDate: "2017-04-18"
 description: "The Essence of Camp, Episode 49: KRULL"

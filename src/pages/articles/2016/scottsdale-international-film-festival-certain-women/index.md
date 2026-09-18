@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Scottsdale International Film Festival: CERTAIN WOMEN"
 pubDate: "2016-10-11"
 categories: 

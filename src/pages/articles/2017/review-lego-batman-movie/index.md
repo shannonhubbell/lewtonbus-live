@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE LEGO BATMAN MOVIE"
 pubDate: "2017-02-13"
 categories: 

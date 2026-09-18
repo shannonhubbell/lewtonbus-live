@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: NO TIME TO DIE"
 pubDate: "2021-10-02"
 categories: 

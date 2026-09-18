@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: The Birth of a Nation"
 pubDate: "2016-09-06"
 categories: 

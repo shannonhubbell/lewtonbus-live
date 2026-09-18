@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: TENET"
 pubDate: "2020-08-30"
 categories: 

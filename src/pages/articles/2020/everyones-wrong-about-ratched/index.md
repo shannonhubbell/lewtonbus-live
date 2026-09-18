@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Everyone's Wrong About Ratched"
 pubDate: "2020-11-23"
 categories: 

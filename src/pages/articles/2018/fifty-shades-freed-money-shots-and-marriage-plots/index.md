@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fifty Shades Freed: Money Shots and Marriage Plots"
 pubDate: "2018-02-14"
 description: "Fifty Shades Freed: Money Shots and Marriage Plots"

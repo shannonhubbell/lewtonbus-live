@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Things We're Digging This Week - Star Wars Week - Our Favorite Extras"
 pubDate: "2017-12-17"
 categories: 

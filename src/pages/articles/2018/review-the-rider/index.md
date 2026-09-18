@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE RIDER"
 pubDate: "2018-04-21"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: WE ARE THE HEAT"
 pubDate: "2019-02-21"
 categories: 

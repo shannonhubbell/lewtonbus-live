@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time? LIVE AND LET DIE"
 pubDate: "2017-05-15"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "ARTEMIS FOWL and the Death and Rebirth of the YA Adaptation"
 pubDate: "2020-06-19"
 categories: 

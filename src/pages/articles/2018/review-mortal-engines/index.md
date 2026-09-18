@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: MORTAL ENGINES"
 pubDate: "2018-12-11"
 categories: 

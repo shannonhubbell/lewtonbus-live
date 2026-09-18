@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ALWAYS BE MY MAYBE"
 pubDate: "2019-06-05"
 categories: 

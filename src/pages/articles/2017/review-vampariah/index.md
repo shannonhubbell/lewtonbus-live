@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: VAMPARIAH"
 pubDate: "2017-04-23"
 categories: 

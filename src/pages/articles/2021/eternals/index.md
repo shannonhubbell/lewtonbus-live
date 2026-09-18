@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ETERNALS"
 pubDate: "2021-11-07"
 categories: 

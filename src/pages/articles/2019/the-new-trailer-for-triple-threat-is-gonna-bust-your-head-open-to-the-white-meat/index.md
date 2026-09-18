@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The New Trailer for TRIPLE THREAT Is Gonna Bust Your Head Open to the White Meat"
 pubDate: "2019-02-14"
 categories: 

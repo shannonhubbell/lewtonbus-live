@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Welcome to FLEET WEEK!"
 pubDate: "2019-05-21"
 categories: 

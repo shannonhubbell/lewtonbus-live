@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: Jaws"
 pubDate: "2016-09-13"
 description: "Stream of Consciousness: Jaws"

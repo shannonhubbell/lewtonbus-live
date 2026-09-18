@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE LEGO MOVIE 2: THE SECOND PART"
 pubDate: "2019-02-10"
 categories: 

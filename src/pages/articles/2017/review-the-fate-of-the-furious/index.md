@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE FATE OF THE FURIOUS"
 pubDate: "2017-04-14"
 categories: 

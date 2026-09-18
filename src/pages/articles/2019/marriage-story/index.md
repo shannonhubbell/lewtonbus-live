@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SIFF Review: MARRIAGE STORY"
 pubDate: "2019-11-05"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "ARRIVAL: Ending to Begin"
 pubDate: "2018-01-22"
 categories: 

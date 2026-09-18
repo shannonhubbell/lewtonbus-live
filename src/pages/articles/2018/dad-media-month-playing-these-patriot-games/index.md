@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dad Media Month: Playing These PATRIOT GAMES"
 pubDate: "2018-09-04"
 description: "Dad Media Month: Playing These PATRIOT GAMES"

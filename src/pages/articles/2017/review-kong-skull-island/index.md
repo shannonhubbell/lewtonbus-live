@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: KONG: SKULL ISLAND"
 pubDate: "2017-03-07"
 description: "Review: KONG: SKULL ISLAND"

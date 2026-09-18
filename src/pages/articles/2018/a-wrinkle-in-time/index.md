@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: A WRINKLE IN TIME"
 pubDate: "2018-03-09"
 categories: 

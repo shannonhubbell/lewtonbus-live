@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Lewton Bus Oscar Picks"
 pubDate: "2017-02-26"
 categories: 

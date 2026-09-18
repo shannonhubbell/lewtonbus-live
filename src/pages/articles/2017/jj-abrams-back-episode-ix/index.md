@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "JJ Abrams is Back for EPISODE IX"
 pubDate: "2017-09-12"
 categories: 

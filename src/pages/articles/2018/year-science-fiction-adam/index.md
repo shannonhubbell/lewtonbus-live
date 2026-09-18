@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Year In Science Fiction, with Adam"
 pubDate: "2018-01-04"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: RAMPAGE"
 pubDate: "2018-04-13"
 categories: 

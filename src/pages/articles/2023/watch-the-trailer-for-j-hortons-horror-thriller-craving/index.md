@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Watch the Trailer for J. Horton's Horror Thriller CRAVING"
 pubDate: "2023-02-22"
 categories: 

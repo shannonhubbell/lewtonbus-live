@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: FREE FIRE"
 pubDate: "2017-04-21"
 categories: 

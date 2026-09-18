@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: The State of Cinema"
 pubDate: "2020-04-21"
 categories: 

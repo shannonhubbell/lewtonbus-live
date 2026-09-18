@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Chris Hemsworth will Play Hulk - Hulk Hogan, That Is"
 pubDate: "2019-02-21"
 categories: 

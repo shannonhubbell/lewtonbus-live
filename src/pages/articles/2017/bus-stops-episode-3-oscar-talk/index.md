@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here, Episode 3: Oscar Talk"
 pubDate: "2017-02-27"
 description: "The Bus Stops Here, Episode 3: Oscar Talk"

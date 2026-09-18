@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: A QUIET PLACE"
 pubDate: "2018-04-06"
 categories: 

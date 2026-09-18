@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SPACE JAM: A NEW LEGACY"
 pubDate: "2021-07-18"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does it Look Like It's Our First Time? Revisiting James Bond"
 pubDate: "2017-02-17"
 categories: 

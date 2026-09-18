@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "PITCH PERFECT 3 REVIEW"
 pubDate: "2017-12-22"
 description: "PITCH PERFECT 3 REVIEW"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: ASSASSIN’S CREED III"
 pubDate: "2019-05-28"
 categories: 

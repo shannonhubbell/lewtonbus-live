@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "DESTINY, and Learning to Rage Against the Dying of the Light"
 pubDate: "2020-05-27"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE NATIONAL BOARD WITH A NAIL IN IT Last Annual Year in Review for 2019"
 pubDate: "2020-02-17"
 categories: 

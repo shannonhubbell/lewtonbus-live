@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Allen's Top Ten Films of 2018"
 pubDate: "2018-12-31"
 categories: 

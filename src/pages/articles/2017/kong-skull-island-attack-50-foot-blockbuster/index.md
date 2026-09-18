@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "KONG: SKULL ISLAND: Attack Of The 50-Foot Blockbuster"
 pubDate: "2017-03-15"
 description: "KONG: SKULL ISLAND: Attack Of The 50-Foot Blockbuster"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The CRAZY RICH ASIANS Trailer Is Gleeful And Gorgeous"
 pubDate: "2018-04-24"
 categories: 

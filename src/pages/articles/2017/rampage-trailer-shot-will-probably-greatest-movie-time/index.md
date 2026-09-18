@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The RAMPAGE Trailer Has This Shot In It, So It Will Probably Be The Greatest Movie Of All Time"
 pubDate: "2017-11-16"
 categories: 

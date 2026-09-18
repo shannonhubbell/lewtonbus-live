@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE SHAPE OF WATER Trailer is All Wet"
 pubDate: "2017-07-19"
 description: "THE SHAPE OF WATER Trailer is All Wet"

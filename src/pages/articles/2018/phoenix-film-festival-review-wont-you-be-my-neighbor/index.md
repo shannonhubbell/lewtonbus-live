@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Phoenix Film Festival Review: WON'T YOU BE MY NEIGHBOR?"
 pubDate: "2018-04-25"
 categories: 

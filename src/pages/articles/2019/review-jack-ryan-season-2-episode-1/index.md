@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JACK RYAN, Season 2 Episode 1: \"Cargo\""
 pubDate: "2019-11-04"
 categories: 

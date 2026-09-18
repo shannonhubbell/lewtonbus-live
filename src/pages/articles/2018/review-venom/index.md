@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: VENOM"
 pubDate: "2018-10-05"
 categories: 

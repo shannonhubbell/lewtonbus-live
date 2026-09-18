@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The KINGSMAN: THE GOLDEN CIRCLE Trailer Has Arrived"
 pubDate: "2017-04-25"
 description: "The KINGSMAN: THE GOLDEN CIRCLE Trailer Has Arrived"

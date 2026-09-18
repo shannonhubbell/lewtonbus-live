@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Women in Film: Penelope Spheeris and WAYNE'S WORLD"
 pubDate: "2018-06-28"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wages of Sin in the AMBULANCE Trailer"
 pubDate: "2021-10-21"
 categories: 

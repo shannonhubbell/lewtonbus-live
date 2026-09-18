@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BARRY Season 2, Episode 4: What?!"
 pubDate: "2019-05-21"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Writing WRATH: The first Ten pages"
 pubDate: "2017-06-07"
 description: "Writing WRATH: The first Ten pages"

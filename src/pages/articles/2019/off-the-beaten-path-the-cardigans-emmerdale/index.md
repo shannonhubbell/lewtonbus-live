@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off The Beaten Path: The Cardigans - Emmerdale"
 pubDate: "2019-04-04"
 categories: 

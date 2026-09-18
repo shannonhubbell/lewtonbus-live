@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "RAMPAGE: Thoughts Running Wild"
 pubDate: "2018-04-20"
 categories: 

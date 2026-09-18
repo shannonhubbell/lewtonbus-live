@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Celebrating Women in Film"
 pubDate: "2018-06-11"
 categories: 

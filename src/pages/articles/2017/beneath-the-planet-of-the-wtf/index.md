@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BENEATH THE PLANET OF THE WTF???"
 pubDate: "2017-07-11"
 categories: 

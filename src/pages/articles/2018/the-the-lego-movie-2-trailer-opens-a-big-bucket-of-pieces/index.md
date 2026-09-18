@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The THE LEGO MOVIE 2 Trailer Opens A Big Bucket of Pieces"
 pubDate: "2018-06-06"
 categories: 

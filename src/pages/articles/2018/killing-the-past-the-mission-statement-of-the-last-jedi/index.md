@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Killing the Past: The Mission Statement of THE LAST JEDI"
 pubDate: "2018-03-27"
 categories: 

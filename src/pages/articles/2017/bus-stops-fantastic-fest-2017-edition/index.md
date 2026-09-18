@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: Fantastic Fest 2017 Edition"
 pubDate: "2017-09-25"
 categories: 

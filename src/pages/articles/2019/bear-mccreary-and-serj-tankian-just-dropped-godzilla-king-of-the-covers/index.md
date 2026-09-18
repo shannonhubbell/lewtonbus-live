@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Bear McCreary and Serj Tankian Just Dropped \"Godzilla\" - King of the Covers"
 pubDate: "2019-04-25"
 categories: 

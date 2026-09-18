@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The First HOBBS & SHAW Trailer is an Ice Cold Can of Whoop-ass"
 pubDate: "2019-02-01"
 categories: 

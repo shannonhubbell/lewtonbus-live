@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Captain Benjamin Sisko: It's Easy to be a Saint in Paradise"
 pubDate: "2018-02-13"
 categories: 

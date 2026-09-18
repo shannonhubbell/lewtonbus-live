@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Scottsdale International Film Festival: NEITHER HEAVEN NOR EARTH"
 pubDate: "2016-10-09"
 categories: 

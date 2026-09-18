@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE DISCOVERY"
 pubDate: "2017-04-02"
 categories: 

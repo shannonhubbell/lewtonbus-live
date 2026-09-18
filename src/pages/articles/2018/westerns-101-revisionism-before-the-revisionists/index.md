@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Westerns 101 — Revisionism Before the Revisionists"
 pubDate: "2018-08-13"
 description: "Westerns 101 — Revisionism Before the Revisionists"

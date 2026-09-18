@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Daly Planet Podcast - Episode 65: The 3 Act Structure"
 pubDate: "2017-01-23"
 categories: 

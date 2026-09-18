@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: WRATH OF MAN"
 pubDate: "2021-05-07"
 categories: 

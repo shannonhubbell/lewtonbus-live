@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: INSIDE"
 pubDate: "2023-03-17"
 categories: 

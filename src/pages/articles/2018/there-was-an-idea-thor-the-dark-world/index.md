@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was an Idea... THOR: THE DARK WORLD"
 pubDate: "2018-03-23"
 categories: 

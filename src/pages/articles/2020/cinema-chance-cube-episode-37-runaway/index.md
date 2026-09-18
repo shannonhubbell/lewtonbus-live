@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 37: RUNAWAY"
 pubDate: "2020-12-11"
 categories: 

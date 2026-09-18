@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The New VALERIAN Trailer is Gloriously Bonkers"
 pubDate: "2017-05-25"
 categories: 

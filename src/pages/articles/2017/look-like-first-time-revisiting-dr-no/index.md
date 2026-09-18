@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time? Revisiting DR. NO"
 pubDate: "2017-03-06"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Trailer for THE HURRICANE HEIST is Very Wet, Dumb"
 pubDate: "2018-01-26"
 categories: 

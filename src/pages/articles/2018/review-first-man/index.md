@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: FIRST MAN"
 pubDate: "2018-10-12"
 categories: 

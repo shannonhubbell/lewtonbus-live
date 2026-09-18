@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "My Favorite Movie Podcast: Casablanca"
 pubDate: "2018-03-25"
 description: "My Favorite Movie Podcast: Casablanca"

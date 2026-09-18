@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "TOKYO DRIFT and Coming of Age"
 pubDate: "2017-04-12"
 description: "TOKYO DRIFT and Coming of Age"

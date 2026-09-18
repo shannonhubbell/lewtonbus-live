@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THREE BILLBOARDS OUTSIDE EBBING, MISSOURI"
 pubDate: "2017-11-09"
 categories: 

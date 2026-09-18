@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: WONDERCAST"
 pubDate: "2017-06-09"
 description: "The Bus Stops Here: WONDERCAST"

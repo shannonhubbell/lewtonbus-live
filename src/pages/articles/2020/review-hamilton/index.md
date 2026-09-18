@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: HAMILTON"
 pubDate: "2020-07-05"
 categories: 

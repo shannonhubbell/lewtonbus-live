@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The WONDER WOMAN 1984 trailer is in its Satin Tights Fighting for Your Rights"
 pubDate: "2019-12-10"
 categories: 

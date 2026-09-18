@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Double Post!: THE DEVIL'S BACKBONE and THE ADVENTURES OF ROCKY AND BULLWINKLE"
 pubDate: "2020-07-31"
 categories: 

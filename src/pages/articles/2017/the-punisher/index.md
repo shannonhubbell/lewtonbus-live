@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE PUNISHER"
 pubDate: "2017-11-19"
 categories: 

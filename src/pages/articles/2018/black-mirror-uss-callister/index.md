@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BLACK MIRROR Season Four Review: \"USS Callister\""
 pubDate: "2018-01-16"
 categories: 

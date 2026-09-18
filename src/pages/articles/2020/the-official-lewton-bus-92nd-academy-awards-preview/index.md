@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The “Official” Lewton Bus 92nd Academy Awards Preview"
 pubDate: "2020-02-07"
 categories: 

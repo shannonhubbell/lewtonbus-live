@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "King and Kubrick: Adapting The Shining"
 pubDate: "2018-04-12"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 11: TOTAL RECALL"
 pubDate: "2020-06-15"
 categories: 

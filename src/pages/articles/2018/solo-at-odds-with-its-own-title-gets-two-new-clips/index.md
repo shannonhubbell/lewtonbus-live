@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SOLO, at Odds With its Own Title, Gets TWO New Clips"
 pubDate: "2018-05-09"
 categories: 

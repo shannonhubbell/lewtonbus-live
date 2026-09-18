@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "REVIEW: JUNGLE CRUISE"
 pubDate: "2021-07-30"
 categories: 

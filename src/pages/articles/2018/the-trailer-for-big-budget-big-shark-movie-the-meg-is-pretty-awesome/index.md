@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Trailer For Big-Budget Big Shark Movie THE MEG Is Pretty Awesome"
 pubDate: "2018-04-10"
 categories: 

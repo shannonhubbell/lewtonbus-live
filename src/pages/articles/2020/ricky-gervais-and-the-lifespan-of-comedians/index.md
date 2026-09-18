@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Ricky Gervais and the Lifespan of Comedians"
 pubDate: "2020-04-11"
 categories: 

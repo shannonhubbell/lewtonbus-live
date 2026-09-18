@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Women in Film: Returning the Gaze in REVENGE and M.F.A."
 pubDate: "2018-06-13"
 description: "Women in Film: Returning the Gaze in REVENGE and M.F.A."

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The First Defenders Trailer is Here!"
 pubDate: "2017-05-05"
 categories: 

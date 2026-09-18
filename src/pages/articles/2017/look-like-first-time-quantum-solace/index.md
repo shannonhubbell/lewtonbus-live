@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time? QUANTUM OF SOLACE"
 pubDate: "2017-09-12"
 categories: 

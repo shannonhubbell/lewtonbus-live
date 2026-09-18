@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Beyond the Batnipples - THE INCREDIBLE SHRINKING WOMAN &amp; D.C. CAB"
 pubDate: "2016-07-15"
 categories: 

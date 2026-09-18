@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Pride Week: SPA NIGHT and Queer Intersections"
 pubDate: "2018-06-26"
 categories: 

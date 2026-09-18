@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BARRY: Season 1, Episode 5"
 pubDate: "2018-04-24"
 categories: 

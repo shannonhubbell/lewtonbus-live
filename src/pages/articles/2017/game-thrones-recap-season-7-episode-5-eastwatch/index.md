@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GAME OF THRONES Recap: Season 7 Episode 5: \"Eastwatch\""
 pubDate: "2017-08-14"
 categories: 

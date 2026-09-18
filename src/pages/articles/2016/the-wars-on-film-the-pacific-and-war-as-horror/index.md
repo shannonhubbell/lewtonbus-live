@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars On Film: The Pacific and War as Horror"
 pubDate: "2016-06-21"
 categories: 

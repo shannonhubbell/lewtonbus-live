@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Beyond the Batnipples - ST. ELMO'S FIRE and THE LOST BOYS"
 pubDate: "2016-08-20"
 categories: 

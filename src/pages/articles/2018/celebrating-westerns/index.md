@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Celebrating Westerns"
 pubDate: "2018-08-01"
 categories: 

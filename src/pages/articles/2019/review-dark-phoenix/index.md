@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: DARK PHOENIX"
 pubDate: "2019-06-07"
 categories: 

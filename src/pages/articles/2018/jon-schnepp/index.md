@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "In Memoriam: Jon Schnepp (1967-2018)"
 pubDate: "2018-07-23"
 categories: 

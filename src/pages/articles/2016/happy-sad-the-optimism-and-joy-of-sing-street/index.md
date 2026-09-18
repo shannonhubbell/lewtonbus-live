@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Happy-Sad: The Optimism and Joy of SING STREET"
 pubDate: "2016-11-28"
 categories: 

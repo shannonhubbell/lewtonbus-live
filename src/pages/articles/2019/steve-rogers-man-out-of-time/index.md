@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Steve Rogers: Man Out of Time"
 pubDate: "2019-04-24"
 categories: 

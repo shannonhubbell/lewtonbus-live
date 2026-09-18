@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JACK RYAN, Season 1: Black 22"
 pubDate: "2018-09-06"
 categories: 

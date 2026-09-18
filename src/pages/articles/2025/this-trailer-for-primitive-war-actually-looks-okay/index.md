@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "This Trailer for PRIMITIVE WAR Actually Looks... Okay?"
 pubDate: "2025-04-03"
 categories: 

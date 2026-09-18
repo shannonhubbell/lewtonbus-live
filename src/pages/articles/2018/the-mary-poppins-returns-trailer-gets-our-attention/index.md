@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The MARY POPPINS RETURNS Trailer Gets Our Attention"
 pubDate: "2018-09-18"
 categories: 

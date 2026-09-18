@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: LATE NIGHT"
 pubDate: "2019-06-13"
 categories: 

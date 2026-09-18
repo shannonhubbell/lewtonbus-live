@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars on Film: THE SIEGE OF JADOTVILLE"
 pubDate: "2016-10-19"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Western Month: JOHNNY GUITAR, Feminist Tall Tale"
 pubDate: "2018-08-15"
 description: "Western Month: JOHNNY GUITAR, Feminist Tall Tale"

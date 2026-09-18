@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Cutting Room: STRANGER THINGS 2"
 pubDate: "2017-11-07"
 categories: 

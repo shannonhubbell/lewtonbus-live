@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "AVENGERS: ENDGAME (Spoiler-Free) Review"
 pubDate: "2019-04-26"
 categories: 

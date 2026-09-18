@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Forks and Spoons be Damned!  KNIVES OUT!"
 pubDate: "2019-07-05"
 categories: 

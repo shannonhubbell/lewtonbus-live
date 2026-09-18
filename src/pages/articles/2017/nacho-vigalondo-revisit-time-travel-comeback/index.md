@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Nacho Vigalondo To Revisit Time Travel In THE COMEBACK"
 pubDate: "2017-11-10"
 categories: 

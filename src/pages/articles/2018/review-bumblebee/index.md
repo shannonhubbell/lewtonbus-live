@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BUMBLEBEE"
 pubDate: "2018-12-17"
 categories: 

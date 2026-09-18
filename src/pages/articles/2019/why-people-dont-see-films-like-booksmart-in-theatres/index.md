@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Why People Don’t See Films Like BOOKSMART in Theatres"
 pubDate: "2019-06-30"
 categories: 

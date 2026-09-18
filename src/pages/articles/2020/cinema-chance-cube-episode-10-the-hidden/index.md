@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 10: THE HIDDEN"
 pubDate: "2020-06-06"
 categories: 

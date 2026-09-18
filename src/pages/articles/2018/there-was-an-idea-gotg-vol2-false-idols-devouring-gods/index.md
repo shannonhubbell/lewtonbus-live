@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was An Idea... GUARDIANS OF THE GALAXY VOLUME 2: False Idols & Devouring Gods"
 pubDate: "2018-04-18"
 categories: 

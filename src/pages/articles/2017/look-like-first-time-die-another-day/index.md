@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It’s Our First Time? DIE ANOTHER DAY"
 pubDate: "2017-08-12"
 categories: 

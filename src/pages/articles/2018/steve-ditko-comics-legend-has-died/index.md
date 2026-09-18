@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Steve Ditko, Comics Legend, Has Died"
 pubDate: "2018-07-07"
 description: "Steve Ditko, Comics Legend, Has Died"

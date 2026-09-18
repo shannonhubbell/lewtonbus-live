@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SPIDER-MAN: INTO THE SPIDER-VERSE"
 pubDate: "2018-12-09"
 categories: 

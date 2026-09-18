@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "A WATCHMEN History Guide: S1E2 – “Martial Feats of Comanche Horsemanship”"
 pubDate: "2019-11-01"
 description: "A WATCHMEN History Guide: S1E2 – “Martial Feats of Comanche Horsemanship”"

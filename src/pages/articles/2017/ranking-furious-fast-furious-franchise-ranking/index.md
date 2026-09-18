@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Ranking the Furious: A FAST & FURIOUS Franchise Ranking"
 pubDate: "2017-04-16"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: WAR FOR THE PLANET OF THE APES"
 pubDate: "2017-07-14"
 description: "Review: WAR FOR THE PLANET OF THE APES"

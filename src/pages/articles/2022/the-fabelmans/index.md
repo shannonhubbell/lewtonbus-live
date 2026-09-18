@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE FABELMANS"
 pubDate: "2022-11-27"
 categories: 

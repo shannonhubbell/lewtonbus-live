@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE TWILIGHT ZONE's Trailer is Submitted for Your Approval"
 pubDate: "2019-02-22"
 categories: 

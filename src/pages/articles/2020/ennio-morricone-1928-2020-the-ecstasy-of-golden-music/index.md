@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Ennio Morricone (1928-2020): The Ecstasy of Golden Music"
 pubDate: "2020-07-07"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "JACK RYAN: First Impressions"
 pubDate: "2018-08-21"
 categories: 

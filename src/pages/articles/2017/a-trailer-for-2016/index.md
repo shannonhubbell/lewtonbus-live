@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "A Trailer for 2016"
 pubDate: "2017-01-09"
 categories: 

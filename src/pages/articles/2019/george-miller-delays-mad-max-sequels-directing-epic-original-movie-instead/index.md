@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "George Miller Delays MAD MAX Sequels, Directing Epic Original Movie Instead"
 pubDate: "2019-12-08"
 categories: 

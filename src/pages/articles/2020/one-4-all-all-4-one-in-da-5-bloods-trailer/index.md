@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "One-4-All, All-4-One in DA 5 BLOODS trailer"
 pubDate: "2020-05-18"
 categories: 

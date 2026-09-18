@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: THE TRANSFIGURATION"
 pubDate: "2017-08-11"
 categories: 

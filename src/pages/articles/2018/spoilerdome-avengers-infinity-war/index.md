@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spoilerdome: AVENGERS: INFINITY WAR"
 pubDate: "2018-04-28"
 categories: 

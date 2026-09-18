@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: LADY BIRD"
 pubDate: "2017-12-02"
 categories: 

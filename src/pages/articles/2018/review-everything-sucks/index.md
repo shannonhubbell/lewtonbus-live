@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: EVERYTHING SUCKS!"
 pubDate: "2018-02-19"
 categories: 

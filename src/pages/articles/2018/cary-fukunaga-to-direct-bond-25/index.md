@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cary Fukunaga to Direct BOND 25"
 pubDate: "2018-09-20"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The JUSTICE LEAGUE Comes Together in New SDCC Trailer"
 pubDate: "2017-07-22"
 description: "The JUSTICE LEAGUE Comes Together in New SDCC Trailer"

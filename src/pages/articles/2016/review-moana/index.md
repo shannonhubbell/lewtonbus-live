@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "REVIEW: MOANA"
 pubDate: "2016-11-26"
 categories: 

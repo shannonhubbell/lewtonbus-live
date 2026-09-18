@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Discourse Correction: AVATAR and the Impactful Lack of Impact"
 pubDate: "2020-01-10"
 categories: 
