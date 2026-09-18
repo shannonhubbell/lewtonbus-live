@@ -1,0 +1,73 @@
+---
+import Layout from "./Layout.astro";
+import { getCollection } from "astro:content";
+
+interface Props {
+	frontmatter: { name: string };
+	file: string;
+}
+
+const { frontmatter, file } = Astro.props;
+
+const slug = file
+	.replace(/\\/g, "/")
+	.split("/authors/")
+	.pop()!
+	.replace(/\.md$/, "");
+
+const articles = (
+	await getCollection("articles", ({ data }) =>
+		data.authors.some((author) => author.id === slug),
+	)
+).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const title = `${frontmatter.name} — Lewton Bus`;
+const description = `Articles by ${frontmatter.name} on Lewton Bus.`;
+---
+
+<Layout pageTitle={title} pageDescription={description}>
+	<div id="author-wrapper">
+		<h1>{frontmatter.name}</h1>
+		{
+			articles.length > 0 ? (
+				<ul class="author-articles">
+					{articles.map((article) => {
+						const year = article.filePath?.match(
+							/\/articles\/(\d{4})\//,
+						)?.[1];
+						return (
+							<li>
+								<a href={`/articles/${year}/${article.data.slug}/`}>
+									{article.data.title}
+								</a>
+							</li>
+						);
+					})}
+				</ul>
+			) : (
+				<p>No articles yet.</p>
+			)
+		}
+	</div>
+</Layout>
+
+<style>
+	#author-wrapper {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 1rem;
+	}
+	.author-articles {
+		list-style: none;
+		padding: 0;
+		li {
+			margin-bottom: 0.75rem;
+		}
+		a {
+			text-decoration: none;
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+</style>

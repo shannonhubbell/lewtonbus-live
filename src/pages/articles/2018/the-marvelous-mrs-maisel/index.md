@@ -1,0 +1,60 @@
+---
+title: "Television Review: THE MARVELOUS MRS. MAISEL"
+pubDate: "2018-01-08"
+categories: 
+  - "reviews"
+  - "television"
+tags: 
+  - "alex-borstein"
+  - "amazon-prime"
+  - "amy-sherman-palladino"
+  - "mrs-maisel"
+  - "rachel-brosnahan"
+description: "Andrew argues that THE MARVELOUS MRS. MAISEL is an essential, optimistic antidote for dark, frightening times"
+id: 5568
+slug: "the-marvelous-mrs-maisel"
+authors:
+  - "andrew-mcrae"
+---
+
+Amazon’s Golden Globe-winning series _**The Marvelous Mrs. Maisel**_ is a triumph. There. Done. Go watch it. You can leave now. Oh, you’re staying? What more can I say? If I add that it’s a gorgeously crafted show, the cinematography is beautiful, the attention to period detail superb, will you leave me be? No? Okay.
+
+Confession time: Before _**Mrs. Maisel**_, I was a blank when it came to the artistic output of Amy Sherman-Palladino. What I knew about the _**Gilmore Girls**_ came from a Warner Brothers studio tour in which I learned that the town the show takes place in is the same one used for River City in _**The Music Man**_ and that there’s an awful lot of dragonflies and coffee mugs. When it came time for _**The Marvelous Mrs. Maisel**_, what I knew came from word of mouth and attractive looking previews. What I came away with was simple astonishment. _**The Marvelous Mrs.** **Maisel**_ is more than well-made, it’s _vital_.
+
+\[caption id="attachment\_5569" align="aligncenter" width="1280"\]![](http://lewtonbus.net/wp-content/uploads/2018/01/MaiselWedding.jpg) It’s a nice day for a white wedding\[/caption\]
+
+ 
+
+The series begins with a flashback to the wedding day of the newly-minted Mrs. Midge Maisel (Rachel Brosnahan, who won a Golden Globe for her performance) where we see the bride take center stage at her own reception and proceed to detail how she grew up and how she met her husband, Joel (Michael Zegen). It’s a clever bit of writing getting rid of a lot of scene-setting in one fell swoop and establishing Mrs. Maisel as the kind of raconteur who can naturally work a room. True, she may not be a comedian yet, but she does have flow and wit—she’s the embryo of a comedian. We cut to her marriage these many years (and two kids) later in the now of 1958. Mrs. Maisel juggles raising her children and finishing a brisket so her husband can bribe his way to a better time at the Greenwich Village nightspot he’s going to perform standup at. She taxis over to her husband’s work through a New York caught halfway between reality and every technicolor movie of the ‘40s and ‘50s, a dreamscape city out of our collective past. At his office, she makes small talk with his coworkers while he struggles into the beatnik sweater he wears to perform his comedy.
+
+Arriving at the club, they ask to see the owner to get a better time for Joel but run into the booker, Susie Meyerson (Alex Borstein, who comes _this close_ to stealing the season), hunched over her registry with a Greek Fisherman cap on, a cigarette perched in one corner of her scowl, quipping like Popeye. She sizes up Joel and isn’t impressed, but takes the brisket in exchange for a better time slot anyway. On stage, Joel does his routine to tepid laughter, a set about Abe Lincoln if he had an ad firm behind him guiding his public image, while Mrs. Maisel watches him with adoration. This is a regular routine for the Maisels, her handling domesticity, him a job, them sharing comedy nights in the Village. Mrs. Maisel enjoys the routine until it stops being routine.
+
+After a series of small mishaps occurs—Joel’s sweater has some moth holes, she finds out his routine is cribbed from Bob Newhart—she, with her diary full of observations she thinks are funny, encourages him to try out his own material, perhaps using his sweater as inspiration. When Joel bombs, it’s not just a catastrophe onstage, it’s Bikini Atoll for the Maisel marriage. Everything explodes: his shame, his unhappiness, his feeling of betrayal that she thought he wasn’t serious about doing comedy which she says is because he was doing someone else’s act. He reveals that he finds the perfect life stifling and that he’s been cheating with his secretary, Penny Pann (Holly Curran), leaving Midge the day before she’s set to host Yom Kippur (with the rabbi coming). She gets drunk on the kosher wine she bought for the big day and goes back downtown, taking the stage and letting it all fly. She curses, flashes the audience, and makes them laugh, very, very hard at her off-the-cuff routine lamenting her life. And Susie Meyerson, watching Mrs. Maisel get arrested by the police for obscenity, sees a star in the making.
+
+\[caption id="attachment\_5570" align="aligncenter" width="1498"\]![](http://lewtonbus.net/wp-content/uploads/2018/01/SusieMeyerson.jpg) First meeting of the George R.R. Martin fan club\[/caption\]
+
+ 
+
+Maisel is encouraged by a fellow comic she meets, Lenny Bruce (Luke Kirby). She asks him if he loves standup. He says it’s the worst thing he can think of and lists a darkly comic list of alternative jobs—including slaughterhouse attendant and dry cleaner for the Klan—he’d rather have. When she presses him again, about if he loves it, he shrugs: The question answers itself.
+
+Midge Maisel’s life further falls apart when she finds out everything she thought her husband had comes from his father, Moishe (Kevin Pollack). She knew Joel worked for his uncle in a job that Moishe got for him, but what she didn’t know was that Moishe also owns their apartment. Her whole life is upended. She has to move back with her parents, Abe and Rose Weissman (Tony Shaloub and Marin Hinkle), into her old room, and while everyone tries to fix the Maisel marriage, she realizes she’s going to have to fend for herself. When Joel comes begging back, asking for a second chance, she looks him in the eye. _No_.
+
+It’s the first in a series of new steps for Maisel as she learns to navigate a world in which she must take care of herself. Joel betrayed her and so she, raised with self-respect, doesn’t spend the season diminishing herself as he tries to ingratiate himself back into her life. She learns to know herself. Realizing how sheltered she was, and how much was of her own doing, she begins to emerge from her chrysalis into a world she’s discovering almost for the first time. And she does it all with as uplifting an attitude as possible. She eventually gets herself a job—to her mother’s shock—while she and Susie navigate the waters of growing a career as a standup in their off time, stumbling here and there but always coming back together and forging ahead another step.
+
+**The Marvelous Mrs. Maisel**, the latest in a line of post-**Mad Men** hops to the middle of the last century, contains DNA from a few different sources. The Coen Brothers make up a lot of it. **A Serious Man** and its portrayal of the post-war Jewish-American experience informs much of the show (down to a cringeworthy moment in a synagogue and Maisel’s father also being a college math professor), as does **Inside Llewyn Davis** with its story of struggling artists in the Greenwich Village coffeehouse scene. In Joel’s scenes in his office, there’s reference to the aforementioned series about advertising, too. In a way, the series could almost be described as **Mad Men** without the mope.
+
+Midge Maisel herself contains bits and pieces of Phyllis Diller and Joan Rivers. There’s Diller in both small details like references to trying out index cards and large ones like breaking new ground as a female standup using her marriage to inform her humor. There’s Rivers in being brassy and unabashedly Jewish about it all. Mrs. Maisel also references TV comedians, her costuming bringing Laura Petrie to mind when she’s at home and Lucy Ricardo when she goes out, smart choices that ground her in what audiences know (or think they know) about the late 1950s.
+
+Maisel is the type of woman who fought to get into Bryn Mawr and who regularly measures herself—ankles, calves, thighs, hips, etc.—to make sure she maintains her pre-baby figure. If she had a spirit animal, it’d be practically perfect Mary Poppins, with her spoonful of sugar attitude to finding the element of fun in the tasks life sets before her. The show accompanies Maisel a couple of times with “I Enjoy Being a Girl” from **Flower Drum Song**, but “Pick Yourself Up” might be a better theme.
+
+Nearly any review of the series, positive or not, hits on a few things. The dialogue sparkles while still sounding real enough to make you wish these were the kind of people you listened to regularly. This is acknowledged in begrudging asides as if we’re inundated by a glut of Noёl Coward cleverness on a daily basis. The kind of writing **Mrs. Maisel** excels at is no easy feat, yet is just as easily disposed of by people who think that being cynical and depressed and _boring_ is somehow the same as being adult—in other words, critics so smart they circle around to stupidity in their dismissal of such rubies. Another tick against the show is that it is upbeat, as if what we need today in the face of what’s going on in the world is sourness and dourness—and as if the only viable depiction of mid-century America is one of people smothered and stifled and chafing against their pastel dishwashers. The upbeat quality to **Mrs. Maisel** is what makes the show so of the moment, so dynamic and necessary.
+
+Coming out in late 2017, on the heels of _I’m With Her_, and _The Resistance_, and #MeToo, **The Marvelous** **Mrs.** **Maisel** feels like an anthem for today. This is a show that’s excited to be alive, made mostly by women, starring women, about women doing comedy—boisterously Jewish women at that—while today many of our popular male comedians have been taken down by their past predations and Neo Nazis march through the public consciousness. After the pummeling of 2016 and the parking lot beatdown of 2017, it’s almost a guide for how to get through 2018.
+
+\[caption id="attachment\_5571" align="aligncenter" width="900"\]![](http://lewtonbus.net/wp-content/uploads/2018/01/MaiselFinale.jpg) Truly marvelous\[/caption\]
+
+_**The Marvelous Mrs. Maisel**_ is, more than anything, about _not giving up_. It’s easy to see that while many critics may have watched the show, almost none understood it. It was too often dismissed it as an iced cupcake of a series, perfect for a cheery afternoon, but not much more. And if that was all _**Mrs. Maisel**_ had going for it, if it was only clever writing, great acting, wonderful direction, edible cinematography—that’d be enough. A good story told well is a rare enough thing these days.
+
+But the show isn’t just a confection, cotton candy spun out before us and melted as quickly. _**The Marvelous Mrs. Maisel**_ is great, necessary art in the deepest sense. It’s true that it made me happy watching it. But more than that, it gave me encouragement—I wasn’t alone. _**The Marvelous Mrs. Maisel**_ is made by people who see the same world you and I are seeing—one of racial and economic injustice, of gender inequality, of people struggling for rights, for the simple ability to breathe without someone else’s foot on their neck, and it puts forward a character that rolls up her sleeves and sets to work on her problems. One that has the audacity to stand up and say, “No.” _**Mrs. Maisel**_ isn’t a show where the mature solution is falling into a bottle or a pit of despair or both.
+
+Midge Maisel takes what life dishes out with a glint in her eye and a wry turn of phrase because it’s better than curling up into a little ball in the corner and dying. It’s the old situation of knowing you’ve got to laugh or you’ll go crazy, and she knows which choice she’d rather make. She laughs in the face of her problems, and helps to make others laugh, too. Our marvelous Mrs. Maisel is the living, breathing embodiment of “Pick Yourself Up”: She picks herself up, dusts herself off, and starts all over again. In today’s world and going forward, that’s a lesson that can’t be stated loudly (or often) enough.
