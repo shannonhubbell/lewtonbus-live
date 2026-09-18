@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: DEN OF THIEVES"
 pubDate: "2018-01-19"
 categories: 

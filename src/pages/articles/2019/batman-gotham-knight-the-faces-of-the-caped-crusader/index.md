@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BATMAN: GOTHAM KNIGHT - The Faces of the Caped Crusader"
 pubDate: "2019-09-25"
 categories: 

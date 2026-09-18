@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp, Episode 46: FLASH GORDON vs. THE ICE PIRATES"
 pubDate: "2017-03-17"
 description: "The Essence of Camp, Episode 46: FLASH GORDON vs. THE ICE PIRATES"

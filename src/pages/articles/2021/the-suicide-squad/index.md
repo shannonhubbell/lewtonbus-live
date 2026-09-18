@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE SUICIDE SQUAD"
 pubDate: "2021-08-09"
 categories: 

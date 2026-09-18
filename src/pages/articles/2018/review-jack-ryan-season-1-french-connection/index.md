@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JACK RYAN, Season 1: French Connection"
 pubDate: "2018-09-03"
 categories: 

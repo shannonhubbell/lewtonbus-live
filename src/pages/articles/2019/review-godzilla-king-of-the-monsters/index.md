@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: GODZILLA: KING OF THE MONSTERS"
 pubDate: "2019-05-31"
 categories: 

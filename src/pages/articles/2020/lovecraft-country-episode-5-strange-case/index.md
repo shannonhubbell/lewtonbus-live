@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOVECRAFT COUNTRY, Episode 5: \"Strange Case\""
 pubDate: "2020-09-15"
 categories: 

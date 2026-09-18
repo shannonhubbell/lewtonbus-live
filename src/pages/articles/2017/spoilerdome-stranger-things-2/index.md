@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spoilerdome: STRANGER THINGS 2"
 pubDate: "2017-10-31"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The BRAVE Little Seamstress"
 pubDate: "2017-06-14"
 categories: 

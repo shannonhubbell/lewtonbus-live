@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "This PACIFIC RIM: UPRISING Teaser Wants to Sell You a Lexus"
 pubDate: "2017-07-21"
 categories: 

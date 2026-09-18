@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "ENCANTO and the Foundation on Which This House Is Built"
 pubDate: "2022-01-19"
 categories: 

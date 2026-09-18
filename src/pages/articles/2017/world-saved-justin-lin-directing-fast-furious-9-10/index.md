@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WORLD SAVED: Justin Lin Directing FAST & FURIOUS 9 and 10"
 pubDate: "2017-10-27"
 categories: 

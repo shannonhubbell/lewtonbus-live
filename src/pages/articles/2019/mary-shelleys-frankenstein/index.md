@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off The Beaten Path: MARY SHELLEY’S FRANKENSTEIN"
 pubDate: "2019-06-27"
 categories: 

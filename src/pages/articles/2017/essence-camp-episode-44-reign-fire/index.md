@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp, Episode 44: REIGN OF FIRE"
 pubDate: "2017-01-11"
 categories: 

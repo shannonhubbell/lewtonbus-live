@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Netflix Isn’t Killing Cinema"
 pubDate: "2017-05-25"
 description: "Netflix Isn’t Killing Cinema"

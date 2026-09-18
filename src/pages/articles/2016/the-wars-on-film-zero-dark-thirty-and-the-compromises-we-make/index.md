@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars On Film: Zero Dark Thirty And The Compromises We Make"
 pubDate: "2016-07-20"
 categories: 

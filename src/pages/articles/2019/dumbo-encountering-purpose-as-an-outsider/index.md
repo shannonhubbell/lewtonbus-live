@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "DUMBO: Encountering Purpose as an Outsider"
 pubDate: "2019-04-17"
 categories: 

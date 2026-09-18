@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE FLORIDA PROJECT"
 pubDate: "2017-10-25"
 categories: 

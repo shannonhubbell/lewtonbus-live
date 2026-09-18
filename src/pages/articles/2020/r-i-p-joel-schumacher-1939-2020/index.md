@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "R.I.P. Joel Schumacher, 1939 - 2020"
 pubDate: "2020-06-22"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Peoria Film Festival Review: TO DUST"
 pubDate: "2018-10-25"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: HOTEL MUMBAI"
 pubDate: "2019-03-25"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JOE BELL"
 pubDate: "2021-07-23"
 categories: 

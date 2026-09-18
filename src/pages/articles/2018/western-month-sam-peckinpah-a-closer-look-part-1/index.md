@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Western Month - Sam Peckinpah: A Closer Look - Part 1"
 pubDate: "2018-08-28"
 categories: 

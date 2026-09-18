@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Westerns 101 — The Revisionist Era"
 pubDate: "2018-08-24"
 description: "Westerns 101 — The Revisionist Era"

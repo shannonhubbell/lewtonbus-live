@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off the Beaten Path: EQUILIBRIUM"
 pubDate: "2020-02-12"
 categories: 

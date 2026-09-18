@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Judge Dredd Is Heading to TV"
 pubDate: "2017-05-10"
 categories: 

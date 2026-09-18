@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SICARIO: DAY OF THE SOLDADO"
 pubDate: "2018-06-29"
 categories: 

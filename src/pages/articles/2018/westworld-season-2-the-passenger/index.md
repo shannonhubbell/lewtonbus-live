@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WESTWORLD Season 2 - The Passenger"
 pubDate: "2018-06-25"
 categories: 

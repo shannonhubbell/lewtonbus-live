@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GAME OF THRONES Recap: \"Winterfell\""
 pubDate: "2019-04-15"
 categories: 

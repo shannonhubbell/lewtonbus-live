@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Ryan's Top 10 Films of 2019"
 pubDate: "2020-01-04"
 categories: 

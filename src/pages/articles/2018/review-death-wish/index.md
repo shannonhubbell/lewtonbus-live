@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: DEATH WISH"
 pubDate: "2018-03-02"
 categories: 

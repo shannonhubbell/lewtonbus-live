@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spoilerdome: GUARDIANS OF THE GALAXY VOL. 2"
 pubDate: "2017-05-06"
 categories: 

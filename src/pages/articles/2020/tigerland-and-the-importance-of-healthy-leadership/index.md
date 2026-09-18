@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "TIGERLAND and the Importance of Healthy Leadership"
 pubDate: "2020-06-26"
 categories: 

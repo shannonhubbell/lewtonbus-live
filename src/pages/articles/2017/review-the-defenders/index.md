@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE DEFENDERS"
 pubDate: "2017-08-20"
 categories: 

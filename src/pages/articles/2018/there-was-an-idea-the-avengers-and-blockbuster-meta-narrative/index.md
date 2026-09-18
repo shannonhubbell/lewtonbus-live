@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THERE WAS AN IDEA... THE AVENGERS and Blockbuster Meta-Narrative"
 pubDate: "2018-03-15"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars On Film:  Saving Private Ryan"
 pubDate: "2016-08-30"
 categories: 

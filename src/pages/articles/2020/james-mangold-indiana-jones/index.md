@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "James Mangold in Talks to Direct INDIANA JONES 5, Which is Now Our Dad’s Favorite Movie"
 pubDate: "2020-02-26"
 categories: 

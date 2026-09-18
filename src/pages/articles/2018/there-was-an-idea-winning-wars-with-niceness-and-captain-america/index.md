@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THERE WAS AN IDEA... Winning Wars With Niceness (and CAPTAIN AMERICA)"
 pubDate: "2018-03-09"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Scottsdale International Film Festival: A STRAY"
 pubDate: "2016-10-19"
 categories: 

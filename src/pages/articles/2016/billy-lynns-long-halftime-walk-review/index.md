@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BILLY LYNN'S LONG HALFTIME WALK"
 pubDate: "2016-12-01"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: THE DAUGHTER"
 pubDate: "2017-05-08"
 description: "Stream of Consciousness: THE DAUGHTER"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Neill Blomkamp is Getting Pretty Steamed!"
 pubDate: "2017-05-30"
 categories: 

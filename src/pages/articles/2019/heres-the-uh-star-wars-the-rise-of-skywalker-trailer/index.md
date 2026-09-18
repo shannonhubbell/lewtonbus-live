@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Here’s the, Uh, STAR WARS: THE RISE OF SKYWALKER Trailer"
 pubDate: "2019-04-12"
 categories: 

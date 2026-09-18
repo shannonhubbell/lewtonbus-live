@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The New BABY DRIVER Trailer is Here to Blow Out Your Auditory Cortex"
 pubDate: "2017-06-01"
 categories: 

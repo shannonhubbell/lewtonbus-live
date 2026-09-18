@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Nectar of the Godzillas: GODZILLA, KING OF THE MONSTERS!"
 pubDate: "2017-06-27"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: EL CAMINO: A BREAKING BAD MOVIE"
 pubDate: "2019-10-13"
 categories: 

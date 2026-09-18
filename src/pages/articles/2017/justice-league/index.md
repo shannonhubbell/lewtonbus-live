@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JUSTICE LEAGUE"
 pubDate: "2017-11-17"
 categories: 

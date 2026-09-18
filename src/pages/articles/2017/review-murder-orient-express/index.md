@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: MURDER ON THE ORIENT EXPRESS"
 pubDate: "2017-11-10"
 categories: 

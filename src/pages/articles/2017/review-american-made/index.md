@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: AMERICAN MADE"
 pubDate: "2017-09-29"
 categories: 

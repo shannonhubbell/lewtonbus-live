@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "My Favorite Movie: THE PRINCESS BRIDE with Zach Luna"
 pubDate: "2017-10-25"
 description: "My Favorite Movie: THE PRINCESS BRIDE with Zach Luna"

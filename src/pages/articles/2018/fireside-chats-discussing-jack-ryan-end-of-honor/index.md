@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fireside Chats: Discussing Jack Ryan, \"End of Honor\""
 pubDate: "2018-09-17"
 description: "Fireside Chats: Discussing Jack Ryan, \"End of Honor\""

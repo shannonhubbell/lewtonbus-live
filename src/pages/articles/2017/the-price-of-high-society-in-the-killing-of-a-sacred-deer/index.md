@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Price of High Society in THE KILLING OF A SACRED DEER"
 pubDate: "2017-12-27"
 description: "The Price of High Society in THE KILLING OF A SACRED DEER"

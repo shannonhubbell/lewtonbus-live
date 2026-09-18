@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "A Requiem for SLEEPWALKERS"
 pubDate: "2017-09-06"
 categories: 

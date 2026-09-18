@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Dawn of Dad Media: The Novels of Don Pendleton"
 pubDate: "2018-09-10"
 categories: 

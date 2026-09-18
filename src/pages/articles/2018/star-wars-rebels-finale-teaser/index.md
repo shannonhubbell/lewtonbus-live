@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "STAR WARS REBELS’ Home Stretch Gets a Tantilizing Teaser"
 pubDate: "2018-01-20"
 categories: 

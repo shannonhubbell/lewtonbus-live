@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 25: HALLOWEEN III: SEASON OF THE WITCH"
 pubDate: "2020-09-18"
 categories: 

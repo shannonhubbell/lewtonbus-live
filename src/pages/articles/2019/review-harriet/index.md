@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: HARRIET"
 pubDate: "2019-11-01"
 categories: 

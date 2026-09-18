@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Last Pirate Movies Ever Made: Revisiting PIRATES OF THE CARIBBEAN"
 pubDate: "2017-05-26"
 categories: 

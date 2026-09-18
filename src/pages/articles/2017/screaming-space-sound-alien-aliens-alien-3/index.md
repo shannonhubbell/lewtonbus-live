@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Screaming In Space: The Sound of ALIEN, ALIENS, and ALIEN 3"
 pubDate: "2017-05-17"
 categories: 

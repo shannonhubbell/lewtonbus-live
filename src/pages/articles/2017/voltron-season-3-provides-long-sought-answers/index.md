@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Voltron Season 3 Provides Long Sought Answers"
 pubDate: "2017-08-09"
 categories: 

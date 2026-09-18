@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 20: JOHN CARPENTER'S THEY LIVE"
 pubDate: "2020-08-14"
 categories: 

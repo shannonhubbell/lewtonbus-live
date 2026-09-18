@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Reassurance of Awe: The Metaphysics of Music in Soderbergh's SOLARIS"
 pubDate: "2017-08-16"
 description: "The Reassurance of Awe: The Metaphysics of Music in Soderbergh's SOLARIS"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: WORDS ON BATHROOM WALLS"
 pubDate: "2020-08-27"
 categories: 

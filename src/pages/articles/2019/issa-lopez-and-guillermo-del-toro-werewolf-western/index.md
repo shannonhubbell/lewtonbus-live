@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Issa López and Guillermo del Toro are Teaming Up on a Werewolf Western!"
 pubDate: "2019-09-02"
 categories: 

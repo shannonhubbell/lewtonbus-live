@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Scottsdale International Film Festival Review: ROMA"
 pubDate: "2018-11-05"
 categories: 

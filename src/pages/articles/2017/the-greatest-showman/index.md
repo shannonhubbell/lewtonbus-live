@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE GREATEST SHOWMAN"
 pubDate: "2017-12-23"
 description: "Review: THE GREATEST SHOWMAN"

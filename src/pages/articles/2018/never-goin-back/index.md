@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: NEVER GOIN' BACK"
 pubDate: "2018-08-09"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dad Media Month: The BOURNE Trilogy"
 pubDate: "2018-09-19"
 categories: 

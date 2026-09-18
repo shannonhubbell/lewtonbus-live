@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Whiplash and the Effects of Greatness through Obsession - Part 2"
 pubDate: "2016-09-05"
 description: "Whiplash and the Effects of Greatness through Obsession - Part 2"

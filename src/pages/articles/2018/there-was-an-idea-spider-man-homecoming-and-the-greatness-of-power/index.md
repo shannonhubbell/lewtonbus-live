@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was An Idea... SPIDER-MAN: HOMECOMING and the Greatness of Power"
 pubDate: "2018-04-20"
 categories: 

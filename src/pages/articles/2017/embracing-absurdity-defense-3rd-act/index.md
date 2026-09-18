@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Embracing Absurdity: A Defense of the 3rd Act of UP"
 pubDate: "2017-06-12"
 categories: 

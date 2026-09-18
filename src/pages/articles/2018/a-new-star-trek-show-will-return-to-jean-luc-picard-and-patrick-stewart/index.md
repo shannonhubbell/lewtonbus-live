@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "A New STAR TREK Show Will Return to Jean-Luc Picard (and Patrick Stewart!)"
 pubDate: "2018-08-05"
 categories: 

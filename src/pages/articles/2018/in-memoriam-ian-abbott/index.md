@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "For Ian Abbott"
 pubDate: "2018-02-16"
 categories: 

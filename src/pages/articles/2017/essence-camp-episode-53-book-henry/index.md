@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp Episode 53: THE BOOK OF HENRY"
 pubDate: "2017-07-12"
 categories: 

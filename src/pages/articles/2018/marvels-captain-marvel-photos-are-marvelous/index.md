@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Marvel's CAPTAIN MARVEL Photos Are Marvelous"
 pubDate: "2018-09-05"
 categories: 

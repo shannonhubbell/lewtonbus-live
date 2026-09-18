@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Celebrating Dad Media: What Is It, Exactly?"
 pubDate: "2018-08-30"
 description: "Celebrating Dad Media: What Is It, Exactly?"

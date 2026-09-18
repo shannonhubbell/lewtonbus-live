@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE PREDATOR Trailer Wants You to Know That Space Aliens Are Scary"
 pubDate: "2018-06-09"
 categories: 

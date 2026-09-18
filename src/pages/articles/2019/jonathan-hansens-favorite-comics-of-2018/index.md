@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Jonathan Hansen's Favorite Comics of 2018"
 pubDate: "2019-01-15"
 description: "Jonathan Hansen's Favorite Comics of 2018"

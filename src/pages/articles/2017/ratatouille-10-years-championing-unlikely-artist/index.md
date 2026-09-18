@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "RATATOUILLE: 10 Years of Championing the Unlikely Artist"
 pubDate: "2017-06-13"
 categories: 

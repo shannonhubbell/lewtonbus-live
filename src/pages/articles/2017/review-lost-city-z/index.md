@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE LOST CITY OF Z"
 pubDate: "2017-04-06"
 categories: 

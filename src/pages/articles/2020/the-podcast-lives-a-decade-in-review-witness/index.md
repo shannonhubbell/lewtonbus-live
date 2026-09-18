@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Podcast LIVES! A Decade in Review! WITNESS!"
 pubDate: "2020-01-01"
 categories: 

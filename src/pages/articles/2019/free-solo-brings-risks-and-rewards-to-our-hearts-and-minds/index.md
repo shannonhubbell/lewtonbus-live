@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: FREE SOLO Brings Risks and Rewards to Our Hearts and Minds"
 pubDate: "2019-02-26"
 description: "Review: FREE SOLO Brings Risks and Rewards to Our Hearts and Minds"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: MY FAVORITE SHAPES"
 pubDate: "2019-08-12"
 categories: 

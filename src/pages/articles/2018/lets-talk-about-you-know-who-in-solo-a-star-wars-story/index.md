@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Let's Talk about \"You Know Who\" In SOLO: A STAR WARS STORY"
 pubDate: "2018-05-30"
 categories: 

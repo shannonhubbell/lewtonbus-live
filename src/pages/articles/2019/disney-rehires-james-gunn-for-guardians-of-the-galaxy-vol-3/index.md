@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Disney Rehires James Gunn for Guardians of the Galaxy Vol. 3"
 pubDate: "2019-03-15"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "MARTYRS, INSIDE, and the Quest for a Beautiful Death"
 pubDate: "2016-10-31"
 categories: 

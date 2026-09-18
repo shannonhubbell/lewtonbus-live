@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Reinier's 15 Favorite Non-English Language Films Of 2018"
 pubDate: "2019-01-04"
 categories: 

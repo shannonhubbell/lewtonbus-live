@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Adaptation Station: A CHRISTMAS CAROL & POLAR EXPRESS"
 pubDate: "2017-12-21"
 categories: 

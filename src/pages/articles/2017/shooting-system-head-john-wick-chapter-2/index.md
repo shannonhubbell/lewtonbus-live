@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Shooting the System in the Head in JOHN WICK: CHAPTER 2"
 pubDate: "2017-02-15"
 categories: 

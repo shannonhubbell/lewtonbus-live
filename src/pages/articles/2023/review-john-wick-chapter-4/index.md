@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JOHN WICK: CHAPTER 4"
 pubDate: "2023-03-24"
 categories: 

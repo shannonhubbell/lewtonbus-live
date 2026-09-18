@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dad Media Month: The Prescience and Optimism of THE SUM OF ALL FEARS"
 pubDate: "2018-09-24"
 categories: 

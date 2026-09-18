@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Short Film Review: \"A Crimson Man\""
 pubDate: "2017-11-26"
 categories: 

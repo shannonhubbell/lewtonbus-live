@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JUDY"
 pubDate: "2019-09-27"
 categories: 

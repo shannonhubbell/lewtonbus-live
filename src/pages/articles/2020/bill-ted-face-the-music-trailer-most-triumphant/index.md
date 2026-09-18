@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The BILL & TED FACE THE MUSIC trailer is Most Triumphant"
 pubDate: "2020-06-09"
 categories: 

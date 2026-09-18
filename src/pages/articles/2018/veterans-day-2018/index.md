@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "All I See Is War: A Veteran’s Day Film Retrospective"
 pubDate: "2018-11-11"
 categories: 

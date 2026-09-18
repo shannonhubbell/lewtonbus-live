@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE GLORIAS"
 pubDate: "2020-09-30"
 description: "Review: THE GLORIAS"

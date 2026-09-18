@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Things We're Digging This Week - Soderbergh Edition"
 pubDate: "2017-08-18"
 categories: 

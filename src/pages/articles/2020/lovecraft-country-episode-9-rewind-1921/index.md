@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOVECRAFT COUNTRY Episode 9: \"Rewind 1921\""
 pubDate: "2020-10-13"
 categories: 

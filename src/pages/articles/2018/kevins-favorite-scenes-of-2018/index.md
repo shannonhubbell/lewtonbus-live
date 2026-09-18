@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Kevin's Favorite Scenes of 2018"
 pubDate: "2018-12-26"
 categories: 

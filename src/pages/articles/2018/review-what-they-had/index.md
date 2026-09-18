@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Peoria Film Festival Review: WHAT THEY HAD"
 pubDate: "2018-10-22"
 description: "Peoria Film Festival Review: WHAT THEY HAD"

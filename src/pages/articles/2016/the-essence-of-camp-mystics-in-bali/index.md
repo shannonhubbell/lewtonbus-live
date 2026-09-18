@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp 40: MYSTICS IN BALI"
 pubDate: "2016-11-05"
 categories: 

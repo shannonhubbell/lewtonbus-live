@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "PROUD MARY and the Importance of Representation"
 pubDate: "2018-02-16"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Things We're Digging This Week - Spider-Man Edition"
 pubDate: "2017-07-07"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE OUTPOST"
 pubDate: "2020-07-04"
 description: "Review: THE OUTPOST"

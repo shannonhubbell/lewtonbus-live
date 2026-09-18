@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: STUBER"
 pubDate: "2019-07-21"
 categories: 

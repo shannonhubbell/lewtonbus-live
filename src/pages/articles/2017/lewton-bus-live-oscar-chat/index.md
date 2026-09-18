@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The LEWTON BUS Live Oscar Chat"
 pubDate: "2017-03-01"
 description: "The LEWTON BUS Live Oscar Chat"

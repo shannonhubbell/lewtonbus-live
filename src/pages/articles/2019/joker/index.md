@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JOKER"
 pubDate: "2019-10-04"
 categories: 

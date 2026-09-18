@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THERE WAS AN IDEA... Yeah, Nah, Can't: Ragnarok and Australian Comedy"
 pubDate: "2018-04-25"
 categories: 

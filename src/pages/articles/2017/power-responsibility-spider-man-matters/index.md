@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Power and Responsibility: Why Spider-Man Matters"
 pubDate: "2017-07-04"
 categories: 

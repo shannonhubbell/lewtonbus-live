@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: SPIDERMAN: HOMECOMING Restrospective"
 pubDate: "2017-07-23"
 description: "The Bus Stops Here: SPIDERMAN: HOMECOMING Restrospective"

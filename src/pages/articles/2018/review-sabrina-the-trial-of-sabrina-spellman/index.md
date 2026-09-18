@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SABRINA, \"The Trial of Sabrina Spellman\""
 pubDate: "2018-11-06"
 description: "Review: SABRINA, \"The Trial of Sabrina Spellman\""

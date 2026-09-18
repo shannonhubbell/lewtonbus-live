@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "A Completely Arbitrary Definitive Ranking of Star Wars Bounty Hunters"
 pubDate: "2017-12-14"
 categories: 

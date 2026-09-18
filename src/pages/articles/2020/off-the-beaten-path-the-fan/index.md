@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off the Beaten Path: THE FAN"
 pubDate: "2020-08-05"
 categories: 

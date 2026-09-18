@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: HALLOWEEN (2018)"
 pubDate: "2018-10-20"
 categories: 

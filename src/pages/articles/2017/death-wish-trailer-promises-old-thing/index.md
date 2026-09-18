@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "DEATH WISH Trailer Promises the Same Old Thing"
 pubDate: "2017-08-03"
 categories: 

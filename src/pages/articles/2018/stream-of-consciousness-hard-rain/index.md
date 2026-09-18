@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: HARD RAIN"
 pubDate: "2018-09-07"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Disability in Film: UPGRADE and Ableist Action Fantasies"
 pubDate: "2018-12-30"
 description: "Disability in Film: UPGRADE and Ableist Action Fantasies"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE RED SEA DIVING RESORT"
 pubDate: "2019-08-02"
 categories: 

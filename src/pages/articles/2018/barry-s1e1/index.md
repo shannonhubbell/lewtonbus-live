@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BARRY Review: Season 1 Episode 1"
 pubDate: "2018-03-31"
 categories: 

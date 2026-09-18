@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Shannon's Top Ten Movies of 2018"
 pubDate: "2019-01-11"
 categories: 

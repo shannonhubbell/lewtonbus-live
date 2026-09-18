@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp, Episode 55: THE VISITOR"
 pubDate: "2017-08-21"
 description: "The Essence of Camp, Episode 55: THE VISITOR"

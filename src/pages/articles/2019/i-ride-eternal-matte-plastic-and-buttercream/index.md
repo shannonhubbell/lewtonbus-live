@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "I Ride Eternal, Matte Plastic and Buttercream!"
 pubDate: "2019-11-14"
 categories: 

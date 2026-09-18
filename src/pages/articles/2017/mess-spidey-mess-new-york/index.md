@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "You Mess with Spidey, You Mess with New York"
 pubDate: "2017-07-05"
 categories: 

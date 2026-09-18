@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 38: TREMORS: SHRIEKER ISLAND"
 pubDate: "2020-12-18"
 categories: 

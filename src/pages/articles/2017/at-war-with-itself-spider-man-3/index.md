@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "At War With Itself: The Good and the Bad of SPIDER-MAN 3"
 pubDate: "2017-07-07"
 categories: 

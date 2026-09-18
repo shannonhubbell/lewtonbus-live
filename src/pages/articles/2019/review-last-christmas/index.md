@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: LAST CHRISTMAS"
 pubDate: "2019-11-08"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here, Episode 6: The Evolution of James Bond"
 pubDate: "2017-03-24"
 categories: 

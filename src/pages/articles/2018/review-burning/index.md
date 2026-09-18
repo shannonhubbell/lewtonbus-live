@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BURNING"
 pubDate: "2018-11-02"
 categories: 

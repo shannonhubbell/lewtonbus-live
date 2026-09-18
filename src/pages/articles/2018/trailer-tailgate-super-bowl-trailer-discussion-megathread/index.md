@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Trailer Tailgate: Super Bowl Trailer Discussion Megathread"
 pubDate: "2018-02-05"
 categories: 

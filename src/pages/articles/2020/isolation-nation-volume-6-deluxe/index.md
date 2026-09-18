@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Isolation Nation: Volume 6 - Deluxe!"
 pubDate: "2020-05-09"
 categories: 

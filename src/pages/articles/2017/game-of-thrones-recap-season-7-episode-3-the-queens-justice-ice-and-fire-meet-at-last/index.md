@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GAME OF THRONES Recap: Season 7, Episode 3: The Queen's Justice"
 pubDate: "2017-07-31"
 categories: 

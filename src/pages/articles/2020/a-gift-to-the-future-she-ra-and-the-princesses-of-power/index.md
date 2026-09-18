@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "A Gift to the Future: SHE-RA AND THE PRINCESSES OF POWER"
 pubDate: "2020-04-09"
 categories: 

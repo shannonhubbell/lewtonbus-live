@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: Jurassic Park"
 pubDate: "2016-09-29"
 description: "Stream of Consciousness: Jurassic Park"

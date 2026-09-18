@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "A Statement On the Events of the Last Week"
 pubDate: "2017-10-15"
 categories: 

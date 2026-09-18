@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: FREE GUY"
 pubDate: "2021-08-17"
 categories: 

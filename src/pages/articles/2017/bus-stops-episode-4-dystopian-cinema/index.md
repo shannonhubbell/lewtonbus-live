@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here, Episode 4: Dystopian Cinema"
 pubDate: "2017-03-01"
 description: "The Bus Stops Here, Episode 4: Dystopian Cinema"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Disability in Film: The Rider and Dreams That Aren’t Meant to Be"
 pubDate: "2018-09-21"
 categories: 

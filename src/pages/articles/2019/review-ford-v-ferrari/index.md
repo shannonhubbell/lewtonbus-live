@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: FORD V FERRARI"
 pubDate: "2019-11-18"
 categories: 

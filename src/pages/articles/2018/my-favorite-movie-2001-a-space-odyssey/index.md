@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "My Favorite Movie: 2001 A SPACE ODYSSEY"
 pubDate: "2018-04-09"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE BATTLE AT LAKE CHANGJIN"
 pubDate: "2021-11-23"
 categories: 

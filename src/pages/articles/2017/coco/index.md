@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: COCO"
 pubDate: "2017-11-23"
 categories: 

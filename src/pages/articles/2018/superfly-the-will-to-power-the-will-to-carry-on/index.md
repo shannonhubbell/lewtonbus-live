@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SUPERFLY: The Will to Power, The Will To Carry On"
 pubDate: "2018-06-19"
 categories: 

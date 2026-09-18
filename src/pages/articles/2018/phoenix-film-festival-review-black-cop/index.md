@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Phoenix Film Festival Review: BLACK COP"
 pubDate: "2018-04-18"
 categories: 

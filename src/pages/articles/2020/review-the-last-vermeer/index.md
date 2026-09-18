@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE LAST VERMEER"
 pubDate: "2020-11-20"
 categories: 

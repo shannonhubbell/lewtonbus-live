@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BLADE OF THE IMMORTAL"
 pubDate: "2017-11-03"
 categories: 

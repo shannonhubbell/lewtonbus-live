@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: Fantastic Beasts: The Crimes of Grindelwald"
 pubDate: "2018-11-16"
 categories: 

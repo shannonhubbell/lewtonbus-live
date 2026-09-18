@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: TRASH TIME Takes on Silent Hill"
 pubDate: "2017-03-15"
 description: "The Bus Stops Here: TRASH TIME Takes on Silent Hill"

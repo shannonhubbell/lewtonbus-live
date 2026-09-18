@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: POLAR"
 pubDate: "2019-01-27"
 categories: 

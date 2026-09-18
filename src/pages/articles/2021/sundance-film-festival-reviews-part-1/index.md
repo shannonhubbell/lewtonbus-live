@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Sundance Film Festival Reviews, Part 1"
 pubDate: "2021-02-03"
 categories: 

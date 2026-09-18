@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "JUMANJI: WELCOME TO THE JUNGLE Review"
 pubDate: "2017-12-23"
 description: "JUMANJI: WELCOME TO THE JUNGLE Review"

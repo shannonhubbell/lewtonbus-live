@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Peoria Film Festival Review: DOGMAN"
 pubDate: "2018-10-23"
 categories: 

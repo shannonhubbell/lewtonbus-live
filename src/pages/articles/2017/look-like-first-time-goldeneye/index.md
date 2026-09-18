@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time? GOLDENEYE"
 pubDate: "2017-07-15"
 categories: 

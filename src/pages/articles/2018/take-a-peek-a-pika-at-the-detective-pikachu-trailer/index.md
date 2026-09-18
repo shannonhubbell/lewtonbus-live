@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Take a peek-a pika at the DETECTIVE PIKACHU trailer"
 pubDate: "2018-11-12"
 categories: 

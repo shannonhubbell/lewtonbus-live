@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Looking Back on SCANDAL"
 pubDate: "2018-04-19"
 categories: 

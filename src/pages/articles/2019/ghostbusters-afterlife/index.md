@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Meet the New GHOSTBUSTERS, Same As the Old GHOSTBUSTERS"
 pubDate: "2019-12-11"
 categories: 

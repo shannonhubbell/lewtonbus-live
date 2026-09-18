@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: It's Always Sunny in Philadelphia - Season 12 (Part 2)"
 pubDate: "2017-03-09"
 description: "Review: It's Always Sunny in Philadelphia - Season 12 (Part 2)"

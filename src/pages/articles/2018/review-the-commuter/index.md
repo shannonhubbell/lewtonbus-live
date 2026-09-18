@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE COMMUTER"
 pubDate: "2018-01-12"
 categories: 

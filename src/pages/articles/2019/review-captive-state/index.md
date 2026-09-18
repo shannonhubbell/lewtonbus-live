@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: CAPTIVE STATE"
 pubDate: "2019-03-18"
 categories: 

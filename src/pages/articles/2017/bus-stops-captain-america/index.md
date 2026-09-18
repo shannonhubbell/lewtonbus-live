@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: Captain America"
 pubDate: "2017-07-03"
 categories: 

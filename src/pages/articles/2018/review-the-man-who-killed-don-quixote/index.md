@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE MAN WHO KILLED DON QUIXOTE"
 pubDate: "2018-06-04"
 categories: 

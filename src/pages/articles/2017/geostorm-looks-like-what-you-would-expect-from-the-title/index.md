@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GEOSTORM Looks Like What You Would Expect From the Title"
 pubDate: "2017-07-08"
 categories: 

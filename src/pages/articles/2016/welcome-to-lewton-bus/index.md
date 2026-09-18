@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Welcome to LEWTON BUS"
 pubDate: "2016-09-03"
 categories: 

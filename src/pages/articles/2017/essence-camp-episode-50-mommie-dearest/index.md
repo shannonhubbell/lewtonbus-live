@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp, Episode 50: MOMMIE DEAREST"
 pubDate: "2017-05-04"
 description: "The Essence of Camp, Episode 50: MOMMIE DEAREST"

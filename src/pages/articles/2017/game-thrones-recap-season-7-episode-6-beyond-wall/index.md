@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GAME OF THRONES Recap: Season 7 Episode 6: Beyond the Wall"
 pubDate: "2017-08-23"
 categories: 

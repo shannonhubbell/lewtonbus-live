@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Films of Christmas Past: NATIONAL LAMPOON'S CHRISTMAS VACATION"
 pubDate: "2016-12-24"
 categories: 

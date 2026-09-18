@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars On Film: FURY"
 pubDate: "2017-01-18"
 categories: 

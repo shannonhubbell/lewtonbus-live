@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "CREED and The Shadows Our Fathers Cast"
 pubDate: "2016-10-14"
 categories: 

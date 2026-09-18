@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fireside Chats: DAREDEVIL, Season 3, Episodes 7-9"
 pubDate: "2018-11-17"
 categories: 

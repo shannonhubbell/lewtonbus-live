@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Tanner's Top 10 Films of 2017"
 pubDate: "2017-12-30"
 description: "Tanner's Top 10 Films of 2017"

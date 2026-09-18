@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Second AVENGERS: ENDGAME Trailer is Here"
 pubDate: "2019-03-14"
 categories: 

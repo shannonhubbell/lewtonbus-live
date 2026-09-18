@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: OUTLAW KING"
 pubDate: "2018-11-11"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE LAST JEDI and the Existential Horror of an Endless Star War"
 pubDate: "2017-12-20"
 categories: 

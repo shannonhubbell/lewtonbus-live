@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Atmospheric Storytelling in BATMAN: ARKHAM ASYLUM"
 pubDate: "2018-10-26"
 categories: 

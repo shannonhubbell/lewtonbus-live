@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: Feminism and Video Games"
 pubDate: "2017-04-27"
 description: "The Bus Stops Here: Feminism and Video Games"

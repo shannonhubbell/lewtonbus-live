@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "An Interview With the Ladies of SKATE KITCHEN"
 pubDate: "2018-08-10"
 description: "An Interview With the Ladies of SKATE KITCHEN"

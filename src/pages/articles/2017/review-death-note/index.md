@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: DEATH NOTE"
 pubDate: "2017-08-27"
 categories: 

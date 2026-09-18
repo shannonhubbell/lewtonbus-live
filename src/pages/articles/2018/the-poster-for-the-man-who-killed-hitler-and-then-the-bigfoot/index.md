@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Poster for THE MAN WHO KILLED HITLER AND THEN THE BIGFOOT Doesn't Quite Live Up to its Title"
 pubDate: "2018-06-23"
 categories: 

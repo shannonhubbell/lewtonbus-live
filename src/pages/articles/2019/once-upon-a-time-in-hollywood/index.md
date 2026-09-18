@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ONCE UPON A TIME… IN HOLLYWOOD"
 pubDate: "2019-07-26"
 categories: 

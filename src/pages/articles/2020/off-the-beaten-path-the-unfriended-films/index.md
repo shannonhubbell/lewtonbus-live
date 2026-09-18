@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off the Beaten Path: The UNFRIENDED Films"
 pubDate: "2020-01-21"
 categories: 

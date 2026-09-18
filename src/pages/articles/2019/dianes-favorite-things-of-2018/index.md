@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Diane's Favorite Things of 2018"
 pubDate: "2019-01-03"
 categories: 

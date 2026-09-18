@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "1UPtown: ALIENS"
 pubDate: "2019-09-20"
 categories: 

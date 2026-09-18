@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "AVENGERS: INFINITY WAR Trailer"
 pubDate: "2017-11-29"
 categories: 

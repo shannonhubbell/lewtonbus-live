@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: DEADPOOL 2"
 pubDate: "2018-05-18"
 categories: 

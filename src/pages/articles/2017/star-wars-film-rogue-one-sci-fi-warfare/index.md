@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Star Wars on Film: ROGUE ONE And Sci-Fi Warfare"
 pubDate: "2017-12-11"
 categories: 

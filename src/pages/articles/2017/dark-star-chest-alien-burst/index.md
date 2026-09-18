@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "DARK STAR: The Chest From Which ALIEN Burst"
 pubDate: "2017-05-15"
 description: "DARK STAR: The Chest From Which ALIEN Burst"

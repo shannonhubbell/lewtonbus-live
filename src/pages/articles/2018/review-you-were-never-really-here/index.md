@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: YOU WERE NEVER REALLY HERE"
 pubDate: "2018-04-17"
 categories: 

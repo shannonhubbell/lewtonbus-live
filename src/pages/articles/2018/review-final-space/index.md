@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: FINAL SPACE"
 pubDate: "2018-03-14"
 categories: 

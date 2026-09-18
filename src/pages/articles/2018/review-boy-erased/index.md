@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Scottsdale International Film Festival Review: BOY ERASED"
 pubDate: "2018-11-08"
 categories: 

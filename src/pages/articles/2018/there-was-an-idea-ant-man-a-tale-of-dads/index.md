@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was An Idea... ANT-MAN, A Tale of Small Dads"
 pubDate: "2018-04-06"
 categories: 

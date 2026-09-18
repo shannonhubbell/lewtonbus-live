@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: ROCKY"
 pubDate: "2016-11-04"
 categories: 

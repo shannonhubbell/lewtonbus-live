@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: URI: THE SURGICAL STRIKE"
 pubDate: "2019-01-18"
 categories: 

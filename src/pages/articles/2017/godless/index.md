@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: GODLESS"
 pubDate: "2017-12-12"
 categories: 

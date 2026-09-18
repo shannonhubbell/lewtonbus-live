@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off the Beaten Path: DOUBLE TEAM"
 pubDate: "2019-09-07"
 categories: 

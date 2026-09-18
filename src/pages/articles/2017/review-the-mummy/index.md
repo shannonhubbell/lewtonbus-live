@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE MUMMY"
 pubDate: "2017-06-07"
 categories: 

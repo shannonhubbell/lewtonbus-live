@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "A Ghost Story for Christmas: THE LEGEND OF HELL HOUSE"
 pubDate: "2017-12-23"
 description: "A Ghost Story for Christmas: THE LEGEND OF HELL HOUSE"

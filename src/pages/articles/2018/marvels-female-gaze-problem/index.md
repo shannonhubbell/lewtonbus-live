@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Marvel's \"Female Gaze\" Problem"
 pubDate: "2018-03-17"
 categories: 

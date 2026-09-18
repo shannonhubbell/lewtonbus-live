@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "2001: A SPACE ODYSSEY, Alien Gods, and Me"
 pubDate: "2018-04-10"
 categories: 

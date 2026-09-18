@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review - KINGSMAN: THE GOLDEN CIRCLE"
 pubDate: "2017-09-22"
 categories: 

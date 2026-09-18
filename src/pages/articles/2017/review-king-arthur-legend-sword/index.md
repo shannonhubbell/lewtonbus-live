@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review - KING ARTHUR: LEGEND OF THE SWORD"
 pubDate: "2017-05-12"
 categories: 

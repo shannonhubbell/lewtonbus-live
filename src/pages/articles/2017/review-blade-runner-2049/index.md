@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BLADE RUNNER 2049"
 pubDate: "2017-10-06"
 categories: 

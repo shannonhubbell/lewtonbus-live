@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dad Media Month (Counter-Programming): The PURGE Series"
 pubDate: "2018-09-14"
 categories: 

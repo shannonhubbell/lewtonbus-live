@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Nonviolent Philosophy of THE LAST JEDI"
 pubDate: "2018-03-28"
 categories: 

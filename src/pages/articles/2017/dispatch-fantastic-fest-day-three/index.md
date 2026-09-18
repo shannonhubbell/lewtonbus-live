@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dispatch From Fantastic Fest: Day Three"
 pubDate: "2017-09-25"
 categories: 

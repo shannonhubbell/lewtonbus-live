@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Conscious: 5 Horror Films on Netflix You Need to Watch Right Now"
 pubDate: "2017-10-09"
 description: "Stream of Conscious: 5 Horror Films on Netflix You Need to Watch Right Now"

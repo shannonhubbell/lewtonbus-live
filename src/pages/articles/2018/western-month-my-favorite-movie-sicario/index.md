@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Western Month - My Favorite Movie: SICARIO"
 pubDate: "2018-08-27"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GAME OF THRONES Recap: “A Knight of the Seven Kingdoms”"
 pubDate: "2019-04-22"
 categories: 

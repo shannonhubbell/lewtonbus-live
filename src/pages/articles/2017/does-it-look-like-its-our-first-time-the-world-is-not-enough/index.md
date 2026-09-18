@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time? THE WORLD IS NOT ENOUGH"
 pubDate: "2017-08-05"
 description: "Does It Look Like It's Our First Time? THE WORLD IS NOT ENOUGH"

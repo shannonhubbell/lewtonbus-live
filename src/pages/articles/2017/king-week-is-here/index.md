@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "King Week is Here!"
 pubDate: "2017-09-04"
 categories: 

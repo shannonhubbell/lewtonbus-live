@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "STAR TREK: ENTERPRISE is Good, Y'all."
 pubDate: "2017-03-03"
 categories: 

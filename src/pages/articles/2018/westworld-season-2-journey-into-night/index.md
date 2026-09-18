@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WESTWORLD Season 2 : Journey Into Night"
 pubDate: "2018-04-23"
 categories: 

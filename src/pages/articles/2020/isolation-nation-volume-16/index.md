@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Isolation Nation: Volume 16"
 pubDate: "2020-07-17"
 categories: 

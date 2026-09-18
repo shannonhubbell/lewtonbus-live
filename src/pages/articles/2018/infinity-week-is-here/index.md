@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "INFINITY WEEK is Here!"
 pubDate: "2018-04-23"
 categories: 

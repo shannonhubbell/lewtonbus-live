@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: MIDWAY"
 pubDate: "2020-05-24"
 categories: 

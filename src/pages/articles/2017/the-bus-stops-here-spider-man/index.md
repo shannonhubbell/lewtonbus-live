@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: Spider-Man!"
 pubDate: "2017-07-07"
 description: "The Bus Stops Here: Spider-Man!"

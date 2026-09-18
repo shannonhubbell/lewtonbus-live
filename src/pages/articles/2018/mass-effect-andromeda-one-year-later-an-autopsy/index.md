@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "MASS EFFECT: ANDROMEDA, One Year Later: An Autopsy"
 pubDate: "2018-03-21"
 categories: 

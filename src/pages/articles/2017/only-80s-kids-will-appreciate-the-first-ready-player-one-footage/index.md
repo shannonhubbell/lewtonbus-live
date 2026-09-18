@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Only 80's Kids Will Appreciate The First READY PLAYER ONE Footage"
 pubDate: "2017-07-22"
 categories: 

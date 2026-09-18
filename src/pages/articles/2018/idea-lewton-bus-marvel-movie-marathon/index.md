@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "\"THERE WAS AN IDEA...\": The Lewton Bus Marvel Movie Marathon"
 pubDate: "2018-02-20"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "My Favorite Movie: CASINO ROYALE"
 pubDate: "2017-10-03"
 description: "My Favorite Movie: CASINO ROYALE"

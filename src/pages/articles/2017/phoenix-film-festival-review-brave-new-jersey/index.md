@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Phoenix Film Festival Review: BRAVE NEW JERSEY"
 pubDate: "2017-04-17"
 categories: 

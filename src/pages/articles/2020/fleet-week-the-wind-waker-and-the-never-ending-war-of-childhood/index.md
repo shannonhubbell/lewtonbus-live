@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: THE WIND WAKER and the Never Ending War of Childhood"
 pubDate: "2020-05-22"
 categories: 

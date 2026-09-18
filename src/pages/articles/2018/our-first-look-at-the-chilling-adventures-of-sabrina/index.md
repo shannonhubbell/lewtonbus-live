@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Our first look at THE CHILLING ADVENTURES OF SABRINA"
 pubDate: "2018-09-13"
 categories: 

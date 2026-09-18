@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review - UNDERWORLD: BLOOD WARS"
 pubDate: "2017-01-07"
 categories: 

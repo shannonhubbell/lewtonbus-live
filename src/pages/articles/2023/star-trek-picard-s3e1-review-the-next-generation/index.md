@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Star Trek: Picard, S3E1 Review: \"The Next Generation\""
 pubDate: "2023-02-20"
 categories: 

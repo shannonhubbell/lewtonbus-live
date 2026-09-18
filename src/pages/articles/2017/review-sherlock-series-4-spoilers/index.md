@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SHERLOCK, series 4 (SPOILERS)"
 pubDate: "2017-01-23"
 categories: 

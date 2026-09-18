@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: THE ADMIRAL: ROARING CURRENTS"
 pubDate: "2017-05-27"
 categories: 

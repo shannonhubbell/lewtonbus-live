@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Nectar of the Godzillas: GODZILLA RAIDS AGAIN"
 pubDate: "2017-07-27"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars On Film: Revisiting Band of Brothers"
 pubDate: "2016-06-06"
 categories: 

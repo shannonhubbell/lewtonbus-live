@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: STAR WARS: THE RISE OF SKYWALKER"
 pubDate: "2019-12-18"
 categories: 

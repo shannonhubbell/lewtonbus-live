@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time? CASINO ROYALE"
 pubDate: "2017-08-17"
 categories: 

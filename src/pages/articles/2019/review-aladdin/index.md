@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ALADDIN"
 pubDate: "2019-05-22"
 categories: 

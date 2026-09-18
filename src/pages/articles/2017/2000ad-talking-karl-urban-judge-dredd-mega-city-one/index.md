@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Karl Urban Could Appear in JUDGE DREDD: MEGA-CITY ONE"
 pubDate: "2017-05-17"
 categories: 

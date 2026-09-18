@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The \"Official\" Lewton Bus 91st Academy Awards Preview"
 pubDate: "2019-02-22"
 categories: 

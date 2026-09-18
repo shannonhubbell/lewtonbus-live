@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: READY PLAYER ONE"
 pubDate: "2018-03-30"
 categories: 

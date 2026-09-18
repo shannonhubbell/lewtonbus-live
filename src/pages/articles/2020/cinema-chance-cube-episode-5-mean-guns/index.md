@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 5: MEAN GUNS"
 pubDate: "2020-04-30"
 categories: 

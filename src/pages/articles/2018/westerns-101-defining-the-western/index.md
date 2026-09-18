@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Westerns 101 — Defining the Western"
 pubDate: "2018-08-06"
 description: "Westerns 101 — Defining the Western"

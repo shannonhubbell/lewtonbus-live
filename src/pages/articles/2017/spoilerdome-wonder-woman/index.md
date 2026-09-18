@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spoilerdome: WONDER WOMAN"
 pubDate: "2017-06-04"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The New Trailer for GODZILLA: KING OF THE MONSTERS Lets Them Fight"
 pubDate: "2018-12-10"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BONES AND ALL"
 pubDate: "2022-11-23"
 categories: 

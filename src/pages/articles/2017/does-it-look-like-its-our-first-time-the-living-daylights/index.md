@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does it Look Like It's Our First Time? THE LIVING DAYLIGHTS"
 pubDate: "2017-06-30"
 categories: 

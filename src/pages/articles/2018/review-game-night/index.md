@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: GAME NIGHT"
 pubDate: "2018-02-23"
 categories: 

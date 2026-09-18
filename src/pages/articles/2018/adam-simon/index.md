@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "INTERVIEW: Adam Simon"
 pubDate: "2018-11-05"
 categories: 

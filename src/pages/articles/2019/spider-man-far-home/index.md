@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SPIDER-MAN: FAR FROM HOME"
 pubDate: "2019-07-03"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BARRY: Season 2, Episode 2, “The Power of No”"
 pubDate: "2019-04-08"
 categories: 

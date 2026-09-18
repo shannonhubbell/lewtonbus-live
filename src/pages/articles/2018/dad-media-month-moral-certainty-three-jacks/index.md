@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dad Media Month: Moral Certainty and The Three Jacks"
 pubDate: "2018-09-13"
 categories: 

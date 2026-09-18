@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Never Say Never Again (Again)"
 pubDate: "2017-07-10"
 categories: 

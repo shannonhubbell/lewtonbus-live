@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Kubrickian: Singularity and Influence"
 pubDate: "2018-04-13"
 description: "Kubrickian: Singularity and Influence"

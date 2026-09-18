@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "ALITA: BATTLE ANGEL Looks Absolutely Wild"
 pubDate: "2017-12-08"
 categories: 

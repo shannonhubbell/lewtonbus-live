@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Thing's We're Digging This Year (2016) - Andrew's Favorite Performances"
 pubDate: "2017-02-23"
 description: "Thing's We're Digging This Year (2016) - Andrew's Favorite Performances"

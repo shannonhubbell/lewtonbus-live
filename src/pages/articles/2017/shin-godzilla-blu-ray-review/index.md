@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SHIN GODZILLA Blu-Ray Review"
 pubDate: "2017-08-05"
 categories: 

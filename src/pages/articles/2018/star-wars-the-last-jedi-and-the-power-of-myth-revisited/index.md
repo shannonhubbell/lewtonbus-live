@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "STAR WARS: THE LAST JEDI and The Power of Myth, Revisited"
 pubDate: "2018-05-24"
 categories: 

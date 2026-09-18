@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "STAR WARS: THE LAST JEDI Trailer is Here!!!"
 pubDate: "2017-04-14"
 categories: 

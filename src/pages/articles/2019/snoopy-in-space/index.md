@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SNOOPY IN SPACE"
 pubDate: "2019-11-09"
 categories: 

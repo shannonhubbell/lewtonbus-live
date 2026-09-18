@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: WONDER WOMAN"
 pubDate: "2017-06-02"
 categories: 

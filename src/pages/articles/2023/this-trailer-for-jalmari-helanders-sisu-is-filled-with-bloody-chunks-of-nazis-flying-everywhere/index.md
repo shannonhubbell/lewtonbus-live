@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "This Trailer for Jalmari Helander's SISU is Filled With Bloody Chunks of Nazis Flying Everywhere"
 pubDate: "2023-02-23"
 categories: 

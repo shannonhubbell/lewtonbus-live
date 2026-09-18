@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "AVENGERS: INFINITY WAR (Spoiler-Free) Review"
 pubDate: "2018-04-27"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "ALIEN: My Father, My Xenomorph and Me"
 pubDate: "2017-05-18"
 categories: 

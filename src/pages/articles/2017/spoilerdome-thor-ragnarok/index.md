@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spoilerdome: THOR: RAGNAROK"
 pubDate: "2017-11-03"
 categories: 

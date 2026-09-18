@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: QUEEN & SLIM"
 pubDate: "2019-11-25"
 categories: 

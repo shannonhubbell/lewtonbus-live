@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "That VENOM Movie Gets A New Trailer. Proves Existence."
 pubDate: "2018-02-08"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BARRY Season 2, Episode 6: \"The Truth Has a Ring to It\""
 pubDate: "2019-06-20"
 categories: 

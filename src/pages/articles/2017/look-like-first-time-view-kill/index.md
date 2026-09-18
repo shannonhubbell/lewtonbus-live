@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time? A VIEW TO A KILL"
 pubDate: "2017-06-26"
 categories: 

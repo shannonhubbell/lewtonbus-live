@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "MISSION: IMPOSSIBLE - FALLOUT Review"
 pubDate: "2018-07-27"
 categories: 

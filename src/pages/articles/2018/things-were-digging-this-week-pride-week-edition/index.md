@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Things We're Digging This Week - Pride Week Edition"
 pubDate: "2018-06-29"
 categories: 

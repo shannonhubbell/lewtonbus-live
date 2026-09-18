@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SIFF Review: LAST FLAG FLYING"
 pubDate: "2017-11-09"
 categories: 

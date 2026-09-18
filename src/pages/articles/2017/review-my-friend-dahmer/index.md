@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: MY FRIEND DAHMER"
 pubDate: "2017-12-10"
 categories: 

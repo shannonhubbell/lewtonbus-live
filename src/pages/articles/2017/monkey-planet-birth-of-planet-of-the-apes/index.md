@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Monkey Planet: The Birth of PLANET OF THE APES"
 pubDate: "2017-07-14"
 description: "Monkey Planet: The Birth of PLANET OF THE APES"

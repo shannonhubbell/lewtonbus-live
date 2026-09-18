@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: FROZEN II"
 pubDate: "2019-11-19"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 9: HULK"
 pubDate: "2020-05-28"
 categories: 

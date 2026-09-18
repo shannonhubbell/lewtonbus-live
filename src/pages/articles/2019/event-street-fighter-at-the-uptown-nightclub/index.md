@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Event: STREET FIGHTER at the Uptown Nightclub"
 pubDate: "2019-02-17"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BLADE II: Lonely Hearts Club"
 pubDate: "2018-02-14"
 description: "BLADE II: Lonely Hearts Club"

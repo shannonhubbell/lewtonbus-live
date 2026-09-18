@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Brilliance of STAR WARS' Opening Crawl"
 pubDate: "2017-12-13"
 categories: 

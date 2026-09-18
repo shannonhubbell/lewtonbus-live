@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: HALLOWEEN KILLS"
 pubDate: "2021-10-21"
 categories: 

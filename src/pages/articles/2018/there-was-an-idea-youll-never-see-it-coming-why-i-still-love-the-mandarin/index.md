@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THERE WAS AN IDEA... You'll Never See It Coming: Why I Still Love The Mandarin"
 pubDate: "2018-03-21"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The First Trailer For THE DARK TOWER Is Finally Upon Us"
 pubDate: "2017-05-03"
 description: "The First Trailer For THE DARK TOWER Is Finally Upon Us"

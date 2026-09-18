@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE DEATH OF STALIN"
 pubDate: "2018-03-12"
 categories: 

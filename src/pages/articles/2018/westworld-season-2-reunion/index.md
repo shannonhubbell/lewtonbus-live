@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WESTWORLD Season 2 : Reunion"
 pubDate: "2018-04-30"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SOLO, LANDO and the Fault in our STAR WARS"
 pubDate: "2018-05-17"
 categories: 

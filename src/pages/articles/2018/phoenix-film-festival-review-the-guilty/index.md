@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Phoenix Film Festival Review: THE GUILTY"
 pubDate: "2018-05-07"
 categories: 

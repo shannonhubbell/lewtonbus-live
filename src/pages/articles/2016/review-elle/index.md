@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ELLE"
 pubDate: "2016-11-20"
 categories: 

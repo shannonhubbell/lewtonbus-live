@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "STAR WARS at 40: The Power of Myth"
 pubDate: "2017-12-12"
 categories: 

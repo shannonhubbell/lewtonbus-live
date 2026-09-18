@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WESTWORLD Season 2 – Akane No Mai"
 pubDate: "2018-05-21"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ASSASSIN'S CREED"
 pubDate: "2016-12-22"
 categories: 

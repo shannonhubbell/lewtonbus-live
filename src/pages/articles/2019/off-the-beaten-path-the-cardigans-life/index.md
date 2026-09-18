@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off The Beaten Path: The Cardigans - Life"
 pubDate: "2019-04-18"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ISLE OF DOGS"
 pubDate: "2018-04-08"
 categories: 

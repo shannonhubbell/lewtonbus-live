@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "New MARY POPPINS RETURNS Stills Dazzle And Delight"
 pubDate: "2017-06-07"
 categories: 

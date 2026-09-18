@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BLADE: The Bleeding Edge of Cinema"
 pubDate: "2018-02-12"
 description: "BLADE: The Bleeding Edge of Cinema"

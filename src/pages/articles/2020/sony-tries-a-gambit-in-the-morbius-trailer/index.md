@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Sony Tries a Gambit in the MORBIUS Trailer"
 pubDate: "2020-01-13"
 categories: 

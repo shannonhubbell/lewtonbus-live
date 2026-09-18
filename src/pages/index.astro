@@ -1,6 +1,13 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import HomeFeed from "../components/HomeFeed.astro";
+import { getAllArticles } from "../lib/articles";
 
+const POSTS_PER_PAGE = 5;
+
+const allPosts = await getAllArticles();
+const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
+const posts = allPosts.slice(0, POSTS_PER_PAGE);
 
 const title = "Lewton Bus";
 const description = "Back and ready to brawl.";
@@ -8,22 +15,15 @@ const bodytags = ["home"];
 ---
 
 <Layout pageTitle={title} pageDescription={description} bodyTags={bodytags as []}>
-	
+	<div id="home-wrapper">
+		<HomeFeed posts={posts} currentPage={1} totalPages={totalPages} />
+	</div>
 </Layout>
 
 <style>
 	#home-wrapper {
-		display: flex;
-		justify-content: space-between;
-		flex-wrap: wrap;
-		section {
-			width: 49%;
-		}
-		@media screen and (max-width: 700px) {
-			flex-direction: column-reverse;
-			section {
-				width: auto;
-			}
-		}
+		max-width: 800px;
+		margin: 0 auto;
+		padding: 1rem;
 	}
 </style>

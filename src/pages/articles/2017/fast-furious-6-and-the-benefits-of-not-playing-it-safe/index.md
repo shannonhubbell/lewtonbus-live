@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "FAST & FURIOUS 6 And The Benefits of Not Playing It Safe"
 pubDate: "2017-04-13"
 categories: 

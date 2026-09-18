@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Avengers Infinity War: Who's your Daddy?"
 pubDate: "2018-05-03"
 categories: 

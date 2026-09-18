@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "ALIENS, And The Problem With Fan Worship"
 pubDate: "2017-05-19"
 categories: 

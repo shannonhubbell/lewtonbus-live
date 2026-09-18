@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE GIRL IN THE SPIDER'S WEB"
 pubDate: "2018-11-07"
 categories: 

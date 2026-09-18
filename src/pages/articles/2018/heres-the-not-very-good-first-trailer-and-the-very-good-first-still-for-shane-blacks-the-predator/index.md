@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Here's the Not Very Good First Trailer And The Very Good First Still For Shane Black's THE PREDATOR"
 pubDate: "2018-05-10"
 categories: 

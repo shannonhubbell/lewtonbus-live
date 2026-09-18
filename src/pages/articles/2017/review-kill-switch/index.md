@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: KILL SWITCH"
 pubDate: "2017-06-19"
 categories: 

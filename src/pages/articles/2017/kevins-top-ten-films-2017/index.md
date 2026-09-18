@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Kevin's Top Ten Films of 2017"
 pubDate: "2017-12-28"
 categories: 

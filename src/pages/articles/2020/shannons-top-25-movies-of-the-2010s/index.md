@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Shannon's Top 25 Movies of the 2010s"
 pubDate: "2020-01-13"
 categories: 

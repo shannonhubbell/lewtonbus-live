@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: MEN IN BLACK INTERNATIONAL"
 pubDate: "2019-06-14"
 categories: 

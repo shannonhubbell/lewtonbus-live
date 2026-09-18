@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 40: TRANCERS"
 pubDate: "2020-12-31"
 categories: 

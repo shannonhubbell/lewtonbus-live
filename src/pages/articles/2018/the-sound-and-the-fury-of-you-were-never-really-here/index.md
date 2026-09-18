@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Sound and the Fury of YOU WERE NEVER REALLY HERE"
 pubDate: "2018-05-30"
 categories: 

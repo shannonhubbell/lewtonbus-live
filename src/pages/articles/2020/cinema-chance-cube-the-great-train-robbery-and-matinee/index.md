@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube - THE GREAT TRAIN ROBBERY and MATINEE!"
 pubDate: "2020-06-26"
 description: "Cinema Chance Cube - THE GREAT TRAIN ROBBERY and MATINEE!"

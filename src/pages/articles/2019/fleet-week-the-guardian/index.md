@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: THE GUARDIAN"
 pubDate: "2019-05-22"
 description: "Fleet Week: THE GUARDIAN"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Western Month - The Non-Western Westerns of John Carpenter"
 pubDate: "2018-08-30"
 categories: 

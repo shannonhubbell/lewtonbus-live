@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "National Board With A Nail In It Special Report: Weekend Ass-Whooping Extravaganza"
 pubDate: "2018-10-19"
 categories: 

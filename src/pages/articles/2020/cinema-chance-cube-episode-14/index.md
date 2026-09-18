@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 14: LOVE AND A .45"
 pubDate: "2020-07-08"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE CHILLING ADVENTURES OF SABRINA, \"Chapter One: October Country\" and \"Chapter Two: The Dark Baptism\""
 pubDate: "2018-10-29"
 categories: 

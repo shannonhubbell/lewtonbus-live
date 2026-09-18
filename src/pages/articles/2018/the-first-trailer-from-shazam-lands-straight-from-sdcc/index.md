@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The First Trailer From SHAZAM! Lands Straight From SDCC"
 pubDate: "2018-07-21"
 categories: 

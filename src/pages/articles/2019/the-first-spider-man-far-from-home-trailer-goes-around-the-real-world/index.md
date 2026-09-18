@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The First SPIDER-MAN: FAR FROM HOME Trailer Goes Around the (Real) World"
 pubDate: "2019-01-15"
 description: "The First SPIDER-MAN: FAR FROM HOME Trailer Goes Around the (Real) World"

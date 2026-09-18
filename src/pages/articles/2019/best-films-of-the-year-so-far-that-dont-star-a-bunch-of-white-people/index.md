@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Best Films of the Year So Far that Don't Star a Bunch of White People"
 pubDate: "2019-06-19"
 categories: 

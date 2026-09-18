@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dad Media Month: THE INTERNATIONAL"
 pubDate: "2018-09-26"
 categories: 

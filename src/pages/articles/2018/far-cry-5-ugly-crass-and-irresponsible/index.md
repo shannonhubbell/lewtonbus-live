@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Far Cry 5: Ugly, Crass, and Irresponsible"
 pubDate: "2018-04-05"
 categories: 

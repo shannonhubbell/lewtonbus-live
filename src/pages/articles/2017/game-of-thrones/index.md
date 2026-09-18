@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Ice and Fire Clash in New GAME OF THRONES Trailer"
 pubDate: "2017-06-22"
 description: "Ice and Fire Clash in New GAME OF THRONES Trailer"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: FANTASTIC BEASTS AND WHERE TO FIND THEM"
 pubDate: "2016-11-19"
 categories: 

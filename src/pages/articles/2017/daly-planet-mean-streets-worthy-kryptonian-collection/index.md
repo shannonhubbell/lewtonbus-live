@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Daly Planet: Is MEAN STREETS worthy of the Kryptonian Collection?"
 pubDate: "2017-02-02"
 categories: 

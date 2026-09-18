@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Growing Up in the Matrix"
 pubDate: "2021-12-24"
 categories: 

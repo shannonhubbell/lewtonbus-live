@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOVECRAFT COUNTRY, Episode 2: “Whitey’s on the Moon”"
 pubDate: "2020-08-31"
 categories: 

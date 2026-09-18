@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THERE WAS AN IDEA… I Am IRON MAN"
 pubDate: "2018-02-22"
 categories: 

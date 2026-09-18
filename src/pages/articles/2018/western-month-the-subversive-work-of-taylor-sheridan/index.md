@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Western Month: The Subversive Work of Taylor Sheridan"
 pubDate: "2018-08-17"
 categories: 

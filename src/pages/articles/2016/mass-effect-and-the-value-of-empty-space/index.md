@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "MASS EFFECT and the Value of Empty Space"
 pubDate: "2016-10-19"
 description: "MASS EFFECT and the Value of Empty Space"

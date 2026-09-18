@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "INFINITY WEEK - The Comics of Thanos"
 pubDate: "2018-04-23"
 categories: 

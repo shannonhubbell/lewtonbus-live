@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WESTWORLD Season 2 - Phase Space"
 pubDate: "2018-05-29"
 categories: 

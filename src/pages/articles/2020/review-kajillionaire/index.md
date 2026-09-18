@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: KAJILLIONAIRE"
 pubDate: "2020-09-25"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "A day at PAC Festival: 12-hours of Arthouse Cinema"
 pubDate: "2017-09-26"
 categories: 

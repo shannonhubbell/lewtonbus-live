@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review - JACK REACHER: NEVER GO BACK"
 pubDate: "2016-10-23"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does it Look Like it's Our First Time? THE SPY WHO LOVED ME"
 pubDate: "2017-05-26"
 categories: 

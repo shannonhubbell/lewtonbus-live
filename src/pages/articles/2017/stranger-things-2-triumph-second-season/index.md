@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "STRANGER THINGS 2 Is a Triumph of a Second Season"
 pubDate: "2017-10-31"
 categories: 

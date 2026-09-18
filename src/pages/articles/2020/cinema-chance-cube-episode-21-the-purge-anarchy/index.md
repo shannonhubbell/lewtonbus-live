@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 21: THE PURGE: ANARCHY"
 pubDate: "2020-08-22"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "It's FAST week at Lewton Bus!"
 pubDate: "2017-04-10"
 categories: 

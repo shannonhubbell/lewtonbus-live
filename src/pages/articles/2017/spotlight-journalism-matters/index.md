@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SPOTLIGHT and Why Journalism Matters"
 pubDate: "2017-02-26"
 categories: 

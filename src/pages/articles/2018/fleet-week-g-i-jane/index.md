@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: G.I. JANE"
 pubDate: "2018-05-23"
 description: "Fleet Week: G.I. JANE"

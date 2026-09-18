@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOGAN is the Wolverine Film We've Been Begging For"
 pubDate: "2017-03-03"
 categories: 

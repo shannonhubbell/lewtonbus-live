@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "6 UNDERGROUND Review: Dead To Rights"
 pubDate: "2019-12-17"
 categories: 

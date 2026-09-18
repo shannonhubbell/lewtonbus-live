@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The First MURDER ON THE ORIENT EXPRESS Trailer Pulls Into The Station"
 pubDate: "2017-06-01"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: POSSUM"
 pubDate: "2018-12-28"
 categories: 

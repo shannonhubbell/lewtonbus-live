@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BAD TIMES AT THE EL ROYALE"
 pubDate: "2018-10-08"
 categories: 

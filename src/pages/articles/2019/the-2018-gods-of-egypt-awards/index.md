@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The 2018 GODS OF EGYPT Awards!"
 pubDate: "2019-04-09"
 categories: 

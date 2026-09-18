@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Darkness. Tears. Sighs. The New SUSPIRIA Trailer Wants To Get Inside You"
 pubDate: "2018-08-23"
 categories: 

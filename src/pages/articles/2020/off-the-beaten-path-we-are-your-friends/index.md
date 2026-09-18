@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off The Beaten Path: WE ARE YOUR FRIENDS"
 pubDate: "2020-11-08"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: E.T. THE EXTRA-TERRESTRIAL"
 pubDate: "2016-09-22"
 description: "Stream of Consciousness: E.T. THE EXTRA-TERRESTRIAL"

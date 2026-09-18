@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was an Idea... Captain America &amp; The War Within"
 pubDate: "2018-04-11"
 description: "There Was an Idea... Captain America &amp; The War Within"

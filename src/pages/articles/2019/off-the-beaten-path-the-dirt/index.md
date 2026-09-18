@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off The Beaten Path: THE DIRT"
 pubDate: "2019-07-26"
 categories: 

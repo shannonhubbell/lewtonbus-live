@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: Podcast of the Apes"
 pubDate: "2017-07-15"
 categories: 

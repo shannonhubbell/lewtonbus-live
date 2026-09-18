@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: GHOST IN THE SHELL"
 pubDate: "2017-03-30"
 description: "Review: GHOST IN THE SHELL"

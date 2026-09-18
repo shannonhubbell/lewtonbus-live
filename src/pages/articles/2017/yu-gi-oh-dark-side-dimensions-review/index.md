@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review - YU-GI-OH: THE DARK SIDE OF DIMENSIONS"
 pubDate: "2017-02-04"
 categories: 

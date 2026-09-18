@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stan Lee 1922-2018"
 pubDate: "2018-11-13"
 categories: 

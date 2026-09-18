@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Scottsdale International Film Festival Review: EVERYBODY KNOWS"
 pubDate: "2018-11-06"
 categories: 

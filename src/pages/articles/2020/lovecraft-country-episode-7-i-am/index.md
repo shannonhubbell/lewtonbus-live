@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOVECRAFT COUNTRY Episode 7: \"I Am\""
 pubDate: "2020-09-29"
 categories: 

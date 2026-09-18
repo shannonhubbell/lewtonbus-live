@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Ghost in the Shell Review"
 pubDate: "2017-03-31"
 categories: 

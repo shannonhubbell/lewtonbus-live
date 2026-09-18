@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SHANG-CHI AND THE LEGEND OF THE TEN RINGS"
 pubDate: "2021-09-11"
 categories: 

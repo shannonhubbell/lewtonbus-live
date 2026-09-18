@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Does It Look Like It's Our First Time: ON HER MAJESTY'S SECRET SERVICE"
 pubDate: "2017-04-21"
 categories: 

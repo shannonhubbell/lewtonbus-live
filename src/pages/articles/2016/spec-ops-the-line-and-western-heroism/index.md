@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spec-Ops The Line and Western Heroism"
 pubDate: "2016-12-10"
 categories: 

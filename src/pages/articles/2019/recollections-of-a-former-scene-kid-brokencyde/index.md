@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Recollections of a Former Scene Kid: brokeNCYDE"
 pubDate: "2019-08-08"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: GEMINI MAN"
 pubDate: "2019-10-13"
 categories: 

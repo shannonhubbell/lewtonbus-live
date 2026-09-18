@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BILL & TED FACE THE MUSIC"
 pubDate: "2020-08-30"
 categories: 

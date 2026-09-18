@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Set This World Ablaze: A Veteran's Day Film Retrospective, Part 2"
 pubDate: "2019-11-13"
 categories: 

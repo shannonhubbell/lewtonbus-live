@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Tobe Hooper Gutted Film with THE TEXAS CHAINSAW MASSACRE"
 pubDate: "2017-08-27"
 description: "Tobe Hooper Gutted Film with THE TEXAS CHAINSAW MASSACRE"

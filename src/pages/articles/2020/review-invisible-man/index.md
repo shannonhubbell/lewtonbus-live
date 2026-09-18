@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE INVISIBLE MAN"
 pubDate: "2020-02-27"
 categories: 

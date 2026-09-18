@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THERE WAS AN IDEA... Seeing Your Culture As An Outsider and BLACK PANTHER"
 pubDate: "2018-04-27"
 categories: 

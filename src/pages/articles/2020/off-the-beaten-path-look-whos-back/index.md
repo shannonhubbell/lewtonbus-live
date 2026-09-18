@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off the Beaten Path: LOOK WHO’S BACK"
 pubDate: "2020-06-12"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Jon Favreau to Write and Produce a New STAR WARS TV Series"
 pubDate: "2018-03-08"
 categories: 

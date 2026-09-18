@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Post Is A Triumph of A Film"
 pubDate: "2018-01-12"
 categories: 

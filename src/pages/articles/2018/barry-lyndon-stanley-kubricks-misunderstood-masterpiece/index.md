@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BARRY LYNDON: Stanley Kubrick's Misunderstood Masterpiece"
 pubDate: "2018-04-12"
 description: "BARRY LYNDON: Stanley Kubrick's Misunderstood Masterpiece"

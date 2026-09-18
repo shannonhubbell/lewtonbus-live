@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BLACK PANTHER Review: A Powerful New Element in the MCU Formula"
 pubDate: "2018-02-16"
 categories: 

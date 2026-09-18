@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SPIDER-MAN: NO WAY HOME"
 pubDate: "2021-12-17"
 categories: 

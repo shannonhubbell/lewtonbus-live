@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "It's Soderbergh Week!"
 pubDate: "2017-08-14"
 categories: 

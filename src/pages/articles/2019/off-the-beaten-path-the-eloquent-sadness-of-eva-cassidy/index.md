@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "OFF THE BEATEN PATH: The Eloquent Sadness of Eva Cassidy"
 pubDate: "2019-03-14"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Films of Steven Soderbergh: KAFKA"
 pubDate: "2017-08-15"
 categories: 

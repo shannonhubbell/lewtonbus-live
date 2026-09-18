@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE PEANUTS MOVIE: The Power of the Underdog"
 pubDate: "2020-10-14"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp, Episode 57: Top Gun"
 pubDate: "2017-09-27"
 description: "The Essence of Camp, Episode 57: Top Gun"

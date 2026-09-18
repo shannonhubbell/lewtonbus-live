@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BARRY: Season 1, Episode 7, \"Loud, Fast, and Keep Going\""
 pubDate: "2018-05-10"
 categories: 

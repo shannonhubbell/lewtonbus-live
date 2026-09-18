@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Rian Johnson Will Make a Brand-New STAR WARS Trilogy!"
 pubDate: "2017-11-09"
 categories: 

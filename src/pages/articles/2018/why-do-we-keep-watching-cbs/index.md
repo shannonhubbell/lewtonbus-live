@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dad Media Month (Counter-Programming): Why Do We Keep Watching CBS? It's Complicated."
 pubDate: "2018-09-06"
 categories: 

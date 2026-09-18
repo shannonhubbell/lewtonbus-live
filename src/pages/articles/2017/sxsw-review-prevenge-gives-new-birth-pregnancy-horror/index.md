@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SXSW Review: PREVENGE Gives New Birth to Pregnancy Horror"
 pubDate: "2017-03-12"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "It's SPIDER-MAN Week!"
 pubDate: "2017-07-03"
 categories: 

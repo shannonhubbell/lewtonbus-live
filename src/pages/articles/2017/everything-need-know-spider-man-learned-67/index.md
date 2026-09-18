@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Everything I Need to Know About SPIDER-MAN I learned in '67"
 pubDate: "2017-07-06"
 categories: 

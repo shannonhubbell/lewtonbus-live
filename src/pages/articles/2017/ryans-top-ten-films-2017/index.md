@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Ryan’s Top Ten Films of 2017"
 pubDate: "2017-12-31"
 categories: 

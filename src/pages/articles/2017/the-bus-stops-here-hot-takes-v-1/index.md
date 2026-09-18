@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: Hot Takes v. 1"
 pubDate: "2017-06-03"
 description: "The Bus Stops Here: Hot Takes v. 1"

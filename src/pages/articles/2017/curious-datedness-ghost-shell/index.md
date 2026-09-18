@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Curious Datedness of GHOST IN THE SHELL"
 pubDate: "2017-02-12"
 categories: 

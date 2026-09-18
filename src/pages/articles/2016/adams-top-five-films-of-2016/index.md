@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Adam's Top Five Films of 2016"
 pubDate: "2016-12-31"
 categories: 

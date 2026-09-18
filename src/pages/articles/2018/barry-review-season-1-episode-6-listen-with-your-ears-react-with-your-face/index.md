@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BARRY Review: Season 1, Episode 6, “Listen with Your Ears, React with Your Face"
 pubDate: "2018-05-01"
 categories: 

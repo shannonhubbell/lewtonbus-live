@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "I Just Watched the IRON MASK Trailer and Still Have No Idea What I Just Watched"
 pubDate: "2020-02-13"
 categories: 

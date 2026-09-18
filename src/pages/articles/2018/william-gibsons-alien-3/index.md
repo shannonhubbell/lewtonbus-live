@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "William Gibson's ALIEN 3 Will Be Coming to a Comic Book Store Near You"
 pubDate: "2018-07-13"
 categories: 

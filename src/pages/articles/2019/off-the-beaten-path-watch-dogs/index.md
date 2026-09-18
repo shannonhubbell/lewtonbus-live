@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "OFF THE BEATEN PATH: WATCH DOGS"
 pubDate: "2019-03-21"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SILENCE: An Obscure Christian Defense of Multiculturalism"
 pubDate: "2017-01-18"
 categories: 

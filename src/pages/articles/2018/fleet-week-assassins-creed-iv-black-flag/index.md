@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: ASSASSIN'S CREED IV: BLACK FLAG"
 pubDate: "2018-05-24"
 categories: 

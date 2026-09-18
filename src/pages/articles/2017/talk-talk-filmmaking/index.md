@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "What We Talk About When We Talk About Filmmaking"
 pubDate: "2017-05-09"
 description: "What We Talk About When We Talk About Filmmaking"

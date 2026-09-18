@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE CAMPUS"
 pubDate: "2018-03-04"
 categories: 

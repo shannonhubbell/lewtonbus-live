@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: Star Wars: The Last Jedi"
 pubDate: "2017-12-14"
 categories: 

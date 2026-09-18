@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ONWARD"
 pubDate: "2020-03-06"
 categories: 

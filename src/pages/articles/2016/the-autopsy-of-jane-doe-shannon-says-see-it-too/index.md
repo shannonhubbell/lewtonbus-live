@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE AUTOPSY OF JANE DOE: Shannon says see it, too!"
 pubDate: "2016-12-24"
 categories: 

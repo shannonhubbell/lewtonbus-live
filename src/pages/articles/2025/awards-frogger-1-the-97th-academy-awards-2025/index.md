@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Awards Frogger #1 - The 97th Academy Awards (2025)"
 pubDate: "2025-02-28"
 description: "Awards Frogger #1 - The 97th Academy Awards (2025)"

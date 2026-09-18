@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Phoenix Film Festival Review: THE NIGHT WATCHMEN"
 pubDate: "2017-04-25"
 description: "Phoenix Film Festival Review: THE NIGHT WATCHMEN"

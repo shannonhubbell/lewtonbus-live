@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 3: SHOOT THE PIANO PLAYER"
 pubDate: "2020-04-16"
 categories: 

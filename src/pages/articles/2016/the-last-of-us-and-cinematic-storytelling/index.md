@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE LAST OF US and Cinematic Storytelling"
 pubDate: "2016-12-21"
 categories: 

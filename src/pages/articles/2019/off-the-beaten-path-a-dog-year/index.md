@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off The Beaten Path: A DOG YEAR"
 pubDate: "2019-07-06"
 categories: 

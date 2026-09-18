@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "DIE HARD With a Podcast, Episodes 1 and 2"
 pubDate: "2018-09-24"
 categories: 

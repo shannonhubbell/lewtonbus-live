@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: HOBBS & SHAW"
 pubDate: "2019-08-02"
 categories: 

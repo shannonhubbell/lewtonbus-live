@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: OCEAN'S EIGHT"
 pubDate: "2018-06-08"
 categories: 

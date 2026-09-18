@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars on Film - Special Edition: ALLIED"
 pubDate: "2016-11-24"
 categories: 

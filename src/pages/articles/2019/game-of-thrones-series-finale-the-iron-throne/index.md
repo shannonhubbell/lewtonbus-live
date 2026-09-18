@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "GAME OF THRONES Series Finale: \"The Iron Throne\""
 pubDate: "2019-05-20"
 categories: 

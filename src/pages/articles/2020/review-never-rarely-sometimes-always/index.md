@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: NEVER RARELY SOMETIMES ALWAYS"
 pubDate: "2020-04-02"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BOHEMIAN RHAPSODY"
 pubDate: "2018-11-04"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: CREED III"
 pubDate: "2023-03-03"
 categories: 

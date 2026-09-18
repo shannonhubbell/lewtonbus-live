@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spoilerdome: THE LAST JEDI"
 pubDate: "2017-12-15"
 categories: 

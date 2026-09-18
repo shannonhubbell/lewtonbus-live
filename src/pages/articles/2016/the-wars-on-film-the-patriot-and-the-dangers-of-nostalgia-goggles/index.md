@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Wars on Film: The Patriot and The Dangers of Nostalgia Goggles"
 pubDate: "2016-07-07"
 categories: 

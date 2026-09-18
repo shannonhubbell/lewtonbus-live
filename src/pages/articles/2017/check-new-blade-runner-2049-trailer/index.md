@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Check Out the New BLADE RUNNER 2049 Trailer"
 pubDate: "2017-05-08"
 categories: 

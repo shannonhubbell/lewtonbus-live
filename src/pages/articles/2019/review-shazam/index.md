@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SHAZAM!"
 pubDate: "2019-04-05"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: AVATAR: THE LAST AIRBENDER - How the Fire Nation Nearly Won With Their Navy"
 pubDate: "2020-05-29"
 categories: 

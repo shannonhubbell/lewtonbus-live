@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: JIRO DREAMS OF SUSHI"
 pubDate: "2016-10-07"
 categories: 

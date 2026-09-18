@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "A Critical Response to a Critical Response to INFINITY WAR"
 pubDate: "2018-05-08"
 categories: 

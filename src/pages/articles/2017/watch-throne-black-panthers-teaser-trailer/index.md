@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Watch the Throne in BLACK PANTHER's Teaser Trailer"
 pubDate: "2017-06-10"
 description: "Watch the Throne in BLACK PANTHER's Teaser Trailer"

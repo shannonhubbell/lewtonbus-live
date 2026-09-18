@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: TRANSFORMERS: THE LAST KNIGHT"
 pubDate: "2017-06-23"
 categories: 

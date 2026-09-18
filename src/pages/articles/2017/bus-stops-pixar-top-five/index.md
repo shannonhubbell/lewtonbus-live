@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: The Pixar Top Five"
 pubDate: "2017-06-19"
 categories: 

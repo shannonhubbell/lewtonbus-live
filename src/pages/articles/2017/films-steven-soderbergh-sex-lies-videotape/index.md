@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Films of Steven Soderbergh: SEX, LIES &amp; VIDEOTAPE"
 pubDate: "2017-08-14"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BLACK MIRROR Season Four Review: “Crocodile”"
 pubDate: "2018-02-12"
 categories: 

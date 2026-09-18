@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "This THE DEATH OF STALIN Trailer is Unanimously Great"
 pubDate: "2017-08-12"
 categories: 

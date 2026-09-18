@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE NATIONAL BOARD WITH A NAIL IN IT Special Report: Best Motorcycle Fights"
 pubDate: "2019-05-16"
 categories: 

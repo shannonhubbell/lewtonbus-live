@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Phoenix Film Festival Review: BLINDSPOTTING"
 pubDate: "2018-04-19"
 categories: 

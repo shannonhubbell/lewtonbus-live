@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: MAZE RUNNER: THE DEATH CURE"
 pubDate: "2018-01-28"
 categories: 

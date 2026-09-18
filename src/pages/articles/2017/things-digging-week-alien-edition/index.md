@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Things We're Digging This Week - ALIEN Edition"
 pubDate: "2017-05-19"
 description: "Things We're Digging This Week - ALIEN Edition"

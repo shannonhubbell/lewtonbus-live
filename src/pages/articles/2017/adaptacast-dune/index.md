@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Adaptation Station: DUNE"
 pubDate: "2017-11-16"
 description: "Adaptation Station: DUNE"

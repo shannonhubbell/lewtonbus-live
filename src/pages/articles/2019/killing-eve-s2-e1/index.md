@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "KILLING EVE Season 2, Episode 1 - \"Do You Know How to Dispose of a Body?\""
 pubDate: "2019-04-15"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Nicolas Roeg, 1928-2018, Will Continue to Haunt Us"
 pubDate: "2018-11-24"
 categories: 

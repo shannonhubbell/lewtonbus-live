@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Films We’re Digging This Year (So Far) - 2019 Edition"
 pubDate: "2019-06-28"
 categories: 

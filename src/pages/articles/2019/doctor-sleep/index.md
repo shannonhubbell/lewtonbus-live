@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: DOCTOR SLEEP"
 pubDate: "2019-11-10"
 categories: 

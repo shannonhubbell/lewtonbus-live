@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BABY DRIVER"
 pubDate: "2017-06-29"
 categories: 

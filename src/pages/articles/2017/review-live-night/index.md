@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: LIVE BY NIGHT"
 pubDate: "2017-01-17"
 categories: 

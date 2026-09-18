@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JOHN WICK: CHAPTER 3 - PARABELLUM"
 pubDate: "2019-05-14"
 categories: 

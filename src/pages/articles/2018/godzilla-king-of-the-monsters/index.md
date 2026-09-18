@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Bow To Your King. The Trailer for GODZILLA: KING OF THE MONSTERS has arrived"
 pubDate: "2018-07-21"
 categories: 

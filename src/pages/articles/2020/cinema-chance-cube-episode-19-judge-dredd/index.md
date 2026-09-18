@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 19: JUDGE DREDD"
 pubDate: "2020-08-08"
 categories: 

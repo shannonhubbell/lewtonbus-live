@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "PILLARS OF ETERNITY and Player Motivation"
 pubDate: "2016-11-04"
 categories: 

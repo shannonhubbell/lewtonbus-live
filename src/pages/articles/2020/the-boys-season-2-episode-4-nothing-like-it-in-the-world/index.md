@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE BOYS, Season 2 – Episode 4: \"Nothing Like It In The World\""
 pubDate: "2020-09-12"
 categories: 

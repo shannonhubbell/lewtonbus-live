@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE HAMILTON MIXTAPE"
 pubDate: "2016-12-06"
 description: "Review: THE HAMILTON MIXTAPE"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Michael Jai White Reveals THE OUTLAW JOHNNY BLACK"
 pubDate: "2018-03-02"
 categories: 

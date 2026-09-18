@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "5 Must-See Holiday Horrors"
 pubDate: "2017-12-22"
 description: "5 Must-See Holiday Horrors"

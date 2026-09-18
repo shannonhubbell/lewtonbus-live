@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Films of Steven Soderbergh: THE UNDERNEATH"
 pubDate: "2017-08-17"
 description: "The Films of Steven Soderbergh: THE UNDERNEATH"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "In and Out: How the Assembly Cut of ALIEN CUBED Subverts the Endings of its Predecessors"
 pubDate: "2017-05-20"
 categories: 

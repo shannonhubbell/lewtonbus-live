@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Send in the Clowns: The First Trailer for JOKER Is Here"
 pubDate: "2019-04-03"
 categories: 

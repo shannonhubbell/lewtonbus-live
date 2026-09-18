@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Now vs. Then: RISE OF THE UNDEAD"
 pubDate: "2020-10-14"
 categories: 

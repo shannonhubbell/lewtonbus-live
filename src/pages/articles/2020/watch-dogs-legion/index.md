@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: WATCH DOGS: LEGION"
 pubDate: "2020-12-11"
 categories: 

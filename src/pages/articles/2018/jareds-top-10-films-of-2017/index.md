@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Jared’s Top 10 Films of 2017"
 pubDate: "2018-01-01"
 description: "Jared’s Top 10 Films of 2017"

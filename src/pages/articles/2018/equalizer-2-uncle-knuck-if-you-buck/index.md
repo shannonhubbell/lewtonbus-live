@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE EQUALIZER 2: Uncle Knuck If You Buck"
 pubDate: "2018-07-20"
 categories: 

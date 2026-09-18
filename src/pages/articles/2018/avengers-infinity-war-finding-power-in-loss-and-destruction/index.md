@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "AVENGERS: INFINITY WAR: Finding Power in Loss and Destruction"
 pubDate: "2018-05-11"
 categories: 

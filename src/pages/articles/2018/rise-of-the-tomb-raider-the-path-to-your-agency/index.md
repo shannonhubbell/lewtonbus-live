@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "RISE OF THE TOMB RAIDER: The Path to Agency"
 pubDate: "2018-03-13"
 categories: 

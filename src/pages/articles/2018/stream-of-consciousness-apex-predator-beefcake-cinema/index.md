@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: The Apex PREDATOR of Beefcake Cinema"
 pubDate: "2018-09-12"
 categories: 

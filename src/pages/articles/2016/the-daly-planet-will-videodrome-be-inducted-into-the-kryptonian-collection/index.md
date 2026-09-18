@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Daly Planet: Will VIDEODROME Be Inducted into the Kryptonian Collection?"
 pubDate: "2016-10-21"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was An Idea… Depression and Duty in CAPTAIN AMERICA: THE WINTER SOLDIER"
 pubDate: "2018-03-29"
 categories: 

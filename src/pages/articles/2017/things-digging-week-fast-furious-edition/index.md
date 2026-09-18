@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Things We're Digging This Week - FAST & FURIOUS Edition"
 pubDate: "2017-04-14"
 description: "Things We're Digging This Week - FAST & FURIOUS Edition"

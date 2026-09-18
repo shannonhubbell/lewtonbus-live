@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Buckle Up! There's Going to be a FAST AND THE FURIOUS Animated Series!"
 pubDate: "2018-04-23"
 categories: 

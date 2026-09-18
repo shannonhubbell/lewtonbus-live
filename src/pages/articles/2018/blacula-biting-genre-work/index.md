@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BLACULA: Biting Genre Work"
 pubDate: "2018-02-13"
 description: "BLACULA: Biting Genre Work"

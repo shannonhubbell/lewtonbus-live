@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Guillermo del Toro is Making a Non-Ninja Movie With J.J. Abrams!"
 pubDate: "2019-03-02"
 categories: 

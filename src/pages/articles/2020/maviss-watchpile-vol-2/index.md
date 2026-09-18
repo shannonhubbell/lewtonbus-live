@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Mavis’s Watchpile, Vol. 2"
 pubDate: "2020-06-09"
 categories: 

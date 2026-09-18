@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Best of the Marvel Cinematic Universe"
 pubDate: "2019-04-30"
 categories: 

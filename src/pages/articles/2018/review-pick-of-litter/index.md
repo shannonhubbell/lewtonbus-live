@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: PICK OF THE LITTER"
 pubDate: "2018-09-08"
 categories: 

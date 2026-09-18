@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Influence of BATMAN BEGINS"
 pubDate: "2019-03-30"
 categories: 

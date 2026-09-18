@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SNAKE EYES"
 pubDate: "2021-07-30"
 categories: 

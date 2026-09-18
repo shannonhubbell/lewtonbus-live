@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spoilerdome: SPIDER-MAN: HOMECOMING"
 pubDate: "2017-07-08"
 categories: 

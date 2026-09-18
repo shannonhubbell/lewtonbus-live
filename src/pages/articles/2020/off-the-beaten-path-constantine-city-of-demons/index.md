@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Off The Beaten Path: CONSTANTINE: CITY OF DEMONS"
 pubDate: "2020-05-16"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE BOYS, Season 2 - Episodes 1-3"
 pubDate: "2020-09-08"
 categories: 

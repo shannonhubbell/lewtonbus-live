@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "J. Horton On: How Filmmakers Make Money on Amazon Prime"
 pubDate: "2020-03-23"
 categories: 

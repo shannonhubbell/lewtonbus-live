@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ASSASSIN'S CREED: ORIGINS"
 pubDate: "2017-12-20"
 categories: 

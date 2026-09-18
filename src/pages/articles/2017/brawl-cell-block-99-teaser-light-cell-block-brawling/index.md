@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The BRAWL IN CELL BLOCK 99 Teaser is Light on Cell Block Brawling"
 pubDate: "2017-08-30"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE PREDATOR"
 pubDate: "2018-09-14"
 categories: 

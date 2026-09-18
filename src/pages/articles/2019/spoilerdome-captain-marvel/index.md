@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spoilerdome: CAPTAIN MARVEL"
 pubDate: "2019-03-09"
 categories: 

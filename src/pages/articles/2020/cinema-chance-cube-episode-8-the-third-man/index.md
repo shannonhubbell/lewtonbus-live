@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube, Episode 8: THE THIRD MAN"
 pubDate: "2020-05-21"
 categories: 

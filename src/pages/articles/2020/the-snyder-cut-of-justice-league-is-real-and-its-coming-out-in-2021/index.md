@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Snyder Cut of JUSTICE LEAGUE Is Real, and It’s Coming out in 2021"
 pubDate: "2020-05-20"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "I Don't Know But I Been Told / Steven Soderbergh Has Me Down Cold"
 pubDate: "2017-08-18"
 categories: 

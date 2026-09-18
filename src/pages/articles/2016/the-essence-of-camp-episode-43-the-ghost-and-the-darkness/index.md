@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp, Episode 43: THE GHOST AND THE DARKNESS"
 pubDate: "2016-12-08"
 description: "The Essence of Camp, Episode 43: THE GHOST AND THE DARKNESS"

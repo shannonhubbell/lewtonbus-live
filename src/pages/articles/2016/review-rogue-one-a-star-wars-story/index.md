@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ROGUE ONE - A STAR WARS STORY"
 pubDate: "2016-12-16"
 categories: 

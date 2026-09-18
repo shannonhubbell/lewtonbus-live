@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Tanner's 2016 Horror Top 5"
 pubDate: "2016-12-31"
 description: "Tanner's 2016 Horror Top 5"

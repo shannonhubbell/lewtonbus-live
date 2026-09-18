@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Writing WRATH: Inventing Character, Setting and Story"
 pubDate: "2017-05-31"
 description: "Writing WRATH: Inventing Character, Setting and Story"

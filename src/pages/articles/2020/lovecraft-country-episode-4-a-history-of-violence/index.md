@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOVECRAFT COUNTRY, Episode 4: \"A History of Violence\""
 pubDate: "2020-09-10"
 categories: 

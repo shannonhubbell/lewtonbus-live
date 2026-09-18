@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOVECRAFT COUNTRY, Episode 1: \"Sundown\""
 pubDate: "2020-08-24"
 categories: 

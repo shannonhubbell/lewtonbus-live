@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fireside Chats: Discussing Jack Ryan, \"Inshallah\""
 pubDate: "2018-09-24"
 description: "Fireside Chats: Discussing Jack Ryan, \"Inshallah\""

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ROADRUNNER: A FILM ABOUT ANTHONY BOURDAIN"
 pubDate: "2021-07-15"
 categories: 

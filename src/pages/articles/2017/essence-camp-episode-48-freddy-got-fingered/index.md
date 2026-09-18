@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp, Episode 48: FREDDY GOT FINGERED"
 pubDate: "2017-04-09"
 categories: 

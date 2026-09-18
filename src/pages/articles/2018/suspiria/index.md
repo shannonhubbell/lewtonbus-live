@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SUSPIRIA"
 pubDate: "2018-10-29"
 categories: 

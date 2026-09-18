@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ALPHA"
 pubDate: "2018-08-17"
 categories: 

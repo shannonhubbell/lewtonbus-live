@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: The Marvel Podcast-ematic Universe"
 pubDate: "2018-04-25"
 categories: 

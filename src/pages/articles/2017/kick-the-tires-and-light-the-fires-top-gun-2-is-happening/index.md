@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Kick the Tires and Light the Fires, TOP GUN 2 is Happening!"
 pubDate: "2017-05-24"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Scottsdale International Film Festival: LION"
 pubDate: "2016-10-13"
 categories: 

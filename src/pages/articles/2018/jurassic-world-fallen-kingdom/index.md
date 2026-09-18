@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JURASSIC WORLD: FALLEN KINGDOM"
 pubDate: "2018-06-22"
 categories: 

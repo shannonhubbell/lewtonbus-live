@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BRITTANY RUNS A MARATHON"
 pubDate: "2019-08-30"
 categories: 

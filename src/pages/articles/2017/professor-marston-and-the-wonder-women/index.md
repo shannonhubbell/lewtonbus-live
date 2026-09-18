@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: PROFESSOR MARSTON AND THE WONDER WOMEN"
 pubDate: "2017-10-15"
 categories: 

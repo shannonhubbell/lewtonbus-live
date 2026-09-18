@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "F9: Justice for Han"
 pubDate: "2020-01-31"
 categories: 

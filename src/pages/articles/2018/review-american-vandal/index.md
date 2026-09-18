@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: AMERICAN VANDAL"
 pubDate: "2018-09-25"
 categories: 

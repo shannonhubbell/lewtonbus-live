@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Things We're Digging - 2018 Oscars Edition"
 pubDate: "2019-02-23"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Sir Roger Moore (1927-2017)"
 pubDate: "2017-05-23"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "We Need to Talk About This DEEP BLUE SEA 2 Trailer"
 pubDate: "2018-01-29"
 categories: 

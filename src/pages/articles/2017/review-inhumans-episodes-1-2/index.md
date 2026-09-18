@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: INHUMANS, Episodes 1 and 2"
 pubDate: "2017-09-30"
 categories: 

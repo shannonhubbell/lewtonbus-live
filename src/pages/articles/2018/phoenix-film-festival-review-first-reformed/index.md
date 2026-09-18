@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Phoenix Film Festival Review: FIRST REFORMED"
 pubDate: "2018-04-11"
 categories: 

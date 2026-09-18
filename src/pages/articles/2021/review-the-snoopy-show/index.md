@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE SNOOPY SHOW"
 pubDate: "2021-03-20"
 categories: 

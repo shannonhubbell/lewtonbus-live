@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Event: ROAD WARRIOR at the Uptown Club"
 pubDate: "2019-03-21"
 categories: 

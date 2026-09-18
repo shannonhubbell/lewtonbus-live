@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE CIRCLE"
 pubDate: "2017-05-02"
 description: "Review: THE CIRCLE"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LIFE Review: The Banal Frontier"
 pubDate: "2017-03-25"
 description: "LIFE Review: The Banal Frontier"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: WHAT HAPPENED TO MONDAY"
 pubDate: "2017-08-22"
 categories: 

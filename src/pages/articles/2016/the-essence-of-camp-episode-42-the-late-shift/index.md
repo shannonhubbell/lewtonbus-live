@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp, Episode 42: THE LATE SHIFT"
 pubDate: "2016-11-30"
 description: "The Essence of Camp, Episode 42: THE LATE SHIFT"

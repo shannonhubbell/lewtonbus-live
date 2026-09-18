@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "DREDD and the War on Drugs"
 pubDate: "2018-02-27"
 categories: 

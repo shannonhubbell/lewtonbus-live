@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LOVECRAFT COUNTRY Episode 8: \"Jig-A-Bobo\""
 pubDate: "2020-10-08"
 categories: 

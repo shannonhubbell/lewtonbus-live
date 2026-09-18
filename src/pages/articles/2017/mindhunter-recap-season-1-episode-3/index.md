@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "MINDHUNTER Recap: Season 1 Episode 3"
 pubDate: "2017-10-23"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE BUS STOPS HERE: Remembering George A. Romero"
 pubDate: "2017-07-31"
 description: "THE BUS STOPS HERE: Remembering George A. Romero"

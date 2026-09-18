@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Westerns 101 — A Bit of History"
 pubDate: "2018-08-03"
 categories: 

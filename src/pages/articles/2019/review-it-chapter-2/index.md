@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: IT: CHAPTER TWO"
 pubDate: "2019-09-06"
 categories: 

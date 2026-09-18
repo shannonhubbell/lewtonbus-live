@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fantastic Fest Review: HEADSHOT"
 pubDate: "2016-10-14"
 categories: 

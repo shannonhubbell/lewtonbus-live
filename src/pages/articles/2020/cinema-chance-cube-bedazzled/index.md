@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube Episode 2: BEDAZZLED"
 pubDate: "2020-04-09"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here, Episode 1: LA LA LAND"
 pubDate: "2017-02-02"
 categories: 

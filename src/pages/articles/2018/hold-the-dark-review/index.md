@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: HOLD THE DARK"
 pubDate: "2018-09-29"
 description: "Review: HOLD THE DARK"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BLACK WIDOW"
 pubDate: "2021-07-13"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review - ANNABELLE: CREATION"
 pubDate: "2017-08-11"
 categories: 

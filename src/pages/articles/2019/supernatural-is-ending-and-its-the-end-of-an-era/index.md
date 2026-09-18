@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "SUPERNATURAL is Ending and it's the End of an Era"
 pubDate: "2019-03-22"
 categories: 

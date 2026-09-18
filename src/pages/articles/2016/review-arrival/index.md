@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ARRIVAL"
 pubDate: "2016-11-16"
 categories: 

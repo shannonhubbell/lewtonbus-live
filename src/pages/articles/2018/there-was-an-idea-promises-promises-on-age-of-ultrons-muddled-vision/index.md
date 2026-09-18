@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was An Idea... Promises, Promises - On AGE OF ULTRON's Muddled Vision"
 pubDate: "2018-04-05"
 categories: 

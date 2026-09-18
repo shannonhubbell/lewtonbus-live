@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "PREHISTORIC PLANET is Returning to Apple TV, to the Joy of Dinosaur Dorks Everywhere"
 pubDate: "2023-03-03"
 categories: 

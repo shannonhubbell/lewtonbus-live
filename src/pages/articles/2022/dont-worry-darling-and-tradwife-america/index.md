@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "DON'T WORRY DARLING and Tradwife America"
 pubDate: "2022-11-11"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: TOP GUN: MAVERICK"
 pubDate: "2022-06-14"
 categories: 

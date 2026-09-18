@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Terminator, Technophobia and Timeliness"
 pubDate: "2018-10-11"
 categories: 

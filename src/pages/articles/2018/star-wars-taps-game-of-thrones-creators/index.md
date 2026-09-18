@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "STAR WARS Taps GAME OF THRONES Creators"
 pubDate: "2018-02-07"
 categories: 

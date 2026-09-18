@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Films of Christmas Past: BETTER OFF DEAD"
 pubDate: "2016-12-22"
 categories: 

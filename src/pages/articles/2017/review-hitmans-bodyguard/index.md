@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "REVIEW - THE HITMAN'S BODYGUARD"
 pubDate: "2017-08-15"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review - OLD"
 pubDate: "2021-07-23"
 categories: 

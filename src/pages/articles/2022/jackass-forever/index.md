@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: JACKASS FOREVER"
 pubDate: "2022-02-05"
 description: "Review: JACKASS FOREVER"

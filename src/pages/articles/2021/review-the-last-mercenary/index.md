@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE LAST MERCENARY"
 pubDate: "2021-07-31"
 categories: 

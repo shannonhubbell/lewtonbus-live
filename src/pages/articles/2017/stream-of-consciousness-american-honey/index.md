@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: AMERICAN HONEY and the Gift of Empathy"
 pubDate: "2017-11-30"
 description: "Stream of Consciousness: AMERICAN HONEY and the Gift of Empathy"

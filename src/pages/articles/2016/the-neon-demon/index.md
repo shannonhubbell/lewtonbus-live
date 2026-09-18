@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE NEON DEMON"
 pubDate: "2016-07-25"
 categories: 

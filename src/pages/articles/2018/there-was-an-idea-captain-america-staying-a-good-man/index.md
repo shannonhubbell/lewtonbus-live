@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "There Was An Idea... Captain America: Staying a Good Man"
 pubDate: "2018-04-10"
 categories: 

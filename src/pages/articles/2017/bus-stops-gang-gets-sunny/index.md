@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Bus Stops Here: The Gang Gets SUNNY"
 pubDate: "2017-05-27"
 description: "The Bus Stops Here: The Gang Gets SUNNY"

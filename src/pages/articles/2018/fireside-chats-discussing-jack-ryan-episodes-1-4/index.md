@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fireside Chats: Discussing JACK RYAN, Episodes 1-4"
 pubDate: "2018-09-14"
 categories: 

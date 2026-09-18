@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: BRIAN BANKS"
 pubDate: "2019-08-08"
 categories: 

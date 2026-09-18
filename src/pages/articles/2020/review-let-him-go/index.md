@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: LET HIM GO"
 pubDate: "2020-11-06"
 categories: 

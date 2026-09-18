@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review - ALIEN: COVENANT"
 pubDate: "2017-05-19"
 categories: 

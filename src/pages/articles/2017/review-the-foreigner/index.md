@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE FOREIGNER"
 pubDate: "2017-10-13"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: PIRATES OF THE CARIBBEAN: DEAD MEN TELL NO TALES"
 pubDate: "2017-05-26"
 categories: 

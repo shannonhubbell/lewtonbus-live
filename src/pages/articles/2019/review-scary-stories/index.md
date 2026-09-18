@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SCARY STORIES TO TELL IN THE DARK"
 pubDate: "2019-08-09"
 categories: 

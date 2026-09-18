@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: SKYSCRAPER"
 pubDate: "2018-07-13"
 categories: 

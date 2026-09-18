@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: KNIVES OUT"
 pubDate: "2019-11-21"
 categories: 

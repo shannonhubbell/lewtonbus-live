@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ATOMIC BLONDE"
 pubDate: "2017-07-28"
 categories: 

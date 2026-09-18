@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Cutting Room: CAT PEOPLE"
 pubDate: "2018-01-22"
 categories: 

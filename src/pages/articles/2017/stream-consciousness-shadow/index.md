@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Stream of Consciousness: UNDER THE SHADOW"
 pubDate: "2017-01-11"
 categories: 

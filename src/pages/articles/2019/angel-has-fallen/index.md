@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: ANGEL HAS FALLEN"
 pubDate: "2019-08-22"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: 1917"
 pubDate: "2020-01-08"
 categories: 

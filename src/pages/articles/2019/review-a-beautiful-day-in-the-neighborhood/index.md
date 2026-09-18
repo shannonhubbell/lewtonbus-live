@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: A BEAUTIFUL DAY IN THE NEIGHBORHOOD"
 pubDate: "2019-11-22"
 categories: 

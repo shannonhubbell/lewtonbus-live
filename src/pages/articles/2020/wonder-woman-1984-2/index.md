@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: WONDER WOMAN 1984"
 pubDate: "2020-12-18"
 categories: 

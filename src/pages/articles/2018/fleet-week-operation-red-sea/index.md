@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: OPERATION RED SEA"
 pubDate: "2018-05-26"
 categories: 

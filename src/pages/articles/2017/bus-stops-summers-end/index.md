@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "THE BUS STOPS HERE: Summer's End"
 pubDate: "2017-08-28"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LA LA LAND and the Magic of Cinema"
 pubDate: "2017-01-03"
 categories: 

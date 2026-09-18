@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The First Trailer for Jim Jarmusch’s THE DEAD DON’T DIE Rises From the Grave"
 pubDate: "2019-04-01"
 categories: 

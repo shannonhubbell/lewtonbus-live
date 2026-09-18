@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Jon's Top Ten Movies of 2017"
 pubDate: "2018-01-18"
 categories: 

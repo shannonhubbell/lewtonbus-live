@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Trailer for the SUSPIRIA Remake Delivers and Then Some"
 pubDate: "2018-06-04"
 categories: 

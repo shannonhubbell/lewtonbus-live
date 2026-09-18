@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Cinema Chance Cube Episode 1: I COME IN PEACE"
 pubDate: "2020-04-03"
 categories: 

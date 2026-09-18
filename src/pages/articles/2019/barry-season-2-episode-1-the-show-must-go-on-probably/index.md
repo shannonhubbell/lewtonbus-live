@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "BARRY: Season 2, Episode 1, “The Show Must Go On, Probably?”"
 pubDate: "2019-04-01"
 categories: 

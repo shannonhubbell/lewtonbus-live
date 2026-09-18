@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Spoilerdome - ALIEN: COVENANT"
 pubDate: "2017-05-20"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: PACIFIC RIM UPRISING"
 pubDate: "2018-03-23"
 categories: 

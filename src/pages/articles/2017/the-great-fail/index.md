@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Great Fail"
 pubDate: "2017-03-01"
 categories: 

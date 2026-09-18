@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Fleet Week: 300: RISE OF AN EMPIRE"
 pubDate: "2017-05-27"
 description: "Fleet Week: 300: RISE OF AN EMPIRE"

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The 50th Anniversary of PLANET OF THE APES and 2001: A SPACE ODYSSEY"
 pubDate: "2018-04-03"
 categories: 

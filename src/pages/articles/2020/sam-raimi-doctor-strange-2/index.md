@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Miracle: Sam Raimi To Direct DOCTOR STRANGE 2"
 pubDate: "2020-02-06"
 categories: 

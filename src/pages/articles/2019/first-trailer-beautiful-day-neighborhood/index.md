@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The First Trailer for A BEAUTIFUL DAY IN THE NEIGHBORHOOD Will Make You Cry"
 pubDate: "2019-07-23"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "LEGENDS OF TOMORROW and SUPERNATURAL are Crossing Over. Sort Of."
 pubDate: "2020-03-14"
 categories: 

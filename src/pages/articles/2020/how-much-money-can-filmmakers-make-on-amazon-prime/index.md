@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "J. Horton On: How Much Money Can Filmmakers Make on Amazon Prime?"
 pubDate: "2020-04-01"
 categories: 

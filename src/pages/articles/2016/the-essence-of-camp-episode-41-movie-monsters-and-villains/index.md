@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "The Essence of Camp Episode 41: Movie Monsters and Villains"
 pubDate: "2016-11-17"
 categories: 

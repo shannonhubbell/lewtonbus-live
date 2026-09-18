@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE VAST OF NIGHT"
 pubDate: "2020-05-29"
 categories: 

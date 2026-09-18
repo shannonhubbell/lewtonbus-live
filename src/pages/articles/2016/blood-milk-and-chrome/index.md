@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Blood, Milk and Chrome"
 pubDate: "2016-06-30"
 categories: 

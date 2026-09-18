@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Dad Media Month: Bauer, Ryan, and Fear of America"
 pubDate: "2018-09-17"
 categories: 

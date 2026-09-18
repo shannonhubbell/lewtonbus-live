@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Oscar Week: Looking Back at a Decade of Best Original Song"
 pubDate: "2017-02-23"
 categories: 

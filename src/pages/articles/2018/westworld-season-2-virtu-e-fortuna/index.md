@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WESTWORLD Season 2 - Virtù e Fortuna"
 pubDate: "2018-05-07"
 categories: 

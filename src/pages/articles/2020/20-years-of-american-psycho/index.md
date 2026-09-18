@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "20 Years of AMERICAN PSYCHO"
 pubDate: "2020-04-03"
 categories: 

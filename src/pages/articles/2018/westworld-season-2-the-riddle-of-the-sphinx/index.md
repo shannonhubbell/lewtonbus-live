@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "WESTWORLD Season 2 – The Riddle of the Sphinx"
 pubDate: "2018-05-14"
 categories: 

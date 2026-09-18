@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: CARS 3"
 pubDate: "2017-06-16"
 categories: 

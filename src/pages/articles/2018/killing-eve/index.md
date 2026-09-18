@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Women in Film: KILLING EVE is a Deadly Obsession"
 pubDate: "2018-06-12"
 categories: 

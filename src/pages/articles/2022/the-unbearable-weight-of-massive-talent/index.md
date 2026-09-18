@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: THE UNBEARABLE WEIGHT OF MASSIVE TALENT"
 pubDate: "2022-04-22"
 categories: 

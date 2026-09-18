@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "This Troublesome Priest: Midnight Mass, Fleabag, and The Sopranos"
 pubDate: "2021-11-25"
 categories: 

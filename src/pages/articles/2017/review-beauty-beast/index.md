@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review - BEAUTY AND THE BEAST"
 pubDate: "2017-03-17"
 categories: 

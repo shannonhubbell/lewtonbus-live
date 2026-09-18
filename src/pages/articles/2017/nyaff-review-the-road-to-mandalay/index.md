@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "NYAFF Review: THE ROAD TO MANDALAY"
 pubDate: "2017-07-04"
 description: "NYAFF Review: THE ROAD TO MANDALAY"

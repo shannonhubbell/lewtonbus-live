@@ -1,4 +1,5 @@
 ---
+layout: ../../../../layouts/ArticleLayout.astro
 title: "Review: I DON’T FEEL AT HOME IN THIS WORLD ANYMORE"
 pubDate: "2017-03-03"
 categories: 
