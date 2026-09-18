@@ -1,6 +1,6 @@
 # Lewton Bus
 
-This is the front end for the new (and hopefully improved) [Lewton Bus](https://lewtonbus.net). It deploys to Netlify and pulls content from Contentful.
+This is the front end for the new (and hopefully improved) [Lewton Bus](https://lewtonbus.net). Articles are in markdown format.
 
 # Astro Basics
 
