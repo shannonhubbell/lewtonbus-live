@@ -1,0 +1,29 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+
+const title = "Lewton Bus";
+const description = "Back and ready to brawl.";
+const bodytags = ["home"];
+---
+
+<Layout pageTitle={title} pageDescription={description} bodyTags={bodytags as []}>
+	
+</Layout>
+
+<style>
+	#home-wrapper {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		section {
+			width: 49%;
+		}
+		@media screen and (max-width: 700px) {
+			flex-direction: column-reverse;
+			section {
+				width: auto;
+			}
+		}
+	}
+</style>

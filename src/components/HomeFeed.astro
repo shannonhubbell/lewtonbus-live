@@ -1,0 +1,158 @@
+---
+const { posts, currentPage = 1, totalPages = 1 } = Astro.props;
+
+type Author = {
+	name?: string;
+	fields?: {
+		name?: string;
+	};
+};
+
+type HeaderImage = {
+	fields?: {
+		src: string;
+		file: {
+			url: string;
+		};
+	};
+};
+
+type Post = {
+	slug: string;
+	title: string;
+	description?: string;
+	authors?: Author[];
+	headerImage?: HeaderImage;
+};
+
+const typedPosts = posts as Post[];
+---
+
+<section id="home-feed">
+	{
+		typedPosts.map((post: Post) => (
+			
+			<>
+				<a href={`/articles/${post.slug}/`}>
+					<article>
+						<div class="thumb">
+							{post.headerImage?.fields?.file?.url && (
+								<img
+									src={post.headerImage.fields.file.url}
+									alt={post.title}
+									width={1200}
+									height={675}
+								/>
+							)}
+						</div>
+						<div class="copy">
+							<h1>{post.title}</h1>
+							<p class="description">{post.description}</p>
+							<p class="byline">
+								By:{" "}
+								{post.authors
+									?.map(
+										(author) =>
+											author.name ??
+											author.fields?.name ??
+											"",
+									)
+									.join(", ") ?? ""}
+							</p>
+						</div>
+					</article>
+				</a>
+			</>
+		))
+	}
+
+	{totalPages > 1 && (
+	<nav class="pagination" aria-label="Post pages">
+		{currentPage > 1 && <a href={currentPage === 2 ? "/" : `/page/${currentPage - 1}/`}>Previous</a>}
+		<span>Page {currentPage} of {totalPages}</span>
+		{currentPage < totalPages && <a href={`/page/${currentPage + 1}/`}>Next</a>}
+	</nav>
+)}
+</section>
+
+<style>
+	#home-feed {
+	}
+	.pagination {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: 1rem;
+		margin: 1.5rem 0;
+		font-size: 0.9rem;
+		text-transform: uppercase;
+	}
+	.pagination span {
+		opacity: 0.6;
+	}
+	a {
+		text-decoration: none;
+		margin-bottom: 1rem;
+		display: block;
+		transition: all .5s;
+		&:hover {
+			transform: scale(1.004);
+			box-shadow: 5px 5px 15px 4px rgba(0,0,0,0.17);
+		}
+		article {
+			display: grid;
+			grid-template-columns: 30% 2fr;
+			background: var(--color-highlight);
+			@media screen and (max-width: 700px) {
+				display: block;
+			}
+			.thumb {
+				height: 100%;
+				min-height: 150px;
+				background-color: #000;
+				overflow: hidden;
+				position: relative;
+				@media screen and (max-width: 700px) {
+					display: none;
+				}
+				img {
+					position: absolute;
+					left: 50%;
+					top: 50%;
+					transform: translate(-50%, -50%);
+					object-fit: cover;
+					width: 100%;
+					height: 100%;
+					object-position: center top; 
+				}
+			}
+			.copy {
+				padding: 1rem;
+				text-wrap: pretty;
+				vertical-align: middle;
+			}
+			h1 {
+				font-size: 1.2rem;
+				color: #FFF;
+				margin: 0 0 .5rem;
+				padding: 0;
+				line-height: 120%;
+				font-weight: normal;
+			}
+			.byline {
+				text-transform: uppercase;
+				font-size: 0.8rem;
+				margin: 0.5rem 0;
+				color: var(--color-background);
+				opacity: .5;
+			}
+			.description {
+				color: var(--color-background);
+				font-size: .9rem;
+				margin: 0;
+				padding: 0;
+				line-height: 150%;
+			}
+		}
+	}
+</style>

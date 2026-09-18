@@ -1,0 +1,25 @@
+html {
+    font-family: "Lexend", sans-serif;
+    --color-background: #FFF;
+    --color-text: #262322;
+    --color-highlight: #63372C;
+    --color-highsub: #C97D60;
+    background: var(--color-background);
+    color: var(--color-text);
+    font-size: 16px;
+    text-wrap: pretty;
+}
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1%;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+a {
+    color: var(--color-highlight);
+}

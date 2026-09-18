@@ -1,0 +1,60 @@
+---
+import Layout from "../layouts/Layout.astro";
+import HomeFeed from "../components/HomeFeed.astro";
+import HomeFeatured from "../components/HomeFeatured.astro";
+
+
+const title = "Who is Lewton Bus";
+const description = "Back and ready to brawl.";
+const bodytags = ["who"];
+---
+
+<Layout pageTitle={title} pageDescription={description} bodyTags={bodytags}>
+	<div id="home-wrapper">
+		<section>
+			<header>
+				<h1>Who is Lewton Bus?</h1>
+			</header>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+				Pellentesque vitae magna sagittis, fermentum eros viverra,
+				convallis mi. Integer fringilla augue et dictum consectetur.
+				Vivamus non lectus ut massa sagittis congue. Suspendisse vel
+				sapien scelerisque, rutrum lacus id, porttitor lectus. Praesent
+				posuere lorem quis mollis euismod. Quisque in tristique magna,
+				non tempus nibh. Curabitur at iaculis orci, ac tincidunt turpis.
+				Cras eget enim id dui posuere convallis. Vestibulum viverra
+				sapien ligula, ut ornare lacus faucibus venenatis. Sed hendrerit
+				justo ut molestie vehicula. Proin egestas luctus ultrices. Duis
+				vulputate justo at nibh mattis, nec viverra nulla consectetur.
+			</p>
+			<p>
+				Nunc quis mauris ultrices, consectetur tellus id, auctor mauris.
+				Duis quis eros rutrum, maximus arcu sit amet, finibus orci. Sed
+				lacinia purus justo, non mattis elit tristique sit amet. Aliquam
+				condimentum, mauris eget hendrerit accumsan, arcu velit molestie
+				purus, vitae accumsan nisl nisi eget arcu. Morbi nisl justo,
+				commodo nec libero et, bibendum fringilla dolor. Proin imperdiet
+				ipsum vel facilisis fermentum. Integer sollicitudin dui vitae
+				sodales auctor. Cras et diam ut felis vehicula tempus
+				consectetur sit amet arcu. In sed ullamcorper lacus.
+			</p>
+		</section>
+	</div>
+</Layout>
+
+<style>
+	#home-wrapper {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		section {
+			width: 49%;
+		}
+		@media screen and (max-width: 700px) {
+			section {
+				width: auto;
+			}
+		}
+	}
+</style>

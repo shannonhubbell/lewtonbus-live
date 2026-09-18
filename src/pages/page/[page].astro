@@ -1,0 +1,68 @@
+---
+import { getHomePosts, type Post } from "../../lib/homePosts";
+import Layout from "../../layouts/Layout.astro";
+import HomeFeed from "../../components/HomeFeed.astro";
+import HomeFeatured from "../../components/HomeFeatured.astro";
+
+export async function getStaticPaths() {
+	const postsPerPage = 5;
+	const posts = await getHomePosts();
+	const totalPages = Math.ceil(posts.length / postsPerPage);
+
+	return Array.from({ length: Math.max(0, totalPages - 1) }, (_, index) => {
+		const currentPage = index + 2;
+		return {
+			params: { page: String(currentPage) },
+			props: {
+				posts: posts.slice(index * postsPerPage + postsPerPage, currentPage * postsPerPage),
+				currentPage,
+				totalPages,
+				allPosts: posts,
+			},
+		};
+	});
+}
+
+const {
+	posts,
+	currentPage,
+	totalPages,
+	allPosts,
+}: {
+	posts: Post[];
+	currentPage: number;
+	totalPages: number;
+	allPosts: Post[];
+} = Astro.props;
+
+const title = "Lewton Bus";
+const description = "Back and ready to brawl.";
+---
+
+<Layout pageTitle={title} pageDescription={description}>
+	<div id="home-wrapper">
+		<HomeFeed
+			posts={posts}
+			currentPage={currentPage}
+			totalPages={totalPages}
+		/>
+		<HomeFeatured posts={allPosts} />
+	</div>
+</Layout>
+
+<style>
+	#home-wrapper {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		section {
+			width: 49%;
+		}
+		@media screen and (max-width: 700px) {
+			flex-direction: column-reverse;
+			section {
+				width: auto;
+			}
+		}
+	}
+</style>
